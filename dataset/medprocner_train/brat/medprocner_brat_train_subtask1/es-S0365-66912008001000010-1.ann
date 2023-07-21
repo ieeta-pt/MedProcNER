@@ -1,0 +1,25 @@
+T1	PROCEDIMIENTO 1127 1146	ecografía orbitaria
+T2	PROCEDIMIENTO 1363 1396	estudio analítico, de coagulación
+T3	PROCEDIMIENTO 1237 1251	punción lumbar
+T4	PROCEDIMIENTO 1539 1567	resonancia magnética nuclear
+T5	PROCEDIMIENTO 1151 1181	tomografía axial computerizada
+T6	PROCEDIMIENTO 1569 1572	RMN
+T7	PROCEDIMIENTO 1187 1208	perimetría automática
+T8	PROCEDIMIENTO 746 772	angiografía fluoresceínica
+T9	PROCEDIMIENTO 1576 1592	fleborresonancia
+T10	PROCEDIMIENTO 483 508	exploración oftalmológica
+T11	PROCEDIMIENTO 1318 1349	composición y serología del LCR
+T12	PROCEDIMIENTO 1824 1866	venografía y manometría de senos craneales
+T13	PROCEDIMIENTO 838 953	estudio de la capa de fibras nerviosas (estrategia fast RNFL) mediante tomografía de coherencia óptica (Stratus OCT
+T14	PROCEDIMIENTO 574 601	motilidad ocular intrínseca
+T15	PROCEDIMIENTO 214 225	analgésicos
+T16	PROCEDIMIENTO 603 636	exploración del segmento anterior
+T17	PROCEDIMIENTO 909 940	tomografía de coherencia óptica
+T18	PROCEDIMIENTO 942 953	Stratus OCT
+T19	PROCEDIMIENTO 2070 2097	dilatación por angioplastia
+T20	PROCEDIMIENTO 382 415	exploración general y neurológica
+T21	PROCEDIMIENTO 1468 1493	anticuerpos antitiroideos
+T22	PROCEDIMIENTO 686 705	examen funduscópico
+T23	PROCEDIMIENTO 1447 1465	hormonas tiroideas
+T24	PROCEDIMIENTO 148 169	maniobras de Valsalva
+T25	PROCEDIMIENTO 2100 2119	colocación de stent

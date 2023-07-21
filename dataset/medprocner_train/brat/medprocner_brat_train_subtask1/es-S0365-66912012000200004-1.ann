@@ -1,0 +1,16 @@
+T1	PROCEDIMIENTO 2569 2580	corticoides
+T2	PROCEDIMIENTO 810 824	biomicroscopia
+T3	PROCEDIMIENTO 1939 1950	paquimetría
+T4	PROCEDIMIENTO 964 976	fluoresceína
+T5	PROCEDIMIENTO 2793 2825	tinción positiva de fluoresceína
+T6	PROCEDIMIENTO 2863 2942	raspado corneal para cultivo y detección de proteína C reactiva de virus herpes
+T7	PROCEDIMIENTO 1083 1095	fondo de ojo
+T8	PROCEDIMIENTO 2158 2188	tomografía axial computarizada
+T9	PROCEDIMIENTO 2190 2193	TAC
+T10	PROCEDIMIENTO 474 490	trasplante renal
+T11	PROCEDIMIENTO 1242 1253	gonioscopia
+T12	PROCEDIMIENTO 3046 3069	análisis microbiológico
+T13	PROCEDIMIENTO 2658 2661	TAC
+T22	PROCEDIMIENTO 745 756	exploración
+T23	PROCEDIMIENTO 1315 1326	exploración
+#1	AnnotatorNotes T9	     TAC: tomografía axial computerizada

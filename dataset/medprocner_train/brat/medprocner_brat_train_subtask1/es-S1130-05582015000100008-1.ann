@@ -1,0 +1,24 @@
+T1	PROCEDIMIENTO 2428 2447	ecografía abdominal
+T2	PROCEDIMIENTO 3469 3482	quimioterapia
+T3	PROCEDIMIENTO 74 101	tratamiento antirretroviral
+T4	PROCEDIMIENTO 1163 1176	examen físico
+T5	PROCEDIMIENTO 2537 2555	biopsia escisional
+T6	PROCEDIMIENTO 2583 2605	examen histopatológico
+T7	PROCEDIMIENTO 390 418	tratamiento con antibióticos
+T8	PROCEDIMIENTO 2895 2913	inmunohistoquímica
+T9	PROCEDIMIENTO 1580 1621	Se palpaban adenomegalias submandibulares
+T10	PROCEDIMIENTO 1709 1722	examen físico
+T11	PROCEDIMIENTO 672 683	corticoides
+T12	PROCEDIMIENTO 1772 1783	Rx de tórax
+T13	PROCEDIMIENTO 792 810	drenaje quirúrgico
+T14	PROCEDIMIENTO 855 866	analgésicos
+T15	PROCEDIMIENTO 3289 3311	biopsia de médula ósea
+T16	PROCEDIMIENTO 895 906	antibiótico
+T17	PROCEDIMIENTO 3384 3388	Gram
+T18	PROCEDIMIENTO 3097 3121	estudios microbiológicos
+T19	PROCEDIMIENTO 2148 2158	serologías
+T20	PROCEDIMIENTO 3390 3397	Grocott
+T21	PROCEDIMIENTO 3400 3413	Ziehl Neelsen
+T22	PROCEDIMIENTO 421 453	antiinflamatorios no esteroideos
+T23	PROCEDIMIENTO 3496 3511	esquema EPOCH-R
+T24	PROCEDIMIENTO 3208 3235	diagnóstico histopatológico

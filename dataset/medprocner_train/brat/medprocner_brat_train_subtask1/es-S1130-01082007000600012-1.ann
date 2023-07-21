@@ -1,0 +1,29 @@
+T1	PROCEDIMIENTO 2449 2508	esplenectomía, que se realizó reglada por vía laparoscópica
+T2	PROCEDIMIENTO 1401 1420	ecografía abdominal
+T3	PROCEDIMIENTO 640 672	Auscultación cardiaca y pulmonar
+T4	PROCEDIMIENTO 1513 1532	TAC toracoabdominal
+T5	PROCEDIMIENTO 1085 1098	función renal
+T6	PROCEDIMIENTO 1101 1110	ionograma
+T7	PROCEDIMIENTO 1575 1597	estudios citogenéticos
+T8	PROCEDIMIENTO 1609 1634	serología hepática vírica
+T9	PROCEDIMIENTO 1663 1679	estudio hormonal
+T10	PROCEDIMIENTO 1727 1749	estudio de coagulación
+T11	PROCEDIMIENTO 1874 1887	proteinograma
+T12	PROCEDIMIENTO 2011 2031	marcadores tumorales
+T13	PROCEDIMIENTO 2093 2103	mamografía
+T14	PROCEDIMIENTO 2105 2117	colonoscopia
+T15	PROCEDIMIENTO 2119 2136	citología genital
+T16	PROCEDIMIENTO 2138 2160	biopsia de médula ósea
+T17	PROCEDIMIENTO 2195 2259	transfusión de 450 cc de concentrado de hematíes desleucotizados
+T18	PROCEDIMIENTO 2342 2353	analgésicos
+T19	PROCEDIMIENTO 2670 2690	retirada del drenaje
+T20	PROCEDIMIENTO 133 138	parto
+T21	PROCEDIMIENTO 1645 1652	mantoux
+T22	PROCEDIMIENTO 1820 1863	coombs directo eritrocitario poliespecífico
+T23	PROCEDIMIENTO 2703 2720	anatomopatológico
+T24	PROCEDIMIENTO 73 90	amigdalectomizada
+T25	PROCEDIMIENTO 93 110	adenoidectomizada
+T26	PROCEDIMIENTO 1688 1716	metabolitos del ácido fólico
+T28	PROCEDIMIENTO 1113 1129	Radiológicamente
+T29	PROCEDIMIENTO 1025 1035	bioquímica
+T30	PROCEDIMIENTO 484 495	exploración

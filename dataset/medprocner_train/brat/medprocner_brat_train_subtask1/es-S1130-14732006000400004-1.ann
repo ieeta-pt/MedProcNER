@@ -1,0 +1,15 @@
+T1	PROCEDIMIENTO 1815 1859	abrir el ligamento vertebral común posterior
+T2	PROCEDIMIENTO 1441 1443	RM
+T3	PROCEDIMIENTO 368 386	exploración física
+T4	PROCEDIMIENTO 576 608	radiografías de columna cervical
+T5	PROCEDIMIENTO 732 743	RM cervical
+T6	PROCEDIMIENTO 848 886	tomografía computarizada (TC) cervical
+T7	PROCEDIMIENTO 944 961	estudio analítico
+T8	PROCEDIMIENTO 1105 1116	gammagrafía
+T9	PROCEDIMIENTO 1273 1293	estudio radiográfico
+T10	PROCEDIMIENTO 1007 1016	hemograma
+T11	PROCEDIMIENTO 874 876	TC
+T12	PROCEDIMIENTO 1075 1099	metabolismo fosfocálcico
+T13	PROCEDIMIENTO 1648 1712	tratamiento quirúrgico de la hernia discal por vía anterolateral
+T14	PROCEDIMIENTO 1725 1732	cirugía
+T15	PROCEDIMIENTO 1968 1978	patológico

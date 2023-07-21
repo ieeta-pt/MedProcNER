@@ -1,0 +1,25 @@
+T1	PROCEDIMIENTO 1770 1806	análisis del líquido cefalorraquídeo
+T2	PROCEDIMIENTO 2012 2015	PCR
+T3	PROCEDIMIENTO 2103 2106	PCR
+T4	PROCEDIMIENTO 1715 1718	RMN
+T5	PROCEDIMIENTO 424 473	angioplastia transluminal de la coronaria derecha
+T6	PROCEDIMIENTO 2129 2140	carga viral
+T7	PROCEDIMIENTO 95 114	diálisis peritoneal
+T8	PROCEDIMIENTO 2654 2688	estudio radiográfico y urodinámico
+T9	PROCEDIMIENTO 1488 1506	exploración física
+T10	PROCEDIMIENTO 2409 2422	función renal
+T11	PROCEDIMIENTO 1875 1895	potenciales evocados
+T12	PROCEDIMIENTO 1975 2010	reacción en cadena de la polimerasa
+T13	PROCEDIMIENTO 1685 1713	resonancia magnética nuclear
+T14	PROCEDIMIENTO 43 53	trasplante
+T15	PROCEDIMIENTO 1144 1154	trasplante
+T16	PROCEDIMIENTO 2374 2384	trasplante
+T17	PROCEDIMIENTO 651 667	trasplante renal
+T18	PROCEDIMIENTO 346 371	tratamiento farmacológico
+T19	PROCEDIMIENTO 512 531	pruebas de esfuerzo
+T20	PROCEDIMIENTO 1945 1961	test serológicos
+T21	PROCEDIMIENTO 2784 2798	cistolitotomía
+T22	PROCEDIMIENTO 1963 1968	ELISA
+T25	PROCEDIMIENTO 836 843	injerto
+T47	PROCEDIMIENTO 576 614	Intervenido de criptorquídia bilateral
+T48	PROCEDIMIENTO 617 634	amigdalectomizado

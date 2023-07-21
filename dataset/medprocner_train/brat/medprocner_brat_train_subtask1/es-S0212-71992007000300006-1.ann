@@ -1,0 +1,12 @@
+T1	PROCEDIMIENTO 373 388	lavado gástrico
+T2	PROCEDIMIENTO 1345 1374	bolus de diazepam intravenoso
+T3	PROCEDIMIENTO 1463 1485	intubación orotraqueal
+T4	PROCEDIMIENTO 1539 1628	tratamiento con pralidoxima (12 g/día) y atropina (20 mg/día) ambas en perfusión continua
+T5	PROCEDIMIENTO 2042 2059	nutrición enteral
+T6	PROCEDIMIENTO 2420 2428	sedación
+T7	PROCEDIMIENTO 2769 2818	tratamiento con pralidoxima en perfusión continua
+T8	PROCEDIMIENTO 3131 3151	ventilación mecánica
+T9	PROCEDIMIENTO 3153 3155	VM
+T10	PROCEDIMIENTO 3231 3263	desconexiones graduales de la VM
+T11	PROCEDIMIENTO 3551 3573	desconexiones de la VM
+T12	PROCEDIMIENTO 3590 3600	extubación

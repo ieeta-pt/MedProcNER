@@ -1,0 +1,21 @@
+T1	PROCEDIMIENTO 494 512	exploración física
+T2	PROCEDIMIENTO 2018 2056	estudio de inmunofluorescencia directa
+T3	PROCEDIMIENTO 2058 2061	IFd
+T4	PROCEDIMIENTO 399 417	implantes dentales
+T5	PROCEDIMIENTO 156 215	tratamiento prolongado con antiinflamatorios no esteroideos
+T6	PROCEDIMIENTO 1608 1621	biopsia renal
+T7	PROCEDIMIENTO 1017 1029	Hemocultivos
+T8	PROCEDIMIENTO 1293 1308	ecografía renal
+T9	PROCEDIMIENTO 1369 1383	antibioterapia
+T10	PROCEDIMIENTO 1436 1444	diálisis
+T11	PROCEDIMIENTO 217 221	AINE
+T12	PROCEDIMIENTO 1787 1790	PAS
+T13	PROCEDIMIENTO 225 235	esteroides
+T14	PROCEDIMIENTO 1670 1688	microscopia óptica
+T15	PROCEDIMIENTO 833 858	perfil hepático, lipídico
+T17	PROCEDIMIENTO 2269 2298	Diagnóstico anatomopatológico
+T18	PROCEDIMIENTO 750 767	estudio analítico
+T19	PROCEDIMIENTO 370 394	tratamiento odontológico
+T20	PROCEDIMIENTO 2213 2237	estudio ultraestructural
+T21	PROCEDIMIENTO 977 1006	Serología para VHB, VHC y VIH
+T49	PROCEDIMIENTO 183 215	antiinflamatorios no esteroideos

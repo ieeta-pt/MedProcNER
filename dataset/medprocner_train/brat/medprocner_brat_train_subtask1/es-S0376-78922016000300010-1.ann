@@ -1,0 +1,29 @@
+T1	PROCEDIMIENTO 4200 4223	fisioterapia del cuello
+T2	PROCEDIMIENTO 3728 3735	colgajo
+T3	PROCEDIMIENTO 1709 1745	resección en bloque del neurofibroma
+T4	PROCEDIMIENTO 3362 3392	antibioticoterapia intravenosa
+T5	PROCEDIMIENTO 697 832	resonancia magnética con cortes axiales coronales y sagitales en secuencia Fast Spin Eco, potenciadas en T1, T2, GRE y T1 con gadolinio
+T6	PROCEDIMIENTO 1972 2026	restauración del defecto mediante disección subfascial
+T7	PROCEDIMIENTO 4270 4323	movimientos de flexo-extensión y laterales del cuello
+T8	PROCEDIMIENTO 2068 2114	colgajo libre anterolateral de muslo izquierdo
+T9	PROCEDIMIENTO 2069 2209	olgajo libre anterolateral de muslo izquierdo basado en 2 vasos perforantes de la rama descendente de la arteria femoral lateral circunfleja
+T10	PROCEDIMIENTO 2738 2751	transfusiones
+T11	PROCEDIMIENTO 1572 1637	marcaje preoperatorio para la resección completa del neurofibroma
+T12	PROCEDIMIENTO 3489 3527	tratamiento antinflamatorio/analgésico
+T13	PROCEDIMIENTO 1625 1657	neurofibroma y su reconstrucción
+T14	PROCEDIMIENTO 3917 3931	doppler manual
+T15	PROCEDIMIENTO 2827 2918	localizar 2 vasos perforantes en la zona del muslo izquierdo con un doppler acústico manual
+T16	PROCEDIMIENTO 3992 4021	anastomosis venosa y arterial
+T17	PROCEDIMIENTO 348 412	resecciones parciales y cobertura con colgajo acromial e injerto
+T18	PROCEDIMIENTO 2284 2355	anastomosis termino-terminal con nylon 9-0 a vasos tiroideos superiores
+T19	PROCEDIMIENTO 2959 2966	colgajo
+T20	PROCEDIMIENTO 2386 2420	transposición del colgajo acromial
+T21	PROCEDIMIENTO 522 534	radioterapia
+T22	PROCEDIMIENTO 2489 2519	colgajo anterolateral de muslo
+T23	PROCEDIMIENTO 3621 3655	dejamos drenaje abierto de Penrose
+T24	PROCEDIMIENTO 3028 3043	histopatológico
+T25	PROCEDIMIENTO 1357 1384	administración de gadolinio
+T26	PROCEDIMIENTO 1447 1474	intervenido quirúrgicamente
+T27	PROCEDIMIENTO 2895 2918	doppler acústico manual
+T28	PROCEDIMIENTO 4176 4185	resección
+T32	PROCEDIMIENTO 4246 4258	intervención

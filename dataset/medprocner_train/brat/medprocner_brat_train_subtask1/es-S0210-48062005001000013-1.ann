@@ -1,0 +1,33 @@
+T1	PROCEDIMIENTO 645 663	citología de orina
+T2	PROCEDIMIENTO 865 888	urografías intravenosas
+T3	PROCEDIMIENTO 1154 1165	cistoscopia
+T4	PROCEDIMIENTO 223 241	exploración física
+T5	PROCEDIMIENTO 2057 2061	PAAF
+T6	PROCEDIMIENTO 456 465	hemograma
+T7	PROCEDIMIENTO 479 490	coagulación
+T8	PROCEDIMIENTO 1629 1632	RNM
+T9	PROCEDIMIENTO 717 754	ecografía renal, vesical y prostática
+T10	PROCEDIMIENTO 1227 1246	TAC abdóminopélvica
+T11	PROCEDIMIENTO 3963 3966	RNM
+T12	PROCEDIMIENTO 528 545	Análisis de orina
+T13	PROCEDIMIENTO 323 335	tacto rectal
+T14	PROCEDIMIENTO 558 576	Sedimento urinario
+T15	PROCEDIMIENTO 1081 1098	cistouretrografía
+T16	PROCEDIMIENTO 2008 2033	inyección de contraste iv
+T17	PROCEDIMIENTO 2585 2608	biopsia intraoperatoria
+T18	PROCEDIMIENTO 2700 2714	prostatectomía
+T19	PROCEDIMIENTO 3528 3554	estudio inmunohistoquímico
+T20	PROCEDIMIENTO 3009 3026	Microscópicamente
+T21	PROCEDIMIENTO 1520 1547	administración de contraste
+T22	PROCEDIMIENTO 2805 2828	estudio histopatológico
+T23	PROCEDIMIENTO 2186 2207	extirpación del tumor
+T24	PROCEDIMIENTO 433 451	Análisis de sangre
+T25	PROCEDIMIENTO 467 477	bioquímica
+T26	PROCEDIMIENTO 622 632	Urocultivo
+T27	PROCEDIMIENTO 1879 1882	RNM
+T28	PROCEDIMIENTO 2215 2229	tacto bimanual
+T29	PROCEDIMIENTO 2258 2279	compresión prostática
+T30	PROCEDIMIENTO 2297 2326	incisión media infraumbilical
+T31	PROCEDIMIENTO 2329 2351	acceso extraperitoneal
+T32	PROCEDIMIENTO 2480 2514	apertura de la fascia endopelviana
+T33	PROCEDIMIENTO 2515 2554	se seccionó el fino pedículo prostático

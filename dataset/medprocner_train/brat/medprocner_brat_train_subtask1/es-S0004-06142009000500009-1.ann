@@ -1,0 +1,22 @@
+T1	PROCEDIMIENTO 2624 2659	tratamiento antibiótico intravenoso
+T2	PROCEDIMIENTO 1473 1502	radiografía simple de abdomen
+T3	PROCEDIMIENTO 80 103	hipoglucemiantes orales
+T4	PROCEDIMIENTO 616 634	exploración física
+T5	PROCEDIMIENTO 2176 2211	tratamiento antibiótico intravenoso
+T6	PROCEDIMIENTO 2739 2771	tratamiento antibiótico vía oral
+T7	PROCEDIMIENTO 696 751	palpación profunda en hipogastrio e hipocondrio derecho
+T8	PROCEDIMIENTO 2241 2257	sondaje urinario
+T9	PROCEDIMIENTO 2260 2293	control estricto de las glucemias
+T10	PROCEDIMIENTO 1644 1663	ecografía abdominal
+T11	PROCEDIMIENTO 2832 2846	sonda urinaria
+T12	PROCEDIMIENTO 2851 2861	urocultivo
+T13	PROCEDIMIENTO 2307 2326	TC abdómino-pélvico
+T14	PROCEDIMIENTO 1094 1103	hemograma
+T15	PROCEDIMIENTO 2913 2932	TC abdómino-pélvica
+T16	PROCEDIMIENTO 2441 2475	colangiopancreatografía retrógrada
+T17	PROCEDIMIENTO 1861 1871	urocultivo
+T18	PROCEDIMIENTO 2586 2595	ecografía
+T19	PROCEDIMIENTO 802 812	bioquímica
+T20	PROCEDIMIENTO 1339 1348	sedimento
+T21	PROCEDIMIENTO 1230 1259	análisis sistemático de orina
+T22	PROCEDIMIENTO 2478 2504	esfinterotomía endoscópica

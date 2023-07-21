@@ -1,0 +1,12 @@
+T1	PROCEDIMIENTO 1037 1056	antihistamínico i.v
+T2	PROCEDIMIENTO 1058 1075	fluidoterapia i.v
+T3	PROCEDIMIENTO 1079 1088	analgesia
+T4	PROCEDIMIENTO 340 386	corticoide y antihistamínico por vía sistémica
+T5	PROCEDIMIENTO 393 411	exploración física
+T6	PROCEDIMIENTO 1362 1373	hemocultivo
+T7	PROCEDIMIENTO 1407 1440	cultivo de frotis cutáneo y nasal
+T8	PROCEDIMIENTO 1589 1611	tratamiento parenteral
+T9	PROCEDIMIENTO 804 823	analítica de sangre
+T10	PROCEDIMIENTO 906 930	reactantes de fase aguda
+T11	PROCEDIMIENTO 1645 1668	tratamiento antibiótico
+T12	PROCEDIMIENTO 678 696	exploración física

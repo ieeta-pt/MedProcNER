@@ -1,0 +1,20 @@
+T1	PROCEDIMIENTO 444 467	ciclos de quimioterapia
+T2	PROCEDIMIENTO 920 932	gastrectomía
+T3	PROCEDIMIENTO 979 992	quimioterapia
+T4	PROCEDIMIENTO 569 592	intervención quirúrgica
+T5	PROCEDIMIENTO 158 187	citología de líquido ascítico
+T6	PROCEDIMIENTO 612 630	gastrectomía total
+T7	PROCEDIMIENTO 1834 1880	tomografía axial computarizada (TAC) abdominal
+T8	PROCEDIMIENTO 2484 2497	TAC abdominal
+T9	PROCEDIMIENTO 636 666	escisión de un quiste hepático
+T10	PROCEDIMIENTO 1866 1869	TAC
+T11	PROCEDIMIENTO 669 684	colecistectomía
+T12	PROCEDIMIENTO 267 278	esquema EOX
+T13	PROCEDIMIENTO 1975 1988	esplenectomía
+T14	PROCEDIMIENTO 771 809	colocación de un drenaje transparietal
+T15	PROCEDIMIENTO 2005 2026	drenaje de la fístula
+T16	PROCEDIMIENTO 2178 2197	cuidados paliativos
+T17	PROCEDIMIENTO 2659 2678	Cuidados Paliativos
+T18	PROCEDIMIENTO 2764 2783	Cuidados Paliativos
+T19	PROCEDIMIENTO 513 537	confirmación radiológica
+T20	PROCEDIMIENTO 714 742	intervención por fuga biliar

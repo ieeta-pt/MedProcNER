@@ -1,0 +1,16 @@
+T1	PROCEDIMIENTO 173 221	tratamiento quimioterápico con esquema mFOLFOX 6
+T2	PROCEDIMIENTO 212 221	mFOLFOX 6
+T3	PROCEDIMIENTO 948 961	quimioterapia
+T4	PROCEDIMIENTO 1378 1387	hemograma
+T5	PROCEDIMIENTO 1562 1574	sueroterapia
+T6	PROCEDIMIENTO 1910 1922	hemocultivos
+T7	PROCEDIMIENTO 2149 2191	transfundieron 2 concentrados de plaquetas
+T8	PROCEDIMIENTO 2206 2232	nutrición parenteral total
+T9	PROCEDIMIENTO 2273 2282	analgesia
+T10	PROCEDIMIENTO 2313 2318	AINES
+T11	PROCEDIMIENTO 2408 2426	tratamiento tópico
+T12	PROCEDIMIENTO 2529 2547	exploración física
+T13	PROCEDIMIENTO 1512 1550	aislamiento respiratorio y de contacto
+T14	PROCEDIMIENTO 339 381	5-FU 1.200 mg/m2/día en perfusión continua
+T15	PROCEDIMIENTO 1593 1638	antibioterapia intravenosa de amplio espectro
+T16	PROCEDIMIENTO 2862 2871	analítica

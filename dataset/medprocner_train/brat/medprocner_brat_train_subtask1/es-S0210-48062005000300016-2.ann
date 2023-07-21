@@ -1,0 +1,15 @@
+T1	PROCEDIMIENTO 1267 1282	ecografía renal
+T2	PROCEDIMIENTO 813 826	examen físico
+T3	PROCEDIMIENTO 2457 2472	ecocardiografía
+T4	PROCEDIMIENTO 954 1007	palpación profunda en fosa ilíaca y flanco izquierdos
+T5	PROCEDIMIENTO 1534 1537	ECG
+T6	PROCEDIMIENTO 1636 1659	TAC abdominal y pélvico
+T7	PROCEDIMIENTO 1219 1245	Examen neurológico general
+T8	PROCEDIMIENTO 2199 2225	hipo-coagulación sistémica
+T9	PROCEDIMIENTO 2294 2303	analgesia
+T10	PROCEDIMIENTO 2612 2625	arteriografía
+T11	PROCEDIMIENTO 3077 3139	determinación de inmunoglobulinas y fracciones del complemento
+T12	PROCEDIMIENTO 1476 1501	parámetros de coagulación
+T13	PROCEDIMIENTO 3555 3567	cintilograma
+T14	PROCEDIMIENTO 3373 3389	anti-coagulación
+T15	PROCEDIMIENTO 1100 1122	Murphy renal bilateral

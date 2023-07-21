@@ -1,0 +1,15 @@
+T1	PROCEDIMIENTO 1226 1245	gasometría arterial
+T2	PROCEDIMIENTO 176 198	doble bypass coronario
+T3	PROCEDIMIENTO 1318 1338	radiografía de tórax
+T4	PROCEDIMIENTO 1499 1545	antibioticoterapia empírica de amplio espectro
+T5	PROCEDIMIENTO 448 504	tratamiento quimioterápico adyuvante según esquema TOMOX
+T6	PROCEDIMIENTO 1548 1580	ventilación mecánica no invasiva
+T7	PROCEDIMIENTO 1585 1600	ecocardiografía
+T8	PROCEDIMIENTO 499 504	TOMOX
+T9	PROCEDIMIENTO 1762 1785	intubación endotraqueal
+T10	PROCEDIMIENTO 735 758	tratamiento antibiótico
+T11	PROCEDIMIENTO 2073 2115	estudios microbiológicos (sangre y esputo)
+T12	PROCEDIMIENTO 2198 2231	tomografía computarizada de tórax
+T13	PROCEDIMIENTO 2368 2395	tratamiento corticoterápico
+T14	PROCEDIMIENTO 2130 2170	serologías para microorganismos atípicos
+T15	PROCEDIMIENTO 253 280	resultado anatomopatológico

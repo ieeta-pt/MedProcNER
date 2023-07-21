@@ -1,0 +1,12 @@
+T1	PROCEDIMIENTO 521 546	estudio anatomopatológico
+T2	PROCEDIMIENTO 99 111	colonoscopia
+T3	PROCEDIMIENTO 152 190	estudio histológico como el citológico
+T4	PROCEDIMIENTO 782 808	estudio inmunohistoquímico
+T5	PROCEDIMIENTO 266 285	TAC toracoabdominal
+T6	PROCEDIMIENTO 287 306	ecografía abdominal
+T7	PROCEDIMIENTO 308 352	revisión dermatológica (que incluyó exeresis
+T8	PROCEDIMIENTO 397 420	estudio de fondo de ojo
+T9	PROCEDIMIENTO 423 444	exploración anorectal
+T10	PROCEDIMIENTO 494 516	hemicolectomía derecha
+T11	PROCEDIMIENTO 562 571	resección
+T12	PROCEDIMIENTO 221 241	estudio de extensión

@@ -1,0 +1,22 @@
+T1	PROCEDIMIENTO 1471 1501	TAC de cráneo, tórax y abdomen
+T2	PROCEDIMIENTO 1504 1520	gammagrafía ósea
+T3	PROCEDIMIENTO 1528 1561	aspirado y biopsia de médula ósea
+T4	PROCEDIMIENTO 2181 2188	biopsia
+T5	PROCEDIMIENTO 1627 1651	RNM de columna vertebral
+T6	PROCEDIMIENTO 239 257	gastrectomía total
+T7	PROCEDIMIENTO 260 273	esplenectomía
+T8	PROCEDIMIENTO 276 298	pancreatectomía distal
+T9	PROCEDIMIENTO 301 358	anastomosis esófago-yeyunal y yeyuno-yeyunal en Y de Roux
+T10	PROCEDIMIENTO 364 377	quimioterapia
+T11	PROCEDIMIENTO 381 393	radioterapia
+T12	PROCEDIMIENTO 1852 1887	tratamiento con anticonvulsionantes
+T13	PROCEDIMIENTO 1959 1970	hemocultivo
+T14	PROCEDIMIENTO 1972 1982	urocultivo
+T15	PROCEDIMIENTO 1986 1998	coprocultivo
+T16	PROCEDIMIENTO 944 946	Rx
+T17	PROCEDIMIENTO 2141 2160	anatomía patológica
+T18	PROCEDIMIENTO 2302 2324	estudio microbiológico
+T19	PROCEDIMIENTO 81 122	Hernias discales L4-L5-S1-S2 intervenidas
+T20	PROCEDIMIENTO 2360 2371	aislamiento
+T21	PROCEDIMIENTO 2163 2176	microbiología
+T24	PROCEDIMIENTO 1440 1458	técnicas de imagen

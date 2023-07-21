@@ -1,0 +1,12 @@
+T1	PROCEDIMIENTO 650 659	ecografía
+T2	PROCEDIMIENTO 324 343	ecografía abdominal
+T3	PROCEDIMIENTO 1345 1367	catéter de nefrostomía
+T4	PROCEDIMIENTO 833 852	renograma isotópico
+T5	PROCEDIMIENTO 476 494	Sedimento de orina
+T6	PROCEDIMIENTO 1456 1491	retirada del catéter de nefrostomía
+T7	PROCEDIMIENTO 497 509	urinocultivo
+T8	PROCEDIMIENTO 907 916	renograma
+T9	PROCEDIMIENTO 985 1002	gammagrafía renal
+T10	PROCEDIMIENTO 1138 1151	función renal
+T11	PROCEDIMIENTO 1307 1330	intervención quirúrgica
+T12	PROCEDIMIENTO 1516 1558	controles de imagen, clínicos y analíticos

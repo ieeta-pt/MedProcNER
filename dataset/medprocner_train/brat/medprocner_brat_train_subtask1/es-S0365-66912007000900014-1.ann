@@ -1,0 +1,18 @@
+T1	PROCEDIMIENTO 200 225	exploración oftalmológica
+T2	PROCEDIMIENTO 579 603	exploración fundoscópica
+T3	PROCEDIMIENTO 708 719	corticoides
+T4	PROCEDIMIENTO 722 733	midriáticos
+T5	PROCEDIMIENTO 1043 1057	antiagregación
+T6	PROCEDIMIENTO 1359 1381	corticoides sistémicos
+T7	PROCEDIMIENTO 330 362	estudio con lámpara de hendidura
+T8	PROCEDIMIENTO 828 840	fondo de ojo
+T9	PROCEDIMIENTO 1157 1172	fotocoagulación
+T10	PROCEDIMIENTO 1190 1204	láser de argón
+T11	PROCEDIMIENTO 1564 1585	tratamiento antiviral
+T12	PROCEDIMIENTO 1644 1655	corticoides
+T13	PROCEDIMIENTO 1724 1745	tratamiento antiviral
+T14	PROCEDIMIENTO 474 498	tinción con fluoresceína
+T15	PROCEDIMIENTO 1845 1855	bioquímica
+T16	PROCEDIMIENTO 1833 1842	hemograma
+T17	PROCEDIMIENTO 524 543	presión intraocular
+T22	PROCEDIMIENTO 1801 1821	controles analíticos

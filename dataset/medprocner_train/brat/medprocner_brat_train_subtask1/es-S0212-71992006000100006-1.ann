@@ -1,0 +1,13 @@
+T1	PROCEDIMIENTO 781 799	exploración física
+T2	PROCEDIMIENTO 1711 1731	radiografía de tórax
+T3	PROCEDIMIENTO 1754 1772	analítica de orina
+T4	PROCEDIMIENTO 2649 2685	cefalosporinas de tercera generación
+T5	PROCEDIMIENTO 1789 1798	hemograma
+T6	PROCEDIMIENTO 992 1022	percusión de senos paranasales
+T7	PROCEDIMIENTO 1980 1994	punción lumbar
+T8	PROCEDIMIENTO 1181 1202	auscultación cardíaca
+T9	PROCEDIMIENTO 2096 2137	estudio radiográfico de senos paranasales
+T10	PROCEDIMIENTO 1243 1264	auscultación pulmonar
+T11	PROCEDIMIENTO 2332 2343	TAC craneal
+T12	PROCEDIMIENTO 1534 1557	exploración neurológica
+T16	PROCEDIMIENTO 2609 2644	tratamiento antibiótico intravenoso

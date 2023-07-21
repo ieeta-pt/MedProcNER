@@ -1,0 +1,13 @@
+T1	PROCEDIMIENTO 275 297	intubación orotraqueal
+T2	PROCEDIMIENTO 300 316	drenaje torácico
+T3	PROCEDIMIENTO 321 332	TAC craneal
+T4	PROCEDIMIENTO 524 534	TAC facial
+T5	PROCEDIMIENTO 723 744	estudio oftalmológico
+T6	PROCEDIMIENTO 799 813	biomicroscopía
+T7	PROCEDIMIENTO 898 909	funduscopía
+T8	PROCEDIMIENTO 1091 1132	estudio de la motilidad ocular intrínseca
+T9	PROCEDIMIENTO 1647 1657	RM craneal
+T10	PROCEDIMIENTO 2126 2192	inyección de toxina botulínica (5 UI Botox) en ambos rectos medios
+T11	PROCEDIMIENTO 1578 1600	tratamiento quirúrgico
+T12	PROCEDIMIENTO 1737 1748	exploración
+T13	PROCEDIMIENTO 1500 1516	radiológicamente

@@ -1,0 +1,17 @@
+T1	PROCEDIMIENTO 312 330	exploración física
+T2	PROCEDIMIENTO 389 402	digitopresión
+T3	PROCEDIMIENTO 657 676	ecografía abdominal
+T4	PROCEDIMIENTO 811 864	tomografía axial computarizada (TAC) abdómino-pélvica
+T5	PROCEDIMIENTO 1127 1137	cavografía
+T6	PROCEDIMIENTO 1637 1702	determinaciones en plasma y orina de catecolaminas y metanefrinas
+T7	PROCEDIMIENTO 1899 1924	gammagrafía con 123I-MIBG
+T8	PROCEDIMIENTO 2029 2065	tratamiento quimioterápico adyuvante
+T9	PROCEDIMIENTO 1512 1539	extirpar el tumor intracava
+T10	PROCEDIMIENTO 1323 1353	bloqueo beta y alfaadrenérgico
+T11	PROCEDIMIENTO 458 507	catecolaminas y metanefrinas en orina de 24 horas
+T12	PROCEDIMIENTO 1416 1452	resección en bloque de la tumoración
+T13	PROCEDIMIENTO 1111 1114	TAC
+T14	PROCEDIMIENTO 1454 1539	se seccionó parcialmente la cara anterior de la cava para extirpar el tumor intracava
+T15	PROCEDIMIENTO 1707 1736	diagnóstico anatomopatológico
+T16	PROCEDIMIENTO 1375 1398	intervención quirúrgica
+T17	PROCEDIMIENTO 843 846	TAC

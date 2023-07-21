@@ -1,0 +1,15 @@
+T1	PROCEDIMIENTO 1265 1319	tomografía computarizada (TC) cervicofacial y cervical
+T2	PROCEDIMIENTO 1133 1152	ecografía parotídea
+T3	PROCEDIMIENTO 1291 1293	TC
+T4	PROCEDIMIENTO 1769 1780	angiografía
+T5	PROCEDIMIENTO 2531 2539	angio-TC
+T6	PROCEDIMIENTO 846 864	exploración física
+T7	PROCEDIMIENTO 396 416	ventilación mecánica
+T8	PROCEDIMIENTO 2176 2188	embolización
+T9	PROCEDIMIENTO 485 515	sutura primaria de las heridas
+T10	PROCEDIMIENTO 2202 2248	microcateterismo de la arteria maxilar interna
+T11	PROCEDIMIENTO 2327 2347	control angiográfico
+T12	PROCEDIMIENTO 2365 2424	relleno retrógrado tardío desde la arteria facial izquierda
+T13	PROCEDIMIENTO 1034 1046	auscultación
+T14	PROCEDIMIENTO 2258 2294	oclusión mediante espiral de platino
+T19	PROCEDIMIENTO 1000 1009	palpación

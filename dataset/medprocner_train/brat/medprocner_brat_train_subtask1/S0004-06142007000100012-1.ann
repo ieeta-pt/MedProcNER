@@ -1,0 +1,20 @@
+T1	PROCEDIMIENTO 256 270	Parto eutócico
+T2	PROCEDIMIENTO 1063 1077	antibioterapia
+T3	PROCEDIMIENTO 2209 2223	antibioterapia
+T4	PROCEDIMIENTO 2376 2404	cintilograma renal con MAG-3
+T5	PROCEDIMIENTO 1440 1475	cistouretrografía miccional seriada
+T6	PROCEDIMIENTO 1128 1160	ecografia reno-pélvica- escrotal
+T10	PROCEDIMIENTO 1810 1840	orquidectomía inguinal derecha
+T11	PROCEDIMIENTO 789 798	palpación
+T12	PROCEDIMIENTO 814 821	vacunas
+T13	PROCEDIMIENTO 2244 2266	profilaxia antibiótica
+T14	PROCEDIMIENTO 2934 2954	sedimentos urinarios
+T15	PROCEDIMIENTO 2662 2682	prueba de furosemida
+T16	PROCEDIMIENTO 2353 2373	urografía endovenosa
+T17	PROCEDIMIENTO 1757 1807	fulguración de las válvulas de la uretra posterior
+T18	PROCEDIMIENTO 203 235	Gestación correctamente vigilada
+T19	PROCEDIMIENTO 1042 1060	medidas de soporte
+T20	PROCEDIMIENTO 1404 1414	urocultura
+T21	PROCEDIMIENTO 1650 1684	radiologías óseas de cuerpo entero
+T22	PROCEDIMIENTO 1987 1997	urocultura
+T23	PROCEDIMIENTO 2145 2156	uroculturas

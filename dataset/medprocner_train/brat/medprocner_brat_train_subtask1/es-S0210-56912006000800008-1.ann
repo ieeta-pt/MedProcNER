@@ -1,0 +1,18 @@
+T1	PROCEDIMIENTO 1327 1338	corticoides
+T2	PROCEDIMIENTO 1340 1357	nutrición enteral
+T3	PROCEDIMIENTO 1360 1383	antibioterapia empírica
+T4	PROCEDIMIENTO 441 473	auscultación cardiorrespiratoria
+T5	PROCEDIMIENTO 786 806	radiografía de tórax
+T6	PROCEDIMIENTO 856 875	ecografía abdominal
+T7	PROCEDIMIENTO 1028 1075	tomografía axial computarizada (TAC) de abdomen
+T8	PROCEDIMIENTO 2350 2365	anticoagulación
+T9	PROCEDIMIENTO 1945 1949	MARS
+T10	PROCEDIMIENTO 2219 2240	acceso venoso femoral
+T11	PROCEDIMIENTO 2281 2345	técnica de reemplazo renal asociada fue HDF veno-venosa continua
+T12	PROCEDIMIENTO 1060 1063	TAC
+T13	PROCEDIMIENTO 1861 1877	terapia anti-TNF
+T14	PROCEDIMIENTO 299 317	exploración física
+T15	PROCEDIMIENTO 743 771	Marcadores virales hepáticos
+T16	PROCEDIMIENTO 492 501	analítica
+T17	PROCEDIMIENTO 1561 1570	analítica
+#1	AnnotatorNotes T9	     Molecular Adsorbent Recirculating System

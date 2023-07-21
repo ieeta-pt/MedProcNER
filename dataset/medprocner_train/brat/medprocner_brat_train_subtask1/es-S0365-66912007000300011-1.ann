@@ -1,0 +1,16 @@
+T1	PROCEDIMIENTO 1286 1320	despistaje metabólico e infeccioso
+T2	PROCEDIMIENTO 27 40	parto vaginal
+T3	PROCEDIMIENTO 92 115	intraútero en ecografía
+T4	PROCEDIMIENTO 1782 1799	corrección óptica
+T5	PROCEDIMIENTO 1805 1834	potenciales evocados visuales
+T6	PROCEDIMIENTO 2354 2377	electroencefalográficos
+T7	PROCEDIMIENTO 1920 1939	electrorretinograma
+T8	PROCEDIMIENTO 2906 2919	traqueostomía
+T9	PROCEDIMIENTO 392 415	intubación endotraqueal
+T10	PROCEDIMIENTO 885 905	electroencefalograma
+T11	PROCEDIMIENTO 959 977	ecografia cerebral
+T12	PROCEDIMIENTO 1100 1132	tomografía computarizada craneal
+T13	PROCEDIMIENTO 1189 1217	resonancia nuclear magnética
+T14	PROCEDIMIENTO 430 436	partos
+T15	PROCEDIMIENTO 2062 2080	lentes de contacto
+T16	PROCEDIMIENTO 2044 2049	gafas

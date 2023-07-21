@@ -1,0 +1,13 @@
+T1	PROCEDIMIENTO 580 603	exploración neurológica
+T2	PROCEDIMIENTO 864 883	extubación terminal
+T3	PROCEDIMIENTO 932 942	extubación
+T4	PROCEDIMIENTO 683 709	retirada del soporte vital
+T5	PROCEDIMIENTO 992 1003	laparotomía
+T6	PROCEDIMIENTO 1083 1111	Se explantaron ambos riñones
+T7	PROCEDIMIENTO 293 303	TC craneal
+T8	PROCEDIMIENTO 188 211	protocolo de hipotermia
+T9	PROCEDIMIENTO 729 737	donación
+T10	PROCEDIMIENTO 764 768	LTSV
+T11	PROCEDIMIENTO 771 791	asistolia controlada
+T12	PROCEDIMIENTO 1012 1055	canulación y perfusión fría intraoperatoria
+T24	PROCEDIMIENTO 17 37	reanimado de una PCR

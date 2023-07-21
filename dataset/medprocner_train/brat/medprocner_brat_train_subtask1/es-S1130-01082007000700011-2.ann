@@ -1,0 +1,22 @@
+T1	PROCEDIMIENTO 2369 2382	ecoendoscopia
+T2	PROCEDIMIENTO 1748 1768	TAC toraco-abdominal
+T3	PROCEDIMIENTO 1527 1565	estudio esofagogastroduodenal baritado
+T4	PROCEDIMIENTO 2931 2944	quimioterapia
+T5	PROCEDIMIENTO 1300 1327	auscultación cardiopulmonar
+T6	PROCEDIMIENTO 156 171	colecistectomía
+T7	PROCEDIMIENTO 173 187	amigdalectomía
+T8	PROCEDIMIENTO 190 211	anexectomía bilateral
+T9	PROCEDIMIENTO 378 403	endoscopia digestiva alta
+T10	PROCEDIMIENTO 2175 2192	fibrobroncoscopia
+T11	PROCEDIMIENTO 2802 2813	TAC craneal
+T12	PROCEDIMIENTO 472 507	inhibidores de la bomba de protones
+T13	PROCEDIMIENTO 2248 2281	aspirado de punción transtorácica
+T14	PROCEDIMIENTO 721 731	endoscopia
+T15	PROCEDIMIENTO 2717 2724	biopsia
+T16	PROCEDIMIENTO 2541 2560	paso del endoscopio
+T17	PROCEDIMIENTO 3102 3106	CDDP
+T18	PROCEDIMIENTO 1170 1181	exploración
+T19	PROCEDIMIENTO 128 154	intervenciones quirúrgicas
+T20	PROCEDIMIENTO 759 811	lesión a nivel de tercio medio de esófago, biopsiada
+T21	PROCEDIMIENTO 2905 2912	cirugía
+T22	PROCEDIMIENTO 3090 3120	esquema con CDDP más etopósido

@@ -1,0 +1,18 @@
+T1	PROCEDIMIENTO 400 418	exploración física
+T2	PROCEDIMIENTO 460 481	auscultación pulmonar
+T3	PROCEDIMIENTO 640 649	hemograma
+T4	PROCEDIMIENTO 671 696	gasometría arterial basal
+T6	PROCEDIMIENTO 898 919	marcadores biológicos
+T7	PROCEDIMIENTO 962 974	espirometría
+T8	PROCEDIMIENTO 1029 1054	test de difusión pulmonar
+T9	PROCEDIMIENTO 1177 1204	radiografía simple de tórax
+T10	PROCEDIMIENTO 1267 1278	TC torácica
+T11	PROCEDIMIENTO 1603 1627	biopsia pulmonar abierta
+T12	PROCEDIMIENTO 1709 1765	estudio histopatológico mostró en el parénquima pulmonar
+T13	PROCEDIMIENTO 1966 2000	estudio de microscopía electrónica
+T14	PROCEDIMIENTO 2410 2421	TC torácico
+T16	PROCEDIMIENTO 787 798	complemento
+T17	PROCEDIMIENTO 651 669	bioquímica general
+T18	PROCEDIMIENTO 737 750	proteinograma
+T20	PROCEDIMIENTO 2782 2784	TC
+T25	PROCEDIMIENTO 1894 1936	tinciones inmunohistoquímicas S-100 y CD1a

@@ -1,0 +1,47 @@
+T1	PROCEDIMIENTO 4490 4510	radiografía de tórax
+T2	PROCEDIMIENTO 1514 1536	intubación orotraqueal
+T3	PROCEDIMIENTO 3418 3445	lavado del pulmón izquierdo
+T4	PROCEDIMIENTO 2284 2329	medimos la compliance estática de cada pulmón
+T5	PROCEDIMIENTO 1537 1569	sedamos al paciente con propofol
+T6	PROCEDIMIENTO 3447 3496	ventilamos ambos pulmones en modo presión control
+T7	PROCEDIMIENTO 1574 1600	analgesiamos con fentanilo
+T8	PROCEDIMIENTO 1606 1634	relajamos con succinilcolina
+T9	PROCEDIMIENTO 2438 2467	lavado en el pulmón izquierdo
+T10	PROCEDIMIENTO 3344 3371	lavado del pulmón izquierdo
+T11	PROCEDIMIENTO 627 647	radiografía de tórax
+T12	PROCEDIMIENTO 3671 3699	ventilar el pulmón izquierdo
+T13	PROCEDIMIENTO 3743 3768	lavado del pulmón derecho
+T14	PROCEDIMIENTO 2896 2937	percusión torácica sobre el pulmón lavado
+T15	PROCEDIMIENTO 1853 1899	perfusión continua de propofol y cisatracurium
+T16	PROCEDIMIENTO 744 756	TAC torácica
+T17	PROCEDIMIENTO 3869 3894	lavado del pulmón derecho
+T18	PROCEDIMIENTO 1016 1038	biopsia transbronquial
+T19	PROCEDIMIENTO 1079 1095	biopsia pulmonar
+T20	PROCEDIMIENTO 1464 1495	lavado broncoalveolar bilateral
+T21	PROCEDIMIENTO 2877 2884	drenaje
+T22	PROCEDIMIENTO 3300 3307	drenaje
+T23	PROCEDIMIENTO 3945 3952	drenaje
+T24	PROCEDIMIENTO 4140 4147	drenaje
+T25	PROCEDIMIENTO 1127 1146	estudio histológico
+T26	PROCEDIMIENTO 1192 1228	estudio microbiológico de la biopsia
+T27	PROCEDIMIENTO 4180 4200	ventilación mecánica
+T28	PROCEDIMIENTO 1639 1720	intubación la realizamos con un tubo de doble luz tipo Mallinckrodt 39F izquierdo
+T29	PROCEDIMIENTO 1722 1800	Comprobamos la localización del tubo por medio de fibrobroncoscopio pediátrico
+T30	PROCEDIMIENTO 1817 1848	le mantuvimos sedado y relajado
+T31	PROCEDIMIENTO 1901 1974	Ventilamos al paciente inicialmente durante 30 minutos en presión control
+T32	PROCEDIMIENTO 2547 2612	lavado se realizó con solución salina isotónica calentada a 37º C
+T33	PROCEDIMIENTO 2614 2709	Infundimos un litro desde una altura de 30-40 cm sobre el paciente y drenamos éste por gravedad
+T34	PROCEDIMIENTO 3126 3165	colocamos al paciente en decúbito prono
+T35	PROCEDIMIENTO 4044 4059	decúbito supino
+T36	PROCEDIMIENTO 4317 4364	cambiamos el tubo de doble luz por uno estándar
+T37	PROCEDIMIENTO 4432 4444	fue extubado
+T38	PROCEDIMIENTO 4707 4724	lavado secuencial
+T39	PROCEDIMIENTO 2953 2969	lavado en supino
+T40	PROCEDIMIENTO 2026 2068	presión positiva al final de la espiración
+T41	PROCEDIMIENTO 2070 2074	PEEP
+T42	PROCEDIMIENTO 2527 2542	decúbito supino
+T43	PROCEDIMIENTO 3208 3214	supino
+T44	PROCEDIMIENTO 3512 3516	PEEP
+T45	PROCEDIMIENTO 3909 3923	decúbito prono
+T46	PROCEDIMIENTO 4380 4405	comenzamos la desconexión
+T47	PROCEDIMIENTO 366 375	analítica

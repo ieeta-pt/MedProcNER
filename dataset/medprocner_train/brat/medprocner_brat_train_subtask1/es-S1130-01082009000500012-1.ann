@@ -1,0 +1,12 @@
+T1	PROCEDIMIENTO 1720 1743	quimioterapia adyuvante
+T2	PROCEDIMIENTO 95 114	ecografía abdominal
+T3	PROCEDIMIENTO 119 136	estudio urológico
+T4	PROCEDIMIENTO 1129 1152	biopsia intraoperatoria
+T5	PROCEDIMIENTO 264 277	TAC abdominal
+T6	PROCEDIMIENTO 548 568	marcadores tumorales
+T7	PROCEDIMIENTO 657 676	control radiológico
+T8	PROCEDIMIENTO 966 989	intervención quirúrgica
+T9	PROCEDIMIENTO 1349 1358	resección
+T10	PROCEDIMIENTO 1296 1312	excisión radical
+T11	PROCEDIMIENTO 1375 1384	disección
+T12	PROCEDIMIENTO 1521 1544	diagnóstico histológico

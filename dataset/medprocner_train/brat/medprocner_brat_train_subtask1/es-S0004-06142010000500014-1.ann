@@ -1,0 +1,27 @@
+T1	PROCEDIMIENTO 265 283	exploración física
+T2	PROCEDIMIENTO 397 406	Hemograma
+T3	PROCEDIMIENTO 472 488	Cultivo de orina
+T4	PROCEDIMIENTO 626 644	Ecografía urinaria
+T5	PROCEDIMIENTO 654 674	Ecografía testicular
+T6	PROCEDIMIENTO 848 868	orquiectomía radical
+T7	PROCEDIMIENTO 1130 1134	Gram
+T8	PROCEDIMIENTO 1703 1707	Gram
+T9	PROCEDIMIENTO 756 763	Mantoux
+T10	PROCEDIMIENTO 572 592	Marcadores tumorales
+T11	PROCEDIMIENTO 1442 1475	cultivo para bacterias habituales
+T12	PROCEDIMIENTO 1592 1599	cultivo
+T13	PROCEDIMIENTO 1993 2044	estudio genético mediante secuenciación del 16SrRNA
+T14	PROCEDIMIENTO 444 462	Sedimento de orina
+T15	PROCEDIMIENTO 1854 1889	tinción de Ziehl Neelsen modificada
+T16	PROCEDIMIENTO 2106 2153	cultivos para Nocardias, Micobacterias y hongos
+T17	PROCEDIMIENTO 204 245	Tratado con distintas pautas antibióticas
+T18	PROCEDIMIENTO 499 516	Cultivos de semen
+T19	PROCEDIMIENTO 986 1055	exudado purulento obtenido intraoperatoriamente del tejido testicular
+T20	PROCEDIMIENTO 1060 1098	tinción de auramina para micobacterias
+T21	PROCEDIMIENTO 1339 1342	PCR
+T22	PROCEDIMIENTO 1315 1363	amplificación genómica (PCR) para M.tuberculosis
+T23	PROCEDIMIENTO 1381 1416	detección del antígeno de Chlamydia
+T24	PROCEDIMIENTO 1907 1932	identificación fenotípica
+T26	PROCEDIMIENTO 955 968	microbiología
+T27	PROCEDIMIENTO 889 907	estudio patológico
+T28	PROCEDIMIENTO 825 836	radiológica

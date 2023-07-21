@@ -1,0 +1,33 @@
+T1	PROCEDIMIENTO 1107 1138	exploración general y urológica
+T2	PROCEDIMIENTO 2327 2340	TAC abdominal
+T3	PROCEDIMIENTO 231 243	tacto rectal
+T4	PROCEDIMIENTO 1451 1467	gammagrafía ósea
+T5	PROCEDIMIENTO 352 404	adenomectomía retropúbica según técnica de T. Millin
+T6	PROCEDIMIENTO 1706 1720	antibioterapia
+T7	PROCEDIMIENTO 1732 1741	analgesia
+T8	PROCEDIMIENTO 1923 1944	exploración del muslo
+T9	PROCEDIMIENTO 3465 3478	adenomectomía
+T10	PROCEDIMIENTO 3723 3751	transfusión de hemoderivados
+T11	PROCEDIMIENTO 4126 4207	cultivo puro de líquido seropurulento de la herida operatoria de la adenomectomía
+T12	PROCEDIMIENTO 474 492	se retira la sonda
+T13	PROCEDIMIENTO 879 892	adenomectomía
+T14	PROCEDIMIENTO 2931 3098	incisión longitudinal en la cara interna del tercio proximal del muslo y mediante disección roma digital se penetra en profundidad a través de la musculatura abductora
+T15	PROCEDIMIENTO 3284 3341	lavado de la cavidad con abundante suero y agua oxigenada
+T16	PROCEDIMIENTO 3623 3642	Se colocan drenajes
+T17	PROCEDIMIENTO 4325 4353	drenaje del absceso en muslo
+T18	PROCEDIMIENTO 4275 4289	Cultivo de pus
+T19	PROCEDIMIENTO 4064 4072	cultivos
+T20	PROCEDIMIENTO 3792 3805	curas locales
+T21	PROCEDIMIENTO 3962 3973	ecográficos
+T22	PROCEDIMIENTO 3254 3276	estudio microbiológico
+T23	PROCEDIMIENTO 2887 2910	intervención quirúrgica
+T24	PROCEDIMIENTO 1070 1093	tratamiento antibiótico
+T25	PROCEDIMIENTO 3505 3512	drenaje
+T26	PROCEDIMIENTO 2075 2086	exploración
+T27	PROCEDIMIENTO 3423 3458	exploración de la herida quirúrgica
+T28	PROCEDIMIENTO 406 434	enucleándose un gran adenoma
+T29	PROCEDIMIENTO 3948 3960	radiológicos
+T30	PROCEDIMIENTO 3342 3418	se cierra parcialmente la herida quirúrgica y se dejan drenajes tipo Penrose
+T32	PROCEDIMIENTO 4305 4320	acto operatorio
+T34	PROCEDIMIENTO 139 146	cirugía
+T36	PROCEDIMIENTO 2735 2744	palpación

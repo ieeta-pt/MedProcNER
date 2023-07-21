@@ -1,0 +1,35 @@
+T1	PROCEDIMIENTO 644 664	ecografía testicular
+T2	PROCEDIMIENTO 2940 2993	quimioterapia (6 ciclos-adriamicina/ifosfamida/mesna)
+T3	PROCEDIMIENTO 527 557	análisis sistemático de sangre
+T4	PROCEDIMIENTO 1054 1070	gammagrafía ósea
+T5	PROCEDIMIENTO 559 590	bioquímica de sangre y de orina
+T6	PROCEDIMIENTO 1337 1356	nefrectomía radical
+T7	PROCEDIMIENTO 3160 3172	TC abdominal
+T8	PROCEDIMIENTO 713 732	ecografía abdominal
+T9	PROCEDIMIENTO 2996 3008	radioterapia
+T10	PROCEDIMIENTO 737 757	resonancia magnética
+T11	PROCEDIMIENTO 3193 3219	tratamiento quimioterápico
+T12	PROCEDIMIENTO 763 808	tomografía computarizada (TC) toracoabdominal
+T13	PROCEDIMIENTO 1194 1207	arteriografía
+T14	PROCEDIMIENTO 2493 2553	resección de la tumoración, incluyendo el diafragma afectado
+T15	PROCEDIMIENTO 2559 2603	gastrectomía vertical hasta el ángulo de His
+T16	PROCEDIMIENTO 2013 2038	analíticas sangre y orina
+T17	PROCEDIMIENTO 2040 2058	TC toracoabdominal
+T18	PROCEDIMIENTO 2609 2622	esplenectomía
+T19	PROCEDIMIENTO 2627 2660	resección de la cola del páncreas
+T20	PROCEDIMIENTO 2112 2130	TC toracoabdominal
+T21	PROCEDIMIENTO 2667 2698	colectomía del ángulo esplénico
+T22	PROCEDIMIENTO 443 461	exploración física
+T23	PROCEDIMIENTO 1514 1533	anatomía patológica
+T24	PROCEDIMIENTO 592 603	coagulación
+T25	PROCEDIMIENTO 1109 1142	punción-aspiración con aguja fina
+T26	PROCEDIMIENTO 1665 1689	descripción microscópica
+T27	PROCEDIMIENTO 3053 3055	TC
+T28	PROCEDIMIENTO 789 791	TC
+T29	PROCEDIMIENTO 1491 1498	cirugía
+T30	PROCEDIMIENTO 2340 2347	cirugía
+T31	PROCEDIMIENTO 1361 1373	intervención
+T32	PROCEDIMIENTO 1999 2011	intervención
+T33	PROCEDIMIENTO 125 134	patología
+T34	PROCEDIMIENTO 2714 2732	anatomía patología
+T35	PROCEDIMIENTO 503 525	pruebas de laboratorio

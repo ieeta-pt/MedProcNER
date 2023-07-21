@@ -1,0 +1,39 @@
+T1	PROCEDIMIENTO 501 522	herniorrafia inguinal
+T2	PROCEDIMIENTO 568 577	anamnesis
+T3	PROCEDIMIENTO 745 763	exploración física
+T4	PROCEDIMIENTO 841 887	exploración de cabeza, cuello, tórax y abdomen
+T5	PROCEDIMIENTO 969 978	hemograma
+T6	PROCEDIMIENTO 995 1020	radiografía (Rx) de tórax
+T7	PROCEDIMIENTO 1296 1319	Rx de senos paranasales
+T8	PROCEDIMIENTO 1681 1711	test de sangre oculta en heces
+T9	PROCEDIMIENTO 1805 1812	mantoux
+T10	PROCEDIMIENTO 1847 1870	Ziehl de esputo y orina
+T11	PROCEDIMIENTO 1896 1921	gasometría arterial basal
+T12	PROCEDIMIENTO 1923 1950	pruebas de función pulmonar
+T13	PROCEDIMIENTO 1959 1993	test de provocación con metacolina
+T14	PROCEDIMIENTO 1995 2012	fibrobroncoscopia
+T15	PROCEDIMIENTO 2014 2054	tomografía computadorizada (TC) torácica
+T16	PROCEDIMIENTO 2042 2044	TC
+T17	PROCEDIMIENTO 2136 2153	broncodilatadores
+T18	PROCEDIMIENTO 2531 2564	estudio de sangre oculta en heces
+T19	PROCEDIMIENTO 2714 2726	colonoscopia
+T20	PROCEDIMIENTO 2732 2743	enema opaco
+T21	PROCEDIMIENTO 3151 3163	TC abdominal
+T22	PROCEDIMIENTO 3307 3319	gastroscopia
+T23	PROCEDIMIENTO 3322 3329	biopsia
+T24	PROCEDIMIENTO 3343 3361	panendoscopia oral
+T25	PROCEDIMIENTO 3495 3502	biopsia
+T26	PROCEDIMIENTO 3565 3588	laparotomía exploradora
+T27	PROCEDIMIENTO 3787 3794	biopsia
+T28	PROCEDIMIENTO 3812 3855	gastrectomía parcial con gastroyeyunostomía
+T29	PROCEDIMIENTO 3860 3867	biopsia
+T30	PROCEDIMIENTO 4208 4229	tratamiento paliativo
+T31	PROCEDIMIENTO 3459 3478	anatomía patológica
+T32	PROCEDIMIENTO 981 991	bioquímica
+T33	PROCEDIMIENTO 1952 1955	PFP
+T34	PROCEDIMIENTO 686 696	antiácidos
+T35	PROCEDIMIENTO 4092 4113	tratamiento adyuvante
+T36	PROCEDIMIENTO 951 960	analítica
+T37	PROCEDIMIENTO 1657 1666	analítica
+T38	PROCEDIMIENTO 1008 1010	Rx
+T39	PROCEDIMIENTO 3747 3794	Extirparon varios de estos nódulos para biopsia

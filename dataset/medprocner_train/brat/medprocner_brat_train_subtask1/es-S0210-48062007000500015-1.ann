@@ -1,0 +1,32 @@
+T1	PROCEDIMIENTO 2792 2818	análisis anatomopatológico
+T2	PROCEDIMIENTO 685 703	exploración física
+T3	PROCEDIMIENTO 2215 2233	embolización renal
+T4	PROCEDIMIENTO 1135 1177	tratamiento antibiótico de amplio espectro
+T5	PROCEDIMIENTO 1310 1312	TC
+T6	PROCEDIMIENTO 1332 1335	RMN
+T7	PROCEDIMIENTO 2281 2321	laparotomía media supra e infraumbilical
+T8	PROCEDIMIENTO 3315 3381	tratamiento quimioterápico oral con inhibidores de la angiogénesis
+T9	PROCEDIMIENTO 1819 1833	TAC Multicorte
+T10	PROCEDIMIENTO 974 983	Hemograma
+T11	PROCEDIMIENTO 816 846	Puño-percusión renal bilateral
+T12	PROCEDIMIENTO 170 188	TC toracoabdominal
+T13	PROCEDIMIENTO 1071 1083	Hemocultivos
+T14	PROCEDIMIENTO 3554 3583	citología del líquido pleural
+T15	PROCEDIMIENTO 2639 2752	nefrectomía radical derecha incluyendo en bloque el segmento hepático VII, adrenal derecha y porción de diafragma
+T16	PROCEDIMIENTO 498 511	TC de columna
+T17	PROCEDIMIENTO 504 542	columna y Resonancia Magnética Nuclear
+T18	PROCEDIMIENTO 544 547	RMN
+T19	PROCEDIMIENTO 2754 2769	Colecistectomía
+T20	PROCEDIMIENTO 2772 2787	linfadenectomía
+T21	PROCEDIMIENTO 757 766	palpación
+T22	PROCEDIMIENTO 913 928	perfil hepático
+T23	PROCEDIMIENTO 1096 1107	urocultivos
+T24	PROCEDIMIENTO 930 947	proteínas totales
+T25	PROCEDIMIENTO 1180 1191	antitérmico
+T26	PROCEDIMIENTO 881 891	bioquímica
+T27	PROCEDIMIENTO 1930 1953	intervención quirúrgica
+T28	PROCEDIMIENTO 2245 2268	intervención quirúrgica
+T29	PROCEDIMIENTO 3397 3399	TC
+T30	PROCEDIMIENTO 2532 2584	Se toman muestras de líquido peritoneal para cultivo
+T31	PROCEDIMIENTO 2553 2602	líquido peritoneal para cultivo, citología y gram
+T33	PROCEDIMIENTO 1045 1055	Hemostasia

@@ -1,0 +1,14 @@
+T1	PROCEDIMIENTO 243 259	Histerectomizada
+T2	PROCEDIMIENTO 264 281	doble anexectomía
+T3	PROCEDIMIENTO 551 569	exploración física
+T4	PROCEDIMIENTO 583 604	auscultación cardíaca
+T5	PROCEDIMIENTO 645 666	auscultación pulmonar
+T6	PROCEDIMIENTO 759 771	espirometría
+T7	PROCEDIMIENTO 842 865	prueba broncodilatadora
+T8	PROCEDIMIENTO 879 905	difusión pulmonar de gases
+T9	PROCEDIMIENTO 983 1003	radiografía de tórax
+T10	PROCEDIMIENTO 1060 1084	tomografía computarizada
+T11	PROCEDIMIENTO 1186 1213	estudio analítico sanguíneo
+T12	PROCEDIMIENTO 1276 1293	fibrobroncoscopia
+T13	PROCEDIMIENTO 1359 1374	fenotipo de AAT
+T14	PROCEDIMIENTO 1573 1589	función pulmonar

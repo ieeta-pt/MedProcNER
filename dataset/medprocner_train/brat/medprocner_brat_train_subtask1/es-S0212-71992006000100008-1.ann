@@ -1,0 +1,15 @@
+T1	PROCEDIMIENTO 571 592	tratado con analgesia
+T2	PROCEDIMIENTO 832 851	ecografía abdominal
+T3	PROCEDIMIENTO 1214 1217	ECG
+T4	PROCEDIMIENTO 1247 1267	radiografía de tórax
+T5	PROCEDIMIENTO 1319 1338	analítica de sangre
+T6	PROCEDIMIENTO 1571 1590	TAC abdominopélvica
+T7	PROCEDIMIENTO 2061 2080	nefrostomía derecha
+T8	PROCEDIMIENTO 2093 2152	biopsia trucut de masa retroperitoneal guiada por ecografía
+T9	PROCEDIMIENTO 2749 2768	ecografía de testes
+T10	PROCEDIMIENTO 3142 3154	orquiectomía
+T11	PROCEDIMIENTO 3199 3212	quimioterapia
+T12	PROCEDIMIENTO 2172 2191	anatomía patológica
+T13	PROCEDIMIENTO 182 194	transfundido
+T15	PROCEDIMIENTO 1148 1159	exploración
+T16	PROCEDIMIENTO 151 178	intervenido quirúrgicamente

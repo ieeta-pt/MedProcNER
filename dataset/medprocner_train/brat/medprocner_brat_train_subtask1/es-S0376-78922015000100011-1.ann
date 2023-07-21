@@ -1,0 +1,48 @@
+T1	PROCEDIMIENTO 1108 1133	estudio anatomopatológico
+T2	PROCEDIMIENTO 3525 3572	estudio anatomopatológico de la pieza extirpada
+T3	PROCEDIMIENTO 4675 4701	escáner de control craneal
+T4	PROCEDIMIENTO 4675 4712	escáner de control craneal y torácico
+T5	PROCEDIMIENTO 5541 5586	se le administró adyuvancia con quimioterapia
+T6	PROCEDIMIENTO 5147 5207	tratamiento adyuvante la paciente recibió radioterapia local
+T7	PROCEDIMIENTO 1621 1652	haber extirpado cuero cabelludo
+T8	PROCEDIMIENTO 2397 2432	resección amplia de cuero cabelludo
+T9	PROCEDIMIENTO 5812 5825	quimioterapia
+T10	PROCEDIMIENTO 5833 5835	TC
+T11	PROCEDIMIENTO 3971 3983	craniectomía
+T12	PROCEDIMIENTO 4826 4902	nódulos pulmonares apicales que fueron extirpados mediante videotoracoscopia
+T13	PROCEDIMIENTO 3997 4004	escáner
+T14	PROCEDIMIENTO 5304 5353	radioterapia externa con modulación de intensidad
+T15	PROCEDIMIENTO 4088 4100	craniectomía
+T16	PROCEDIMIENTO 263 301	termocoagulación de una lesión cutánea
+T17	PROCEDIMIENTO 4123 4167	incisión del borde superior del colgajo TRAM
+T18	PROCEDIMIENTO 4242 4267	Ampliamos la craniectomía
+T19	PROCEDIMIENTO 418 462	estudio de extensión ósea de cuerpo completo
+T20	PROCEDIMIENTO 2751 2780	Retiramos la plastia acrílica
+T21	PROCEDIMIENTO 491 493	TC
+T22	PROCEDIMIENTO 465 521	tomografía computarizada (TC) de tórax, abdomen y pelvis
+T23	PROCEDIMIENTO 1997 2014	fibrobroncoscopia
+T24	PROCEDIMIENTO 2782 2807	ampliamos la craniectomía
+T25	PROCEDIMIENTO 2825 2856	resección dural circunferencial
+T26	PROCEDIMIENTO 564 599	extirpación quirúrgica de la lesión
+T27	PROCEDIMIENTO 4376 4450	cierre se realizó con otra plastia de Neuropatch® y craneoplastia acrílica
+T28	PROCEDIMIENTO 2872 2922	reparación de la meninge con plastia de Neuropatch
+T29	PROCEDIMIENTO 2148 2158	TC craneal
+T30	PROCEDIMIENTO 652 752	lesión se extirpó con craniectomía circunferencial en bloque incluyendo músculo temporal y su fascia
+T31	PROCEDIMIENTO 3029 3069	colgajo libre de músculo recto abdominal
+T32	PROCEDIMIENTO 3121 3175	injerto libre cutáneo de piel parcial sobre el músculo
+T33	PROCEDIMIENTO 939 985	se practicó cierre directo del cuero cabelludo
+T34	PROCEDIMIENTO 3331 3338	colgajo
+T35	PROCEDIMIENTO 3355 3428	anastomosis se hicieron término-terminales a la arteria tiroidea superior
+T36	PROCEDIMIENTO 2026 2028	TC
+T37	PROCEDIMIENTO 5005 5013	biopsias
+T38	PROCEDIMIENTO 5355 5359	IMRT
+T39	PROCEDIMIENTO 5601 5648	esquema CDDP-5FU (cisplatino con fluorouracilo)
+T40	PROCEDIMIENTO 877 936	Se moldeó una plastia acrílica de 5 cm para el defecto óseo
+T41	PROCEDIMIENTO 3864 3887	intervención quirúrgica
+T42	PROCEDIMIENTO 90 97	escáner
+T43	PROCEDIMIENTO 991 1005	masa extirpada
+T44	PROCEDIMIENTO 1691 1779	ampliar la cirugía y practicar revisión del lecho y resección de isla de cuero cabelludo
+T45	PROCEDIMIENTO 2609 2621	craniectomía
+T46	PROCEDIMIENTO 3403 3520	arteria tiroidea superior, que se rotó posteriormente para llegar al pedículo del colgajo y a la vena yugular externa
+T47	PROCEDIMIENTO 4915 4932	anatomopatológico
+T48	PROCEDIMIENTO 4966 4984	imagen histológica

@@ -1,0 +1,13 @@
+T1	PROCEDIMIENTO 1109 1117	autopsia
+T2	PROCEDIMIENTO 2710 2718	autopsia
+T3	PROCEDIMIENTO 2765 2797	estudio analíticos toxicológicos
+T4	PROCEDIMIENTO 2819 2842	estudio histopatológico
+T5	PROCEDIMIENTO 182 218	tratamiento crónico antihipertensivo
+T6	PROCEDIMIENTO 1404 1414	timectomía
+T7	PROCEDIMIENTO 307 318	ansiolítico
+T8	PROCEDIMIENTO 321 334	antidepresivo
+T9	PROCEDIMIENTO 474 493	protección gástrica
+T10	PROCEDIMIENTO 821 844	tratamiento antibiótico
+T11	PROCEDIMIENTO 1785 1799	examen interno
+T12	PROCEDIMIENTO 1319 1333	examen externo
+T14	PROCEDIMIENTO 1365 1382	toracotomía media

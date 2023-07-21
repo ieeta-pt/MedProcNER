@@ -1,0 +1,16 @@
+T1	PROCEDIMIENTO 1461 1481	análisis histológico
+T2	PROCEDIMIENTO 2520 2547	radioterapia postoperatoria
+T3	PROCEDIMIENTO 1252 1401	disección cervical funcional izquierda tipo III, incluyendo el nervio hipogloso, el músculo digástrico y la rama marginal del nervio facial izquierdo
+T4	PROCEDIMIENTO 2567 2579	radioterapia
+T5	PROCEDIMIENTO 2758 2760	RM
+T6	PROCEDIMIENTO 2763 2787	tomografía computarizada
+T7	PROCEDIMIENTO 1410 1456	fresado de la cara medial mandibular izquierda
+T8	PROCEDIMIENTO 355 373	exploración física
+T9	PROCEDIMIENTO 1971 1997	estudio inmunohistoquímico
+T10	PROCEDIMIENTO 639 660	exploración intraoral
+T11	PROCEDIMIENTO 764 825	punción-aspiración con aguja fina (PAAF) guiada por ecografía
+T12	PROCEDIMIENTO 799 803	PAAF
+T13	PROCEDIMIENTO 901 903	RM
+T14	PROCEDIMIENTO 2252 2261	resección
+T15	PROCEDIMIENTO 2708 2731	intervención quirúrgica
+T17	PROCEDIMIENTO 529 538	palpación

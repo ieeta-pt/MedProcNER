@@ -1,0 +1,17 @@
+T1	PROCEDIMIENTO 2562 2587	ecografía abdominopélvica
+T2	PROCEDIMIENTO 759 780	exploración sistémica
+T3	PROCEDIMIENTO 2658 2682	Tomografía Computerizada
+T4	PROCEDIMIENTO 1534 1610	mama izquierda, que requiere tumorectomía más vaciamiento axilar homolateral
+T5	PROCEDIMIENTO 1644 1663	quimio-radioterapia
+T6	PROCEDIMIENTO 2791 2818	nefrectomía radical derecha
+T7	PROCEDIMIENTO 2823 2848	linfadenectomía supracava
+T8	PROCEDIMIENTO 2853 2872	estudio histológico
+T9	PROCEDIMIENTO 2268 2291	estudio citohistológico
+T10	PROCEDIMIENTO 379 400	exploración intraoral
+T11	PROCEDIMIENTO 2373 2392	tiroidectomía total
+T12	PROCEDIMIENTO 492 507	anestesia local
+T13	PROCEDIMIENTO 1876 1904	despistaje tumoral sistémico
+T14	PROCEDIMIENTO 554 587	exéresis completa de las lesiones
+T15	PROCEDIMIENTO 592 617	estudio anatomopatológico
+T16	PROCEDIMIENTO 2397 2424	resultado anatomopatológico
+T20	PROCEDIMIENTO 2516 2532	cirugía tiroidea

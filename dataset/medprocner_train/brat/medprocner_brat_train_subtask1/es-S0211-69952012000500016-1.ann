@@ -1,0 +1,24 @@
+T1	PROCEDIMIENTO 846 864	Exploración física
+T2	PROCEDIMIENTO 969 987	Análisis de sangre
+T3	PROCEDIMIENTO 1671 1688	Análisis de orina
+T4	PROCEDIMIENTO 1809 1850	Radiografías de tórax y columna vertebral
+T5	PROCEDIMIENTO 1884 1930	Ecografía abdominal, renal y de vías urinarias
+T6	PROCEDIMIENTO 2540 2599	estudio endoscópico del tubo digestivo con toma de biopsias
+T7	PROCEDIMIENTO 3158 3182	biopsia renal percutánea
+T8	PROCEDIMIENTO 3062 3080	inmunohistoquímica
+T9	PROCEDIMIENTO 3688 3706	inmunohistoquímica
+T10	PROCEDIMIENTO 1153 1166	proteinograma
+T11	PROCEDIMIENTO 1168 1184	inmunoglobulinas
+T12	PROCEDIMIENTO 1187 1198	complemento
+T13	PROCEDIMIENTO 1782 1800	Sedimento de orina
+T14	PROCEDIMIENTO 3049 3059	rojo congo
+T15	PROCEDIMIENTO 4196 4250	bloqueante del sistema renina-angiotensina-aldosterona
+T16	PROCEDIMIENTO 1088 1093	iones
+T17	PROCEDIMIENTO 1115 1122	lípidos
+T18	PROCEDIMIENTO 1134 1151	Proteínas totales
+T19	PROCEDIMIENTO 2278 2366	hierro y vitaminas B12 y ácido fólico se corrigieron parcialmente con suplementos orales
+T20	PROCEDIMIENTO 1095 1112	enzimas hepáticas
+T21	PROCEDIMIENTO 3617 3627	rojo congo
+T22	PROCEDIMIENTO 4299 4323	marcadores inflamatorios
+T25	PROCEDIMIENTO 833 844	analgésicos
+T26	PROCEDIMIENTO 2027 2036	analítica

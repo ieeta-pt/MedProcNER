@@ -1,0 +1,30 @@
+T1	PROCEDIMIENTO 117 124	scanner
+T2	PROCEDIMIENTO 127 147	resonancia magnética
+T3	PROCEDIMIENTO 282 305	exploración neurológica
+T4	PROCEDIMIENTO 702 720	electrocardiograma
+T5	PROCEDIMIENTO 722 742	doppler transcraneal
+T6	PROCEDIMIENTO 744 770	doppler continuo carotídeo
+T7	PROCEDIMIENTO 804 854	ecografía cardiaca, transtorácica y transesofágica
+T8	PROCEDIMIENTO 1081 1113	tratamiento antibiótico empírico
+T10	PROCEDIMIENTO 1264 1284	radiografia de tórax
+T11	PROCEDIMIENTO 1563 1586	tratamiento antibiótico
+T12	PROCEDIMIENTO 1656 1670	ecocardiograma
+T13	PROCEDIMIENTO 1815 1827	hemocultivos
+T14	PROCEDIMIENTO 2119 2138	ecografía abdominal
+T15	PROCEDIMIENTO 2799 2806	biopsia
+T16	PROCEDIMIENTO 3110 3140	marcadores de crioglobulinemia
+T17	PROCEDIMIENTO 773 785	fondo de ojo
+T18	PROCEDIMIENTO 3342 3362	marcadores tumorales
+T19	PROCEDIMIENTO 3885 3918	tratamiento sintomático paliativo
+T20	PROCEDIMIENTO 3814 3851	quimioterapia con intención paliativa
+T21	PROCEDIMIENTO 3077 3108	estudios de hipercoagulabilidad
+T22	PROCEDIMIENTO 1377 1384	scanner
+T23	PROCEDIMIENTO 3224 3236	hemocultivos
+T24	PROCEDIMIENTO 1928 1938	serologías
+T25	PROCEDIMIENTO 3253 3263	serologías
+T26	PROCEDIMIENTO 1891 1899	cultivos
+T27	PROCEDIMIENTO 471 492	exploración sistémica
+T28	PROCEDIMIENTO 2735 2751	ecocardiográfica
+T29	PROCEDIMIENTO 2579 2593	ecocardiograma
+T30	PROCEDIMIENTO 628 637	analítica
+T32	PROCEDIMIENTO 1151 1177	extracción de hemocultivos

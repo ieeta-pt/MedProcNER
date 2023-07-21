@@ -1,0 +1,22 @@
+T1	PROCEDIMIENTO 605 623	exploración física
+T2	PROCEDIMIENTO 1030 1056	exploración cardiopulmonar
+T3	PROCEDIMIENTO 1155 1164	Hemograma
+T4	PROCEDIMIENTO 1226 1245	gasometría arterial
+T5	PROCEDIMIENTO 1247 1264	análisis de orina
+T6	PROCEDIMIENTO 1549 1586	serologías de VHB, VHC, VIH y sífilis
+T7	PROCEDIMIENTO 1379 1399	marcadores tumorales
+T8	PROCEDIMIENTO 1266 1301	velocidad de sedimentación globular
+T9	PROCEDIMIENTO 1303 1325	niveles de complemento
+T10	PROCEDIMIENTO 1613 1633	estudio inmunológico
+T11	PROCEDIMIENTO 1794 1805	TC torácico
+T12	PROCEDIMIENTO 2062 2080	corticoides orales
+T13	PROCEDIMIENTO 1420 1447	estudio de función tiroidea
+T14	PROCEDIMIENTO 1180 1191	coagulación
+T15	PROCEDIMIENTO 1327 1343	inmunoglobulinas
+T16	PROCEDIMIENTO 1166 1178	electrolitos
+T17	PROCEDIMIENTO 571 598	medicación vasoconstrictora
+T18	PROCEDIMIENTO 1193 1209	función hepática
+T19	PROCEDIMIENTO 1211 1224	función renal
+T20	PROCEDIMIENTO 1345 1360	crioaglutininas
+T21	PROCEDIMIENTO 1362 1376	crioglobulinas
+T26	PROCEDIMIENTO 1106 1153	pruebas complementarias, analíticas y de imagen

@@ -1,0 +1,21 @@
+T1	PROCEDIMIENTO 190 209	ecografía abdominal
+T2	PROCEDIMIENTO 215 235	resonancia magnética
+T3	PROCEDIMIENTO 237 239	RM
+T4	PROCEDIMIENTO 1719 1735	estudio genético
+T5	PROCEDIMIENTO 493 527	biopsia renal guiada por ecografía
+T6	PROCEDIMIENTO 875 889	ecocardiograma
+T7	PROCEDIMIENTO 898 909	RM cardiaca
+T8	PROCEDIMIENTO 979 995	electromiografía
+T9	PROCEDIMIENTO 1102 1117	prueba de sudor
+T10	PROCEDIMIENTO 2528 2557	terapia de reemplazo hormonal
+T11	PROCEDIMIENTO 2787 2799	hemodiálisis
+T12	PROCEDIMIENTO 2832 2861	injerto renal de donante vivo
+T13	PROCEDIMIENTO 3339 3358	resonancia cardiaca
+T14	PROCEDIMIENTO 3075 3083	biopsias
+T15	PROCEDIMIENTO 1182 1203	estudio oftalmológico
+T16	PROCEDIMIENTO 1823 1887	fragmentos de genes de codificación se amplificaron mediante PCR
+T17	PROCEDIMIENTO 1147 1175	estimulación con pilocarpina
+T18	PROCEDIMIENTO 1740 1816	ácido desoxirribonucleico genómico (ADN) se extrajo de mancha de sangre seca
+T19	PROCEDIMIENTO 1892 1986	secuenciación directa de los 7 exones del gen de GLA se realizó usando un secuenciador capilar
+T20	PROCEDIMIENTO 763 772	analítica
+T21	PROCEDIMIENTO 681 692	exploración

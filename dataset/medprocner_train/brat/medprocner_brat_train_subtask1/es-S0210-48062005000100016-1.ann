@@ -1,0 +1,39 @@
+T1	PROCEDIMIENTO 4039 4058	anatomía patológica
+T2	PROCEDIMIENTO 519 537	exploración física
+T3	PROCEDIMIENTO 3650 3652	TC
+T4	PROCEDIMIENTO 64 85	antidiabéticos orales
+T5	PROCEDIMIENTO 3678 3697	punción transrectal
+T6	PROCEDIMIENTO 3077 3120	punción transrectal ecodirigida del absceso
+T7	PROCEDIMIENTO 1318 1353	tratamiento antibiótico intravenoso
+T8	PROCEDIMIENTO 3723 3750	prostatectomía transvesical
+T9	PROCEDIMIENTO 2193 2219	antibioterapia intravenosa
+T10	PROCEDIMIENTO 1372 1384	urinocultivo
+T11	PROCEDIMIENTO 652 664	tacto rectal
+T12	PROCEDIMIENTO 2236 2261	Adenomectomía tipo Millin
+T13	PROCEDIMIENTO 3200 3230	cultivo del exudado prostático
+T14	PROCEDIMIENTO 205 207	RT
+T15	PROCEDIMIENTO 2316 2330	antibioterapia
+T16	PROCEDIMIENTO 1588 1614	antibioterapia intravenosa
+T17	PROCEDIMIENTO 3399 3401	TC
+T18	PROCEDIMIENTO 449 472	tratamiento antibiótico
+T19	PROCEDIMIENTO 2526 2554	cultivo fraccionado de orina
+T20	PROCEDIMIENTO 3478 3480	TC
+T21	PROCEDIMIENTO 1710 1722	hemocultivos
+T22	PROCEDIMIENTO 1725 1737	urinocultivo
+T23	PROCEDIMIENTO 1076 1115	radiografías simples de tórax y abdomen
+T24	PROCEDIMIENTO 2709 2730	ecografía transrectal
+T25	PROCEDIMIENTO 1918 1944	antibioterapia intravenosa
+T26	PROCEDIMIENTO 1197 1217	ecografía de abdomen
+T27	PROCEDIMIENTO 1960 1987	ecografía vésico-prostática
+T28	PROCEDIMIENTO 2973 2987	método doppler
+T29	PROCEDIMIENTO 4147 4156	resección
+T30	PROCEDIMIENTO 1011 1029	sedimento de orina
+T31	PROCEDIMIENTO 767 785	análisis de sangre
+T32	PROCEDIMIENTO 3041 3052	ecográficos
+T33	PROCEDIMIENTO 2575 2598	tratamiento antibiótico
+T34	PROCEDIMIENTO 1545 1554	analítica
+T35	PROCEDIMIENTO 4365 4374	analítica
+T36	PROCEDIMIENTO 3758 3770	intervención
+T37	PROCEDIMIENTO 4431 4443	intervención
+T38	PROCEDIMIENTO 4592 4604	intervención
+T39	PROCEDIMIENTO 3182 3195	microbiología

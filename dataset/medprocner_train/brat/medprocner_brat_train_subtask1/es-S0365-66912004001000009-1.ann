@@ -1,0 +1,14 @@
+T1	PROCEDIMIENTO 130 155	exploración oftalmológica
+T2	PROCEDIMIENTO 744 788	Resonancia Nuclear Magnética (RNM) de órbita
+T3	PROCEDIMIENTO 953 976	tratamiento corticoideo
+T4	PROCEDIMIENTO 1842 1862	TC abdomino-torácico
+T5	PROCEDIMIENTO 1864 1886	TC craneal y orbitario
+T6	PROCEDIMIENTO 1888 1899	Rx torácica
+T7	PROCEDIMIENTO 1901 1927	ecografía abdomino-pélvica
+T8	PROCEDIMIENTO 1930 1960	Scan óseo con Tc 99m difosfato
+T9	PROCEDIMIENTO 2144 2164	ciclo de corticoides
+T10	PROCEDIMIENTO 1302 1320	biopsia incisional
+T11	PROCEDIMIENTO 1392 1411	estudio histológico
+T12	PROCEDIMIENTO 675 696	exploración sistémica
+T13	PROCEDIMIENTO 774 777	RNM
+T14	PROCEDIMIENTO 1615 1680	tinciones inmunohistoquímicas para células histiocitarias (CD 68)

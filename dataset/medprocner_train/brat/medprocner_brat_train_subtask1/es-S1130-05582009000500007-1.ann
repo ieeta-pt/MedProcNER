@@ -1,0 +1,19 @@
+T1	PROCEDIMIENTO 3485 3507	examen histopatológico
+T2	PROCEDIMIENTO 717 749	estudio radiológico convencional
+T3	PROCEDIMIENTO 1274 1304	tomografía axial computarizada
+T4	PROCEDIMIENTO 2773 2790	anestesia general
+T5	PROCEDIMIENTO 2066 2084	biopsia incisional
+T6	PROCEDIMIENTO 2090 2105	anestesia local
+T7	PROCEDIMIENTO 186 218	teleradiografía lateral cervical
+T8	PROCEDIMIENTO 464 477	examen físico
+T9	PROCEDIMIENTO 518 542	examen clínico extraoral
+T10	PROCEDIMIENTO 604 623	palpación intraoral
+T11	PROCEDIMIENTO 3251 3334	colocación de una placa de reconstrucción 2,4 a nivel de ángulo y cuerpo mandibular
+T12	PROCEDIMIENTO 3423 3430	injerto
+T13	PROCEDIMIENTO 3146 3175	curetaje del lecho quirúrgico
+T14	PROCEDIMIENTO 2732 2864	enucleación de la lesión se realizó bajo anestesia general, por medio de un abordaje extraoral a nivel del ángulo mandibular derecho
+T15	PROCEDIMIENTO 2906 2944	colocación de una osteosíntesis rígida
+T16	PROCEDIMIENTO 1558 1690	adquisición de las imágenes fue procesada con el software Dentascan®, obteniéndose reconstrucciones axiales, panorex y transversales
+T17	PROCEDIMIENTO 2018 2037	estudio radiológico
+T18	PROCEDIMIENTO 3007 3059	tabla vestibular muy disminuida, la que fue retirada
+T21	PROCEDIMIENTO 2612 2635	diagnóstico histológico

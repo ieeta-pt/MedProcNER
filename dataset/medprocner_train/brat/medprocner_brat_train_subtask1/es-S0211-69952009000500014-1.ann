@@ -1,0 +1,15 @@
+T1	PROCEDIMIENTO 170 175	parto
+T2	PROCEDIMIENTO 406 424	biopsia intestinal
+T3	PROCEDIMIENTO 749 767	exploración física
+T4	PROCEDIMIENTO 903 914	coagulación
+T5	PROCEDIMIENTO 1054 1074	estudio inmunológico
+T6	PROCEDIMIENTO 1200 1233	serología frente a VHB, VHC y VIH
+T7	PROCEDIMIENTO 1248 1292	anticuerpos antitransglutaminasa tisular IgA
+T8	PROCEDIMIENTO 1410 1425	ecografía renal
+T9	PROCEDIMIENTO 1518 1542	biopsia renal percutánea
+T10	PROCEDIMIENTO 1707 1738	aspirina a dosis antiagregantes
+T11	PROCEDIMIENTO 891 900	hemograma
+T12	PROCEDIMIENTO 1630 1662	tratamiento con dieta sin gluten
+T13	PROCEDIMIENTO 1697 1705	estatina
+T14	PROCEDIMIENTO 1371 1380	sedimento
+T15	PROCEDIMIENTO 880 889	analítica

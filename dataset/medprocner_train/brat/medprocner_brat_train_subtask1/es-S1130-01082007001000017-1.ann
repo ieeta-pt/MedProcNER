@@ -1,0 +1,14 @@
+T1	PROCEDIMIENTO 593 647	palpación de múltiples cuerpos extraños en mesogastrio
+T2	PROCEDIMIENTO 780 801	radiografía abdominal
+T3	PROCEDIMIENTO 1022 1040	electrocardiograma
+T4	PROCEDIMIENTO 1078 1095	análisis de orina
+T5	PROCEDIMIENTO 1661 1680	laparotomía urgente
+T6	PROCEDIMIENTO 1835 1872	gastrotomía transversa a nivel antral
+T7	PROCEDIMIENTO 1878 1932	ileotomía longitudinal a 15 cm de la válvula ileocecal
+T8	PROCEDIMIENTO 1939 2002	colotomías longitudinales (a nivel de colon transverso y sigma)
+T9	PROCEDIMIENTO 1977 2048	colon transverso y sigma), con extracción de múltiples cuerpos extraños
+T10	PROCEDIMIENTO 2064 2119	lavado anterógrado de recto-sigma con suero fisiológico
+T11	PROCEDIMIENTO 2136 2189	colotomía, consiguiendo evacuar otros cuatro paquetes
+T12	PROCEDIMIENTO 511 522	exploración
+T13	PROCEDIMIENTO 1146 1161	benzodiazepinas
+T14	PROCEDIMIENTO 2229 2274	Se extrajeron un total de 96 cuerpos extraños

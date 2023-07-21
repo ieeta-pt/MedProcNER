@@ -1,0 +1,16 @@
+T1	PROCEDIMIENTO 733 750	anestesia general
+T2	PROCEDIMIENTO 79 92	examen físico
+T3	PROCEDIMIENTO 819 860	colocación de sonda orogastrica y vesical
+T4	PROCEDIMIENTO 149 168	ecografía abdominal
+T5	PROCEDIMIENTO 278 298	tomografía computada
+T6	PROCEDIMIENTO 388 427	administración del contraste endovenoso
+T7	PROCEDIMIENTO 513 559	punción con aguja fina para obtener histología
+T8	PROCEDIMIENTO 672 705	exploración por vía laparoscópica
+T9	PROCEDIMIENTO 1385 1460	área de 2cm firmemente adherida a la cápsula renal requiriendo de resección
+T10	PROCEDIMIENTO 1674 1730	drenaje tipo Blake fue dejado por el orificio del trocar
+T11	PROCEDIMIENTO 572 589	anatomopatológico
+T12	PROCEDIMIENTO 933 990	pneumoperitoneo se realizo con aguja de Veress a 1 2 mmHg
+T13	PROCEDIMIENTO 1186 1211	abrir la fascia de Gerota
+T14	PROCEDIMIENTO 1485 1533	fulguración del lecho cruento con láser de argón
+T15	PROCEDIMIENTO 1538 1589	pieza quirúrgica fue extraída en una bolsa plástica
+T16	PROCEDIMIENTO 1906 1925	análisis patológico

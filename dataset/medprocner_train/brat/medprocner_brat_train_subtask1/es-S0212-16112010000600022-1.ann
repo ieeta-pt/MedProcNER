@@ -1,0 +1,25 @@
+T1	PROCEDIMIENTO 2812 2822	TC craneal
+T2	PROCEDIMIENTO 4263 4273	Ileostomía
+T3	PROCEDIMIENTO 5218 5228	ileostomía
+T4	PROCEDIMIENTO 2920 2923	ECG
+T5	PROCEDIMIENTO 2926 2934	Rx tórax
+T6	PROCEDIMIENTO 3133 3183	tratamiento IV con sueroterapia para rehidratación
+T7	PROCEDIMIENTO 179 198	colectomía subtotal
+T8	PROCEDIMIENTO 201 243	ileostomía terminal en fosa iliaca derecha
+T9	PROCEDIMIENTO 275 346	reconstrucción del tránsito intestinal con anastomosis término-terminal
+T10	PROCEDIMIENTO 349 369	cierre de ileostomía
+T11	PROCEDIMIENTO 466 510	resección de 1,5 metros de intestino delgado
+T12	PROCEDIMIENTO 519 587	ileostomía terminal definitiva con muñón rectal abandonado en pelvis
+T13	PROCEDIMIENTO 3581 3599	exploración física
+T14	PROCEDIMIENTO 2036 2046	ileostomía
+T15	PROCEDIMIENTO 2049 2070	tratamiento diurético
+T16	PROCEDIMIENTO 2092 2116	rehidratación parenteral
+T17	PROCEDIMIENTO 2915 2918	TAC
+T18	PROCEDIMIENTO 949 965	diurético de asa
+T19	PROCEDIMIENTO 2159 2168	diurético
+T20	PROCEDIMIENTO 3816 3834	medidas dietéticas
+T21	PROCEDIMIENTO 3847 3899	dieta astringente, baja en grasas y azúcares simples
+T22	PROCEDIMIENTO 5327 5339	electrólitos
+T23	PROCEDIMIENTO 1470 1479	analítica
+T24	PROCEDIMIENTO 2974 2983	analítica
+T25	PROCEDIMIENTO 664 676	intervención

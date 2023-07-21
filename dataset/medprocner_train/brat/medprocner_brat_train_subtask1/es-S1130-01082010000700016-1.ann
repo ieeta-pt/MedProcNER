@@ -1,0 +1,17 @@
+T1	PROCEDIMIENTO 1642 1655	esplenectomía
+T2	PROCEDIMIENTO 85 111	tratamiento anticoagulante
+T3	PROCEDIMIENTO 248 264	CPRE terapéutica
+T4	PROCEDIMIENTO 1451 1464	relaparotomía
+T5	PROCEDIMIENTO 535 615	tomografía axial computerizada (TAC) abdominal con contraste intravenoso directo
+T6	PROCEDIMIENTO 567 570	TAC
+T7	PROCEDIMIENTO 1028 1053	evacuándose hemoperitoneo
+T8	PROCEDIMIENTO 1133 1136	TAC
+T9	PROCEDIMIENTO 1150 1163	esplenectomía
+T10	PROCEDIMIENTO 1165 1180	colecistectomía
+T11	PROCEDIMIENTO 1182 1195	duodenostomía
+T12	PROCEDIMIENTO 1198 1225	extracción del molde biliar
+T13	PROCEDIMIENTO 1240 1266	colocación de tubo de Kher
+T14	PROCEDIMIENTO 1607 1626	anatomía patológica
+T15	PROCEDIMIENTO 1007 1026	laparotomía urgente
+T16	PROCEDIMIENTO 269 289	sedacción consciente
+T18	PROCEDIMIENTO 417 429	intervención

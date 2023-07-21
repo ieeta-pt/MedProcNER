@@ -1,0 +1,19 @@
+T1	PROCEDIMIENTO 1934 1952	cirugía testicular
+T2	PROCEDIMIENTO 877 895	exploración física
+T3	PROCEDIMIENTO 2054 2066	orquiectomía
+T4	PROCEDIMIENTO 1061 1089	ecografía doppler testicular
+T5	PROCEDIMIENTO 321 343	hemicolectomía derecha
+T6	PROCEDIMIENTO 345 359	peritonectomía
+T7	PROCEDIMIENTO 362 420	resección de implantes macroscópicos de peritoneo visceral
+T8	PROCEDIMIENTO 447 509	tratamiento quimioterápico coadyuvante con el esquema mFOLFOX4
+T9	PROCEDIMIENTO 1380 1402	exploración quirúrgica
+T10	PROCEDIMIENTO 722 761	rastreo corporal con In.111 pentreótida
+T11	PROCEDIMIENTO 1606 1677	orquiectomía radical derecha con ligadura del cordón a raíz del escroto
+T12	PROCEDIMIENTO 1503 1538	anatomía patológica intraoperatoria
+T13	PROCEDIMIENTO 1682 1708	análisis anatomopatológico
+T14	PROCEDIMIENTO 649 675	5HIAA en orina de 24 horas
+T15	PROCEDIMIENTO 632 645	quimioterapia
+T16	PROCEDIMIENTO 1967 2016	quimioterapia con esquema FOLFIRI más BEVACIZUMAB
+T17	PROCEDIMIENTO 1993 2000	FOLFIRI
+T18	PROCEDIMIENTO 501 509	mFOLFOX4
+T19	PROCEDIMIENTO 764 769	SPECT

@@ -1,0 +1,18 @@
+T1	PROCEDIMIENTO 1345 1363	electrocardiograma
+T2	PROCEDIMIENTO 1408 1417	ecografía
+T3	PROCEDIMIENTO 1647 1661	ecocardiograma
+T4	PROCEDIMIENTO 2097 2140	pericardiocentesis diagnóstica y evacuadora
+T5	PROCEDIMIENTO 1533 1558	estudio vascular hepático
+T6	PROCEDIMIENTO 2222 2265	extracción de 600 cc de líquido hemorrágico
+T7	PROCEDIMIENTO 1192 1236	serologías para VHA, VHB, VHC, VIH, VEB, CMV
+T8	PROCEDIMIENTO 2344 2395	muestras para bioquímica, microbiología y citología
+T9	PROCEDIMIENTO 2484 2506	estudio microbiológico
+T10	PROCEDIMIENTO 487 499	antibióticos
+T11	PROCEDIMIENTO 2512 2521	citología
+T12	PROCEDIMIENTO 524 604	sustitución de la válvula mitral por una prótesis mecánica mediante esternotomía
+T13	PROCEDIMIENTO 2574 2585	corticoides
+T14	PROCEDIMIENTO 2840 2854	ecocardiograma
+T15	PROCEDIMIENTO 3124 3140	biopsia hepática
+T16	PROCEDIMIENTO 884 893	analítica
+T17	PROCEDIMIENTO 3110 3119	analítica
+T18	PROCEDIMIENTO 732 743	exploración

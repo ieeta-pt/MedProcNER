@@ -1,0 +1,21 @@
+T1	PROCEDIMIENTO 694 697	TAC
+T2	PROCEDIMIENTO 1100 1117	anestesia general
+T3	PROCEDIMIENTO 2107 2120	TC helicoidal
+T4	PROCEDIMIENTO 815 843	QM postoperatoria con FOLFOX
+T5	PROCEDIMIENTO 200 221	bypass aortocoronario
+T6	PROCEDIMIENTO 275 297	hemicolectomía derecha
+T7	PROCEDIMIENTO 974 1019	RF por laparoscopia de la metástasis hepática
+T8	PROCEDIMIENTO 300 327	resección de 15 cm de íleon
+T9	PROCEDIMIENTO 1432 1457	ecografía intraoperatoria
+T10	PROCEDIMIENTO 332 395	reconstrucción del tránsito mediante una anastomosis ileocólica
+T11	PROCEDIMIENTO 1510 1544	control ecográfico y laparoscópico
+T12	PROCEDIMIENTO 565 590	estudio anatomopatológico
+T13	PROCEDIMIENTO 1754 1798	ablación correcta del trayecto intrahepático
+T14	PROCEDIMIENTO 1340 1365	ultrasonido laparoscópico
+T15	PROCEDIMIENTO 1562 1627	inserción del electrodo en el centro de la lesión y a la ablación
+T16	PROCEDIMIENTO 1870 1878	ablación
+T17	PROCEDIMIENTO 1931 1939	ablación
+T18	PROCEDIMIENTO 837 843	FOLFOX
+T19	PROCEDIMIENTO 2086 2088	RF
+T22	PROCEDIMIENTO 508 560	intervención a los 4 días por absceso intraabdominal
+T23	PROCEDIMIENTO 918 940	intervención del tumor

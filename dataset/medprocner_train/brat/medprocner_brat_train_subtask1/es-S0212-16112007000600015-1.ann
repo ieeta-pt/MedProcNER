@@ -1,0 +1,18 @@
+T1	PROCEDIMIENTO 2778 2792	autopsia fetal
+T2	PROCEDIMIENTO 216 231	ultrasonografía
+T3	PROCEDIMIENTO 2678 2773	explantación de los órganos de la madre con fines de donación (hígado, corazón, riñón y córnea)
+T4	PROCEDIMIENTO 1896 1960	vigilancia del bienestar fetal por medición del perfil biofísico
+T5	PROCEDIMIENTO 2242 2268	monitorización tocográfica
+T6	PROCEDIMIENTO 383 417	maniobras de apoyo vital avanzadas
+T7	PROCEDIMIENTO 2472 2494	ultrasonido obstétrico
+T8	PROCEDIMIENTO 855 918	apoyo nutricio y metabólico mixto, por vía enteral y parenteral
+T9	PROCEDIMIENTO 1377 1401	nutricia por vía enteral
+T10	PROCEDIMIENTO 1199 1224	monitorización bioquímica
+T11	PROCEDIMIENTO 584 613	apoyo vital básico y somático
+T12	PROCEDIMIENTO 735 749	apoyo nutricio
+T13	PROCEDIMIENTO 1131 1159	aporte energético y proteico
+T14	PROCEDIMIENTO 1455 1525	aporte enteral a requerimientos totales de macro como micronutrimentos
+T15	PROCEDIMIENTO 1874 1885	ultrasonido
+T16	PROCEDIMIENTO 2634 2657	manejo vital y somático
+T17	PROCEDIMIENTO 1539 1633	mezcla de fórmula polimérica estándar, fórmula alta en proteínas y modulares de oligoelementos
+T18	PROCEDIMIENTO 1792 1860	Se monitorizó de manera seriada el peso del producto de la gestación

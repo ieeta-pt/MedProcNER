@@ -1,0 +1,35 @@
+T1	PROCEDIMIENTO 654 657	ECG
+T2	PROCEDIMIENTO 972 981	Hemograma
+T3	PROCEDIMIENTO 822 834	Espirometría
+T4	PROCEDIMIENTO 747 764	Radiografía tórax
+T5	PROCEDIMIENTO 896 915	Gasometría arterial
+T6	PROCEDIMIENTO 1370 1394	anestesia intrarraquídea
+T7	PROCEDIMIENTO 33 91	histerectomía más anexectomía bilateral y linfaadenectomía
+T8	PROCEDIMIENTO 697 707	marcapasos
+T9	PROCEDIMIENTO 2390 2394	VMNI
+T10	PROCEDIMIENTO 2396 2400	CPAP
+T11	PROCEDIMIENTO 2427 2476	bloqueo transabdominal percutáneo (TAP) bilateral
+T12	PROCEDIMIENTO 1309 1324	benzodiacepinas
+T13	PROCEDIMIENTO 219 246	marcapasos por BAV completo
+T14	PROCEDIMIENTO 1621 1649	fluidoterapia con calentador
+T15	PROCEDIMIENTO 2572 2610	bloqueo de músculos rectos abdominales
+T16	PROCEDIMIENTO 292 340	ventilación mecánica no invasiva (VMNI) nocturna
+T17	PROCEDIMIENTO 326 330	VMNI
+T18	PROCEDIMIENTO 1691 1719	resección del útero y anexos
+T19	PROCEDIMIENTO 2688 2697	analgesia
+T20	PROCEDIMIENTO 1769 1805	linfadenectomía ilíaca y paraaórtica
+T21	PROCEDIMIENTO 2741 2749	opioides
+T22	PROCEDIMIENTO 547 578	colecistectomía por laparotomía
+T23	PROCEDIMIENTO 1919 1934	benzodiacepinas
+T24	PROCEDIMIENTO 1936 1944	mórficos
+T25	PROCEDIMIENTO 2017 2026	analgesia
+T26	PROCEDIMIENTO 2207 2221	oxigenoterapia
+T27	PROCEDIMIENTO 1055 1066	Coagulación
+T28	PROCEDIMIENTO 2248 2267	O2 en gafas nasales
+T29	PROCEDIMIENTO 2183 2203	soporte respiratorio
+T30	PROCEDIMIENTO 1236 1255	02 en gafas nasales
+T31	PROCEDIMIENTO 594 624	cirugía de cataratas bilateral
+T32	PROCEDIMIENTO 511 537	Intervenciones quirúrgicas
+T33	PROCEDIMIENTO 1860 1898	inyección de 10 mg de ketamina en bolo
+T35	PROCEDIMIENTO 2147 2159	intervención
+T36	PROCEDIMIENTO 2957 2969	intervención

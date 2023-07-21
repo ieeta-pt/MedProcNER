@@ -1,0 +1,23 @@
+T1	PROCEDIMIENTO 2934 2965	medidas de soporte hemodinámico
+T2	PROCEDIMIENTO 2971 2985	antibioterapia
+T3	PROCEDIMIENTO 1057 1077	radiografía de tórax
+T4	PROCEDIMIENTO 406 424	exploración física
+T5	PROCEDIMIENTO 1099 1108	Ecografía
+T6	PROCEDIMIENTO 1111 1126	TAC abdominales
+T7	PROCEDIMIENTO 1423 1433	diuréticos
+T8	PROCEDIMIENTO 1449 1463	antibioterapia
+T9	PROCEDIMIENTO 1513 1539	extracción de hemocultivos
+T10	PROCEDIMIENTO 2091 2102	hemocultivo
+T11	PROCEDIMIENTO 2177 2203	antibioterapia intravenosa
+T12	PROCEDIMIENTO 2420 2437	anestesia cutánea
+T13	PROCEDIMIENTO 2517 2546	ventilación mecánica invasiva
+T14	PROCEDIMIENTO 2569 2604	hemofiltración veno-venosa continua
+T15	PROCEDIMIENTO 2670 2693	desbridamiento escrotal
+T16	PROCEDIMIENTO 2695 2739	desbridamiento de fascia hasta raíz de muslo
+T17	PROCEDIMIENTO 2742 2774	amputación abierta supracondílea
+T18	PROCEDIMIENTO 2548 2566	aminas vasoactivas
+T19	PROCEDIMIENTO 2617 2640	intervención quirúrgica
+T20	PROCEDIMIENTO 696 705	analítica
+T21	PROCEDIMIENTO 1753 1762	analítica
+T22	PROCEDIMIENTO 677 688	exploración
+T25	PROCEDIMIENTO 3023 3030	cirugía

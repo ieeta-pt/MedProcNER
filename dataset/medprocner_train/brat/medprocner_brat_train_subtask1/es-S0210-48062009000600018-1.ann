@@ -1,0 +1,24 @@
+T1	PROCEDIMIENTO 1517 1529	RNM pelviana
+T2	PROCEDIMIENTO 1640 1659	TC tóraco-abdominal
+T3	PROCEDIMIENTO 460 471	cistostomía
+T4	PROCEDIMIENTO 37 41	RTUP
+T5	PROCEDIMIENTO 2037 2094	poliquimioterapia paliativa con cisplatino + 5-fluoracilo
+T6	PROCEDIMIENTO 493 508	sondaje uretral
+T7	PROCEDIMIENTO 753 772	ecografía abdominal
+T8	PROCEDIMIENTO 833 869	cistografía por sonda de cistostomía
+T9	PROCEDIMIENTO 1139 1156	antiinflamatorios
+T10	PROCEDIMIENTO 664 675	antibiótico
+T11	PROCEDIMIENTO 309 327	exploración física
+T12	PROCEDIMIENTO 2434 2456	radioterapia paliativa
+T13	PROCEDIMIENTO 2576 2584	mórficos
+T14	PROCEDIMIENTO 1929 1936	biopsia
+T15	PROCEDIMIENTO 2616 2635	cuidados paliativos
+T16	PROCEDIMIENTO 1492 1512	estudio de extensión
+T17	PROCEDIMIENTO 441 471	Se colocó sonda de cistostomía
+T18	PROCEDIMIENTO 2299 2312	quimioterapia
+T19	PROCEDIMIENTO 583 601	sedimento de orina
+T20	PROCEDIMIENTO 965 981	cultivo de orina
+T21	PROCEDIMIENTO 1177 1195	anatomo-patológico
+T23	PROCEDIMIENTO 515 524	analítica
+T24	PROCEDIMIENTO 731 740	analítica
+T25	PROCEDIMIENTO 1212 1219	cirugía

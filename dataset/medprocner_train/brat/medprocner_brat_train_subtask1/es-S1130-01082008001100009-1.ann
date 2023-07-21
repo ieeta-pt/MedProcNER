@@ -1,0 +1,8 @@
+T1	PROCEDIMIENTO 119 137	exploración física
+T2	PROCEDIMIENTO 211 240	radiografía simple de abdomen
+T3	PROCEDIMIENTO 257 291	tomografía computarizada abdominal
+T4	PROCEDIMIENTO 627 660	punción-aspiración con aguja fina
+T5	PROCEDIMIENTO 698 717	estudio histológico
+T6	PROCEDIMIENTO 779 799	resección quirúrgica
+T7	PROCEDIMIENTO 880 898	quimioembolización
+T8	PROCEDIMIENTO 486 518	serologías de virus hepatotropos

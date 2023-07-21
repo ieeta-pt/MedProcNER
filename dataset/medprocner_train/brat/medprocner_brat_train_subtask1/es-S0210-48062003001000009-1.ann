@@ -1,0 +1,38 @@
+T1	PROCEDIMIENTO 3455 3472	Anestesia general
+T2	PROCEDIMIENTO 1161 1179	Exploración física
+T3	PROCEDIMIENTO 2459 2485	cistouretroscopia flexible
+T4	PROCEDIMIENTO 2623 2670	cistouretroscopia con ópticas de 12 y 70 grados
+T5	PROCEDIMIENTO 2491 2500	anestesia
+T6	PROCEDIMIENTO 3218 3243	diverticulectomía uretral
+T7	PROCEDIMIENTO 1739 1860	resonancia magnética nuclear (RMN) de la pelvis en las secuencias T1 axial, T2 axial, T2 graso en imágenes en ambos lados
+T8	PROCEDIMIENTO 3497 3561	Esterilización y preparación del campo de los genitales externos
+T9	PROCEDIMIENTO 1769 1772	RMN
+T10	PROCEDIMIENTO 1229 1276	Exploración de cabeza, cuello y cardio-pulmonar
+T11	PROCEDIMIENTO 953 982	Colecistectomía laparoscópica
+T12	PROCEDIMIENTO 128 149	urografía intravenosa
+T13	PROCEDIMIENTO 1000 1008	cesáreas
+T14	PROCEDIMIENTO 158 179	cistografía miccional
+T15	PROCEDIMIENTO 1037 1065	tratamiento antihipertensivo
+T16	PROCEDIMIENTO 3671 3731	Colocación anterógrada de un tubo de cistostomía suprapúbica
+T17	PROCEDIMIENTO 1392 1438	Examen pélvico en posición de litotomía dorsal
+T18	PROCEDIMIENTO 2948 2959	cistoscopia
+T19	PROCEDIMIENTO 3897 3969	Colocación de un catéter uretral de Foley de 16 Fr en la vejiga urinaria
+T20	PROCEDIMIENTO 3982 3993	cistoscopia
+T21	PROCEDIMIENTO 4036 4150	Se infiltró la pared vaginal anterior con un total de 15 ml de solución salina que contenía lidocaína y epinefrina
+T22	PROCEDIMIENTO 4167 4242	incisión en U invertida y se disecó un colgajo de la pared vaginal anterior
+T23	PROCEDIMIENTO 4304 4348	incisión horizontal en la fascia periuretral
+T24	PROCEDIMIENTO 4354 4437	disecó cuidadosamente un plano entre el divertículo uretral y la fascia periuretral
+T25	PROCEDIMIENTO 5058 5122	cerró la incisión vaginal anterior con sutura continua de Vicryl
+T26	PROCEDIMIENTO 5180 5230	cistotomía suprapúbica se dejo drenando a gravedad
+T27	PROCEDIMIENTO 3404 3426	cirugía reconstructiva
+T28	PROCEDIMIENTO 3851 3869	drenaje a gravedad
+T29	PROCEDIMIENTO 3474 3495	Posición de litotomía
+T30	PROCEDIMIENTO 3584 3669	Puntos fijadores de seda en los labios menores para exponer la pared vaginal anterior
+T31	PROCEDIMIENTO 4505 4557	Se disecó el divertículo hasta el nivel de su cuello
+T32	PROCEDIMIENTO 4566 4600	Se seccionó el cuello diverticular
+T33	PROCEDIMIENTO 4689 4784	Se aproximaron los bordes de la uretra suturando la mucosa uretral de forma continua con Vycril
+T34	PROCEDIMIENTO 4816 4880	se reaproximó la fascia periuretral con puntos sueltos de Vicryl
+T35	PROCEDIMIENTO 5128 5174	Se dejaron puestos el catéter uretral de Foley
+T36	PROCEDIMIENTO 5267 5292	disección del divertículo
+T37	PROCEDIMIENTO 5368 5424	disecar todo el trayecto hasta el cuello del divertículo
+T38	PROCEDIMIENTO 5434 5444	patológico

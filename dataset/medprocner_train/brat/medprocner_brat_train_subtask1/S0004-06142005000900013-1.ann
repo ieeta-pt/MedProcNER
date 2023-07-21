@@ -1,0 +1,15 @@
+T1	PROCEDIMIENTO 480 490	cistograma
+T2	PROCEDIMIENTO 713 724	cistoscopia
+T3	PROCEDIMIENTO 1611 1622	cistoscopia
+T4	PROCEDIMIENTO 47 73	estudio ecográfico pélvico
+T5	PROCEDIMIENTO 1421 1447	estudio inmunohistoquímico
+T6	PROCEDIMIENTO 94 135	ligadura de trompas por vía laparoscópica
+T7	PROCEDIMIENTO 1695 1704	resección
+T8	PROCEDIMIENTO 1019 1058	resección transuretral de la tumoración
+T9	PROCEDIMIENTO 1225 1247	resección transuretral
+T10	PROCEDIMIENTO 1577 1599	resección transuretral
+T11	PROCEDIMIENTO 1773 1830	resección transuretral de ésta y de restos leiomiomatosos
+T12	PROCEDIMIENTO 376 397	urografía intravenosa
+T13	PROCEDIMIENTO 1833 1855	acidificación urinaria
+T14	PROCEDIMIENTO 1728 1795	cistopatía incrustante que se trató mediante resección transuretral
+T15	PROCEDIMIENTO 626 654	analíticas de sangre y orina

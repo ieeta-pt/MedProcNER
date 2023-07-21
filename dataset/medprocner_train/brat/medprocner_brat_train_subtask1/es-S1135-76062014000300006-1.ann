@@ -1,0 +1,25 @@
+T1	PROCEDIMIENTO 3458 3478	estudio toxicológico
+T2	PROCEDIMIENTO 1736 1769	examen interno, macroscópicamente
+T3	PROCEDIMIENTO 3073 3088	histopatológico
+T4	PROCEDIMIENTO 1477 1485	autopsia
+T5	PROCEDIMIENTO 2343 2576	estudios toxicológico, microbiológico e histopatológico muestras de encéfalo, pulmón, hígado, bazo, suprarrenales, corazón, sangre periférica, humor vítreo, líquido pericárdico, contenido intestinal, frotis bronquial, derrame pleural
+T6	PROCEDIMIENTO 2661 2683	estudio microbiológico
+T7	PROCEDIMIENTO 46 68	anexectomía unilateral
+T8	PROCEDIMIENTO 2703 2723	técnicas antigénicas
+T9	PROCEDIMIENTO 213 245	antiinflamatorios no esteroideos
+T10	PROCEDIMIENTO 247 251	AINE
+T11	PROCEDIMIENTO 2978 3057	estudio de resistencia a antibióticos mediante concentración mínima inhibitoria
+T12	PROCEDIMIENTO 446 457	antitérmico
+T13	PROCEDIMIENTO 460 484	observación domiciliaria
+T14	PROCEDIMIENTO 687 705	exploración física
+T15	PROCEDIMIENTO 851 889	palpar los pulsos periféricos radiales
+T16	PROCEDIMIENTO 969 979	gasometría
+T17	PROCEDIMIENTO 1197 1224	tratamiento con corticoides
+T18	PROCEDIMIENTO 1227 1257	antibioticoterapia intravenosa
+T19	PROCEDIMIENTO 1331 1357	reanimación cardiopulmonar
+T20	PROCEDIMIENTO 2772 2775	PCR
+T21	PROCEDIMIENTO 1523 1537	examen externo
+T22	PROCEDIMIENTO 2725 2732	cultivo
+T23	PROCEDIMIENTO 2735 2770	reacción en cadena de la polimerasa
+T24	PROCEDIMIENTO 957 966	analítica
+T25	PROCEDIMIENTO 2931 2972	caracterización epidemiológica de la cepa

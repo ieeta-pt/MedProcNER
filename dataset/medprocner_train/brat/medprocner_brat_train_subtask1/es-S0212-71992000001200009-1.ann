@@ -1,0 +1,11 @@
+T1	PROCEDIMIENTO 743 761	exploración física
+T2	PROCEDIMIENTO 83 114	biopsia pulmonar transbronquial
+T3	PROCEDIMIENTO 159 170	corticoides
+T4	PROCEDIMIENTO 1235 1260	gasometría arterial basal
+T5	PROCEDIMIENTO 222 258	oxigenoterapia continua domiciliaria
+T6	PROCEDIMIENTO 981 1002	auscultación cardíaca
+T7	PROCEDIMIENTO 1355 1373	electrocardiograma
+T8	PROCEDIMIENTO 1464 1485	radiografía de cuello
+T9	PROCEDIMIENTO 1546 1566	radiografía de tórax
+T10	PROCEDIMIENTO 1752 1790	tomografía computarizada (TC) de tórax
+T11	PROCEDIMIENTO 2072 2094	controles radiológicos

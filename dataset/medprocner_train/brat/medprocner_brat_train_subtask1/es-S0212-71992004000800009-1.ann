@@ -1,0 +1,18 @@
+T1	PROCEDIMIENTO 3321 3339	biopsia ganglionar
+T2	PROCEDIMIENTO 3634 3667	tratamiento con poliquimioterapia
+T3	PROCEDIMIENTO 688 722	exploración somática y neurológica
+T4	PROCEDIMIENTO 988 1007	Gasometría arterial
+T5	PROCEDIMIENTO 1073 1087	placa de tórax
+T6	PROCEDIMIENTO 1247 1266	ecografía abdominal
+T7	PROCEDIMIENTO 1269 1302	TAC torácico, abdominal y pélvico
+T8	PROCEDIMIENTO 1598 1626	ecocardiograma transtorácico
+T9	PROCEDIMIENTO 1821 1841	ventilación mecánica
+T10	PROCEDIMIENTO 1956 1976	ventilación mecánica
+T11	PROCEDIMIENTO 2082 2099	TAC y RMN craneal
+T12	PROCEDIMIENTO 2431 2475	PAAF y biopsia de adenopatía supraclavicular
+T13	PROCEDIMIENTO 2731 2816	estudios microbiológicos en sangre, orina, esputo, brocoaspirado y punción ganglionar
+T14	PROCEDIMIENTO 2966 3018	serologías para Toxoplasma, virus hepatotropos y RPR
+T15	PROCEDIMIENTO 3595 3623	estudio de extensión tumoral
+T16	PROCEDIMIENTO 3349 3369	marcadores tumorales
+T17	PROCEDIMIENTO 2878 2913	tinciones de muestras respiratorias
+T18	PROCEDIMIENTO 2633 2644	carga viral

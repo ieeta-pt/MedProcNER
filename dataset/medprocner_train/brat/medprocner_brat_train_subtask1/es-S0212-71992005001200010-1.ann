@@ -1,0 +1,25 @@
+T1	PROCEDIMIENTO 3119 3143	examen de la médula ósea
+T2	PROCEDIMIENTO 1481 1512	biopsia de la lesión intranasal
+T3	PROCEDIMIENTO 942 971	biopsia de la masa intranasal
+T4	PROCEDIMIENTO 999 1058	biopsia incisional de la tumoración submandibular izquierda
+T5	PROCEDIMIENTO 3706 3735	serología para VIH, VHB y VHC
+T6	PROCEDIMIENTO 4045 4078	tratamiento con poliquimioterapia
+T7	PROCEDIMIENTO 1063 1102	tomografía computerizada cervico-facial
+T8	PROCEDIMIENTO 4090 4113	radioterapia secuencial
+T9	PROCEDIMIENTO 4140 4174	trasplante autólogo de médula ósea
+T10	PROCEDIMIENTO 265 283	cirugía bariatrica
+T11	PROCEDIMIENTO 2860 2901	tomografía computerizada toraco-abdominal
+T12	PROCEDIMIENTO 3462 3484	estudio de médula ósea
+T13	PROCEDIMIENTO 2948 2970	biopsia de médula ósea
+T14	PROCEDIMIENTO 1964 2002	biopsia de la tumoración submandibular
+T15	PROCEDIMIENTO 813 844	aspirado/biopsia de médula ósea
+T16	PROCEDIMIENTO 864 873	hemograma
+T17	PROCEDIMIENTO 2264 2286	determinación del EBER
+T18	PROCEDIMIENTO 2835 2855	estudio de extensión
+T19	PROCEDIMIENTO 3813 3833	fórmula leucocitaria
+T20	PROCEDIMIENTO 1807 1821	inmunofenotipo
+T21	PROCEDIMIENTO 2213 2227	inmunofenotipo
+T22	PROCEDIMIENTO 1866 1884	inmunohistoquímica
+T23	PROCEDIMIENTO 3064 3077	proteinograma
+T24	PROCEDIMIENTO 3040 3062	perfil renal, hepático
+T26	PROCEDIMIENTO 3025 3035	bioquímica

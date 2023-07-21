@@ -1,0 +1,10 @@
+T1	PROCEDIMIENTO 153 171	pomada antibiótica
+T2	PROCEDIMIENTO 174 193	lavados palpebrales
+T3	PROCEDIMIENTO 410 424	biomicroscopía
+T4	PROCEDIMIENTO 1099 1111	radioterapia
+T5	PROCEDIMIENTO 673 718	tomografía axial computarizada (TC) orbitaria
+T6	PROCEDIMIENTO 705 707	TC
+T7	PROCEDIMIENTO 581 599	biopsia incisional
+T8	PROCEDIMIENTO 906 926	estudio de extensión
+T9	PROCEDIMIENTO 1037 1059	radioterapia paliativa
+T10	PROCEDIMIENTO 201 212	exploración

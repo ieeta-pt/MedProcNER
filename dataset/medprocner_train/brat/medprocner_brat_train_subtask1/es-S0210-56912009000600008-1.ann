@@ -1,0 +1,17 @@
+T1	PROCEDIMIENTO 328 336	intubado
+T2	PROCEDIMIENTO 1261 1280	broncoscopia rígida
+T3	PROCEDIMIENTO 353 373	ventilación mecánica
+T4	PROCEDIMIENTO 1286 1315	colocar una prótesis traqueal
+T5	PROCEDIMIENTO 1320 1400	broncoscopia rígida se combina con laserterapia con láser Nd-YAG sobre la lesión
+T6	PROCEDIMIENTO 432 442	extubación
+T7	PROCEDIMIENTO 160 206	intervenido de cuádruple bypass aortocoronario
+T8	PROCEDIMIENTO 985 1002	fibrobroncoscopia
+T9	PROCEDIMIENTO 1465 1488	recanalización traqueal
+T10	PROCEDIMIENTO 242 272	ecocardiografía transesofágica
+T11	PROCEDIMIENTO 582 594	reintubación
+T12	PROCEDIMIENTO 1064 1102	tomografía computarizada (TC) cervical
+T13	PROCEDIMIENTO 597 630	reconexión al ventilador mecánico
+T14	PROCEDIMIENTO 1413 1455	resección mecánica con broncoscopio rígido
+T15	PROCEDIMIENTO 211 237	circulación extra-corpórea
+T16	PROCEDIMIENTO 1090 1092	TC
+T17	PROCEDIMIENTO 1480 1523	traqueal se coloca una prótesis de silicona

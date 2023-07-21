@@ -1,0 +1,18 @@
+T1	PROCEDIMIENTO 903 927	tomografía computarizada
+T2	PROCEDIMIENTO 1378 1387	peritomía
+T3	PROCEDIMIENTO 1953 1979	vitrectomía vía pars plana
+T4	PROCEDIMIENTO 930 950	resonancia magnética
+T5	PROCEDIMIENTO 1397 1433	extracción del cristalino prolapsado
+T6	PROCEDIMIENTO 1982 2018	sutura de lente intraocular a sulcus
+T7	PROCEDIMIENTO 1435 1463	sutura de la herida escleral
+T8	PROCEDIMIENTO 338 359	antidiabéticos orales
+T9	PROCEDIMIENTO 546 582	exploración con lámpara de hendidura
+T10	PROCEDIMIENTO 1661 1681	lámpara de hendidura
+T11	PROCEDIMIENTO 1482 1517	antibioterapia intravenosa y tópica
+T12	PROCEDIMIENTO 1796 1808	fondo de ojo
+T13	PROCEDIMIENTO 1886 1902	ecografia modo B
+T14	PROCEDIMIENTO 274 291	corrección óptica
+T15	PROCEDIMIENTO 521 532	estenopeico
+T17	PROCEDIMIENTO 1542 1549	cirugía
+T18	PROCEDIMIENTO 1932 1939	cirugía
+T21	PROCEDIMIENTO 884 901	pruebas de imagen

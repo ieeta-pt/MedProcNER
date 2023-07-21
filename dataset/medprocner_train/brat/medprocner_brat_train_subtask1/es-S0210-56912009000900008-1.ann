@@ -1,0 +1,20 @@
+T1	PROCEDIMIENTO 126 139	quimioterapia
+T2	PROCEDIMIENTO 142 154	radioterapia
+T3	PROCEDIMIENTO 846 866	ventilación mecánica
+T4	PROCEDIMIENTO 871 891	radiografía de tórax
+T5	PROCEDIMIENTO 1041 1078	cateterización de la arteria pulmonar
+T6	PROCEDIMIENTO 1837 1848	TC torácica
+T7	PROCEDIMIENTO 2052 2073	lavado broncoalveolar
+T8	PROCEDIMIENTO 2429 2452	frotis nasal y faríngeo
+T9	PROCEDIMIENTO 1669 1680	corticoides
+T10	PROCEDIMIENTO 2078 2100	cultivo bacteriológico
+T11	PROCEDIMIENTO 821 843	intubación orotraqueal
+T12	PROCEDIMIENTO 218 280	metástasis cerebral sobre la que se realiza resección completa
+T13	PROCEDIMIENTO 2182 2237	serologías de neumonías atípicas (Legionella, Chlamydia
+T14	PROCEDIMIENTO 527 550	tratamiento antibiótico
+T15	PROCEDIMIENTO 2511 2517	RT-PCR
+T16	PROCEDIMIENTO 2459 2509	reacción en cadena de la polimerasa en tiempo real
+T17	PROCEDIMIENTO 302 326	radioterapia holocraneal
+T18	PROCEDIMIENTO 1556 1597	tratamiento antibiótico de forma empírica
+T19	PROCEDIMIENTO 2111 2124	Ziehl-Nielsen
+T20	PROCEDIMIENTO 2684 2723	se realiza el destete de la ventilación

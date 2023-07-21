@@ -1,0 +1,20 @@
+T1	PROCEDIMIENTO 245 263	exploración física
+T2	PROCEDIMIENTO 2719 2739	análisis histológico
+T3	PROCEDIMIENTO 709 737	biopsia con acceso intraoral
+T4	PROCEDIMIENTO 2843 2845	RM
+T5	PROCEDIMIENTO 1240 1260	resonancia magnética
+T6	PROCEDIMIENTO 1262 1264	RM
+T7	PROCEDIMIENTO 1823 1858	biopsia y aspiración de médula ósea
+T8	PROCEDIMIENTO 2373 2427	resección de la musculatura facial y del tejido blando
+T9	PROCEDIMIENTO 1892 1917	PET-TC de cuerpo completo
+T10	PROCEDIMIENTO 478 499	exploración intraoral
+T11	PROCEDIMIENTO 1575 1607	gadolinio tras su administración
+T12	PROCEDIMIENTO 656 692	exploración de la cabeza y el cuello
+T13	PROCEDIMIENTO 1146 1173	análisis inmunohistoquímico
+T14	PROCEDIMIENTO 2253 2280	administración de contraste
+T15	PROCEDIMIENTO 2004 2006	RM
+T16	PROCEDIMIENTO 2308 2330	tratamiento quirúrgico
+T17	PROCEDIMIENTO 739 755	Histológicamente
+T18	PROCEDIMIENTO 1976 1999	protocolo Euro-EWING 99
+T22	PROCEDIMIENTO 2534 2551	radiográficamente
+#1	AnnotatorNotes T4	     RM: resonancia magnética (nuclear)

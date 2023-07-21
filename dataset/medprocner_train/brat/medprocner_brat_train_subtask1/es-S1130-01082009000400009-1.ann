@@ -1,0 +1,18 @@
+T1	PROCEDIMIENTO 483 501	exploración física
+T2	PROCEDIMIENTO 99 125	tratamiento inmunosupresor
+T3	PROCEDIMIENTO 2938 2947	necropsia
+T4	PROCEDIMIENTO 383 404	tratamiento biológico
+T5	PROCEDIMIENTO 1159 1171	sueroterapia
+T6	PROCEDIMIENTO 1174 1207	antibioterapia de amplio espectro
+T7	PROCEDIMIENTO 1593 1616	ecografia Doppler renal
+T8	PROCEDIMIENTO 1800 1816	hiperhidratación
+T9	PROCEDIMIENTO 1818 1844	alcalinización de la orina
+T10	PROCEDIMIENTO 1846 1858	hemodiálisis
+T11	PROCEDIMIENTO 2049 2068	TAC abdominopélvico
+T12	PROCEDIMIENTO 2605 2632	resonancia abdomino-pélvica
+T13	PROCEDIMIENTO 964 988	reactantes de fase aguda
+T14	PROCEDIMIENTO 849 858	analítica
+T15	PROCEDIMIENTO 2528 2548	hallazgo radiológico
+T16	PROCEDIMIENTO 250 261	salicilatos
+T17	PROCEDIMIENTO 1098 1109	salicilatos
+T46	PROCEDIMIENTO 2817 2828	falleciendo

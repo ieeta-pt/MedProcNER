@@ -1,0 +1,23 @@
+T1	PROCEDIMIENTO 1771 1789	sonda nasogástrica
+T2	PROCEDIMIENTO 1791 1804	fluidoterapia
+T3	PROCEDIMIENTO 1807 1816	analgesia
+T4	PROCEDIMIENTO 159 180	parto por vía vaginal
+T5	PROCEDIMIENTO 1972 2004	laparotomía media infraumbilical
+T6	PROCEDIMIENTO 474 492	exploración física
+T7	PROCEDIMIENTO 2263 2282	exploración pélvica
+T8	PROCEDIMIENTO 2319 2338	resección ileocecal
+T9	PROCEDIMIENTO 619 651	palpación en hemiabdomen derecho
+T10	PROCEDIMIENTO 2341 2376	anastomosis látero-lateral mecánica
+T11	PROCEDIMIENTO 2387 2435	drenaje del líquido del fondo de saco de Douglas
+T12	PROCEDIMIENTO 2484 2503	estudio histológico
+T13	PROCEDIMIENTO 1036 1050	RX abdominales
+T14	PROCEDIMIENTO 1251 1270	ecografía abdominal
+T15	PROCEDIMIENTO 1393 1406	TAC abdominal
+T16	PROCEDIMIENTO 3125 3192	tratamiento con análogos de la hormona liberadora de gonadotropinas
+T17	PROCEDIMIENTO 2459 2478	Anatomía Patológica
+T18	PROCEDIMIENTO 996 1016	sistemático de orina
+T19	PROCEDIMIENTO 1912 1935	intervención quirúrgica
+T20	PROCEDIMIENTO 804 813	analítica
+T21	PROCEDIMIENTO 926 935	analítica
+T22	PROCEDIMIENTO 1599 1613	contraste oral
+T23	PROCEDIMIENTO 1854 1865	radiológica

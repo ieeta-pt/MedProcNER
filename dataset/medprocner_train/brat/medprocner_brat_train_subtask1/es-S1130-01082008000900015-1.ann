@@ -1,0 +1,15 @@
+T1	PROCEDIMIENTO 251 263	tacto rectal
+T2	PROCEDIMIENTO 401 413	gastroscopia
+T3	PROCEDIMIENTO 439 480	colonoscopia hasta ciego e íleon terminal
+T4	PROCEDIMIENTO 570 589	cápsula endoscópica
+T5	PROCEDIMIENTO 646 680	gammagrafía con Tc99m-pertecnetato
+T6	PROCEDIMIENTO 942 959	anestesia general
+T7	PROCEDIMIENTO 1160 1207	resección intestinal, incluyendo el divertículo
+T8	PROCEDIMIENTO 1366 1386	tranfusión sanguínea
+T9	PROCEDIMIENTO 1391 1410	anatomía patológica
+T10	PROCEDIMIENTO 960 992	realizando incisión de Mc Burney
+T11	PROCEDIMIENTO 1210 1245	anastomosis latero-lateral mecánica
+T12	PROCEDIMIENTO 1250 1277	apendicectomía profiláctica
+T13	PROCEDIMIENTO 169 180	Exploración
+T14	PROCEDIMIENTO 302 311	analítica
+T15	PROCEDIMIENTO 924 936	intervención

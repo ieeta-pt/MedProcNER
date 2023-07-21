@@ -1,0 +1,22 @@
+T1	PROCEDIMIENTO 404 417	examen físico
+T2	PROCEDIMIENTO 1179 1202	estudio histopatológico
+T3	PROCEDIMIENTO 734 758	tomografía computarizada
+T4	PROCEDIMIENTO 3214 3237	exámenes imagenológicos
+T5	PROCEDIMIENTO 760 762	TC
+T6	PROCEDIMIENTO 1548 1569	terapia descompresiva
+T7	PROCEDIMIENTO 3250 3270	radiografía de tórax
+T8	PROCEDIMIENTO 3272 3285	escáner total
+T9	PROCEDIMIENTO 3288 3306	escintigrafía ósea
+T10	PROCEDIMIENTO 530 539	palpación
+T11	PROCEDIMIENTO 1791 1793	TC
+T12	PROCEDIMIENTO 1829 1850	terapia descompresiva
+T13	PROCEDIMIENTO 1106 1136	instalación de tubo de drenaje
+T14	PROCEDIMIENTO 2114 2144	procedimiento de descompresión
+T15	PROCEDIMIENTO 2228 2250	excéresis de la lesión
+T16	PROCEDIMIENTO 2255 2263	curetaje
+T17	PROCEDIMIENTO 2339 2445	defecto óseo subyacente fue reconstruido mediante la utilización de una placa de reconstrucción mandibular
+T18	PROCEDIMIENTO 2478 2501	estudio histopatológico
+T19	PROCEDIMIENTO 1085 1103	biopsia incisional
+T20	PROCEDIMIENTO 2266 2334	aplicación de solución de Carnoy durante 30 s en el lecho operatorio
+T21	PROCEDIMIENTO 3407 3429	tratamiento oncológico
+T22	PROCEDIMIENTO 2199 2212	radiofráficos

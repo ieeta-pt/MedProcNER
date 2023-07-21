@@ -1,0 +1,18 @@
+T1	PROCEDIMIENTO 311 348	resección de adenoma tubular de colón
+T2	PROCEDIMIENTO 384 399	colecistectomía
+T3	PROCEDIMIENTO 493 526	resección subtotal de la vesícula
+T4	PROCEDIMIENTO 647 660	dicumarínicos
+T5	PROCEDIMIENTO 913 934	Auscultación cardiaca
+T6	PROCEDIMIENTO 965 986	Auscultación pulmonar
+T7	PROCEDIMIENTO 1425 1515	tratamiento con fluidoterapia, dopamina y antibiótico empírico con piperacilina/tazobactam
+T8	PROCEDIMIENTO 1588 1601	TAC-abdominal
+T9	PROCEDIMIENTO 1702 1747	Ecocardiograma transtorácico y transesofágico
+T10	PROCEDIMIENTO 1918 1941	tratamiento antibiótico
+T11	PROCEDIMIENTO 1943 1970	PAAF de una lesión hepática
+T12	PROCEDIMIENTO 1972 1976	ERCP
+T13	PROCEDIMIENTO 2036 2079	papilotomía para asegurar el drenaje biliar
+T14	PROCEDIMIENTO 2215 2224	necropsia
+T15	PROCEDIMIENTO 2618 2653	aislado en sangre y muestra de PAAF
+T20	PROCEDIMIENTO 1166 1175	analítica
+T22	PROCEDIMIENTO 794 805	exploración
+T23	PROCEDIMIENTO 1035 1067	palpación en hemiabdomen derecho

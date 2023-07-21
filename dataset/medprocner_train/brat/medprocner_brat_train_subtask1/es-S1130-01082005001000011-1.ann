@@ -1,0 +1,11 @@
+T1	PROCEDIMIENTO 111 120	ecografía
+T2	PROCEDIMIENTO 123 138	TAC abdominales
+T3	PROCEDIMIENTO 186 229	pancreática, con punción aspiración biopsia
+T4	PROCEDIMIENTO 338 356	exploración física
+T5	PROCEDIMIENTO 461 480	Ecografía abdominal
+T6	PROCEDIMIENTO 760 773	TAC abdominal
+T7	PROCEDIMIENTO 776 793	RMN con contraste
+T8	PROCEDIMIENTO 836 891	punción aspiración con aguja fina de uno de los quistes
+T9	PROCEDIMIENTO 359 368	analítica
+T10	PROCEDIMIENTO 1339 1361	tratamiento quirúrgico
+T14	PROCEDIMIENTO 1182 1194	radiológicos

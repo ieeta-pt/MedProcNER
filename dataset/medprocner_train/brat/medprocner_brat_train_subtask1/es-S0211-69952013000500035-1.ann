@@ -1,0 +1,17 @@
+T1	PROCEDIMIENTO 1271 1339	tratamiento con un inhibidor selectivo de la tirosina cinasa de cKit
+T2	PROCEDIMIENTO 1889 1911	hemodiálisis periódica
+T3	PROCEDIMIENTO 158 170	colonoscopia
+T4	PROCEDIMIENTO 248 260	gastroscopia
+T5	PROCEDIMIENTO 1514 1575	tomografía por emisión de positrones/tomografía computarizada
+T6	PROCEDIMIENTO 343 376	histología de la biopsia gástrica
+T7	PROCEDIMIENTO 1045 1058	biopsia renal
+T8	PROCEDIMIENTO 457 475	inmunohistoquímica
+T9	PROCEDIMIENTO 1119 1146	biopsias gastrointestinales
+T10	PROCEDIMIENTO 557 622	biopsias de la mucosa gástrica, del tumor y de la mucosa colónica
+T11	PROCEDIMIENTO 1245 1259	ecocardiograma
+T12	PROCEDIMIENTO 322 338	toma de biopsias
+T13	PROCEDIMIENTO 1422 1444	extirpación quirúrgica
+T14	PROCEDIMIENTO 1633 1684	estómago y el ángulo esplénico del colon extirpados
+T15	PROCEDIMIENTO 1583 1602	anatomía patológica
+T16	PROCEDIMIENTO 960 969	sedimento
+T17	PROCEDIMIENTO 703 712	analítica

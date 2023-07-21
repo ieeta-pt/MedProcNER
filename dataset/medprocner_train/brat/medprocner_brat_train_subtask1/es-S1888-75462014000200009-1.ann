@@ -1,0 +1,18 @@
+T1	PROCEDIMIENTO 745 758	ECG de reposo
+T2	PROCEDIMIENTO 1910 1918	ablación
+T3	PROCEDIMIENTO 1226 1252	estudio electrofisiológico
+T4	PROCEDIMIENTO 1397 1442	mapeo y ablación en región septal perihisiana
+T5	PROCEDIMIENTO 637 640	ECG
+T6	PROCEDIMIENTO 1254 1257	EEF
+T7	PROCEDIMIENTO 1261 1284	ablación de vía anómala
+T8	PROCEDIMIENTO 1969 1972	ECG
+T9	PROCEDIMIENTO 885 900	ecocardiografía
+T10	PROCEDIMIENTO 1984 2002	holter de 24 horas
+T11	PROCEDIMIENTO 908 935	holter de ritmo de 24 horas
+T12	PROCEDIMIENTO 183 196	examen médico
+T13	PROCEDIMIENTO 1507 1604	radiofrecuencia (RF) sobre la vía accesoria auriculo-ventricular (AV) de conducción bidireccional
+T14	PROCEDIMIENTO 233 242	anamnesis
+T15	PROCEDIMIENTO 990 1041	prueba de esfuerzo en cinta, con protocolo de Bruce
+T16	PROCEDIMIENTO 342 355	ECG de reposo
+T17	PROCEDIMIENTO 723 734	ablacionado
+T18	PROCEDIMIENTO 1325 1384	electrocatéteres: uno para diagnóstico con registro del His

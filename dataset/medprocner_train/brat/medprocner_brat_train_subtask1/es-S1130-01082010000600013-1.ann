@@ -1,0 +1,13 @@
+T1	PROCEDIMIENTO 546 558	colonoscopia
+T2	PROCEDIMIENTO 78 93	betabloqueantes
+T3	PROCEDIMIENTO 1091 1103	gastroscopia
+T4	PROCEDIMIENTO 122 136	antiagregantes
+T6	PROCEDIMIENTO 139 171	inhibidores de bomba de protones
+T7	PROCEDIMIENTO 1114 1154	colonoscopia para nueva toma de biopsias
+T8	PROCEDIMIENTO 826 834	biopsias
+T9	PROCEDIMIENTO 1478 1490	colonoscopia
+T10	PROCEDIMIENTO 496 521	colonoscopia con sedación
+T11	PROCEDIMIENTO 1535 1576	biopsias gástricas, duodenales y de colon
+T12	PROCEDIMIENTO 803 822	anatomía patológica
+T13	PROCEDIMIENTO 1512 1527	histopatológico
+T14	PROCEDIMIENTO 1923 1945	hallazgos endoscópicos

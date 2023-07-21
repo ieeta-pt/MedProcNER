@@ -1,0 +1,15 @@
+T1	PROCEDIMIENTO 1893 1901	TC torax
+T2	PROCEDIMIENTO 2104 2116	broncoscopia
+T3	PROCEDIMIENTO 2685 2698	quimioterapia
+T4	PROCEDIMIENTO 2308 2315	biopsia
+T5	PROCEDIMIENTO 722 744	radiografía de abdomen
+T6	PROCEDIMIENTO 818 837	ecografía abdominal
+T7	PROCEDIMIENTO 1250 1276	laparotomía supraumbilical
+T8	PROCEDIMIENTO 1383 1423	resección segmentaria de 30 cm de yeyuno
+T9	PROCEDIMIENTO 1594 1620	estudio inmunohistoquímico
+T10	PROCEDIMIENTO 1146 1166	inducción anestésica
+T11	PROCEDIMIENTO 1112 1135	intervención quirúrgica
+T12	PROCEDIMIENTO 639 648	analítica
+T13	PROCEDIMIENTO 399 410	exploración
+T14	PROCEDIMIENTO 2384 2409	patrón inmunohistoquímico
+T17	PROCEDIMIENTO 566 589	palpación en epigastrio

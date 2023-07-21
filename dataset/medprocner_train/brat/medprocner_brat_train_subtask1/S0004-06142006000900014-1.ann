@@ -1,0 +1,12 @@
+T1	PROCEDIMIENTO 1412 1456	antibioterapia endovenosa de amplio espectro
+T2	PROCEDIMIENTO 358 371	examen físico
+T3	PROCEDIMIENTO 2212 2230	examen histológico
+T4	PROCEDIMIENTO 666 679	función renal
+T5	PROCEDIMIENTO 2926 2949	intervención quirúrgica
+T6	PROCEDIMIENTO 868 953	tomografía axial computerizada abdomino-pélvica con inyección de contraste endovenoso
+T7	PROCEDIMIENTO 1555 1594	nefrectomía derecha mediante lombotomía
+T8	PROCEDIMIENTO 1238 1259	nefrostomía pecutánea
+T9	PROCEDIMIENTO 1339 1350	nefrostomía
+T10	PROCEDIMIENTO 392 410	palpación profunda
+T11	PROCEDIMIENTO 767 791	radiografía reno-vesical
+T12	PROCEDIMIENTO 520 532	Murphy renal

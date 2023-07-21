@@ -1,0 +1,12 @@
+T1	PROCEDIMIENTO 1320 1448	resonancia magnética nuclear (RMN) craneal y orbitaria, con imágenes potenciadas en T1 y axiales potenciadas en difusión y FLAIR
+T2	PROCEDIMIENTO 1350 1353	RMN
+T3	PROCEDIMIENTO 1844 1866	radioterapia paliativa
+T4	PROCEDIMIENTO 276 301	resección parcial tumoral
+T5	PROCEDIMIENTO 994 1019	exploración oftalmológica
+T6	PROCEDIMIENTO 2005 2019	corticoterapia
+T7	PROCEDIMIENTO 2097 2115	sedación paliativa
+T8	PROCEDIMIENTO 769 801	drenajes en la cavidad abdominal
+T9	PROCEDIMIENTO 336 362	tratamiento quimioterápico
+T10	PROCEDIMIENTO 248 271	intervención quirúrgica
+T11	PROCEDIMIENTO 861 884	intervención quirúrgica
+T12	PROCEDIMIENTO 538 565	determinación del gen K-ras

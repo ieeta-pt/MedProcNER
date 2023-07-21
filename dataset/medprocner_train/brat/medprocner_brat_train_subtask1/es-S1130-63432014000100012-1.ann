@@ -1,0 +1,41 @@
+T1	PROCEDIMIENTO 4884 4895	hidratación
+T2	PROCEDIMIENTO 1294 1316	intubación orotraqueal
+T3	PROCEDIMIENTO 1319 1339	ventilación mecánica
+T4	PROCEDIMIENTO 5556 5572	biopsia pulmonar
+T5	PROCEDIMIENTO 4977 4994	hemodiafiltración
+T6	PROCEDIMIENTO 5881 5919	Oxigenación con Membrana Extracorpórea
+T7	PROCEDIMIENTO 5074 5085	hemocultivo
+T8	PROCEDIMIENTO 306 326	radiografía de tórax
+T9	PROCEDIMIENTO 6051 6073	biopsia transbronquial
+T10	PROCEDIMIENTO 4077 4083	HDFVVC
+T11	PROCEDIMIENTO 592 616	estudios microbiológicos
+T12	PROCEDIMIENTO 648 660	hemocultivos
+T13	PROCEDIMIENTO 662 674	urinocultivo
+T14	PROCEDIMIENTO 676 715	antigenuria para Legionella y neumococo
+T15	PROCEDIMIENTO 717 732	frotis faríngeo
+T16	PROCEDIMIENTO 4408 4434	hemodiálisis de alto flujo
+T17	PROCEDIMIENTO 2335 2356	lavado broncoalveolar
+T18	PROCEDIMIENTO 1165 1179	oxigenoterapia
+T19	PROCEDIMIENTO 2392 2423	cultivos bacterianos y fúngicos
+T20	PROCEDIMIENTO 2438 2468	detección de antígenos víricos
+T21	PROCEDIMIENTO 2911 2934	tratamiento antibiótico
+T22	PROCEDIMIENTO 3235 3241	HDFVVC
+T23	PROCEDIMIENTO 3481 3506	tratamientos antibióticos
+T24	PROCEDIMIENTO 2358 2361	LBA
+T25	PROCEDIMIENTO 5477 5517	PCR para Adenovirus se negativizó en LBA
+T26	PROCEDIMIENTO 5653 5674	tratamiento antiviral
+T27	PROCEDIMIENTO 2497 2516	PCR para Adenovirus
+T28	PROCEDIMIENTO 5921 5925	ECMO
+T29	PROCEDIMIENTO 1871 1884	orina de 24 h
+T30	PROCEDIMIENTO 1390 1401	antibiótico
+T31	PROCEDIMIENTO 5287 5298	antibiótico
+T32	PROCEDIMIENTO 2571 2597	aislamiento microbiológico
+T33	PROCEDIMIENTO 878 966	muestra sanguínea para la detección de infección por VIH (anticuerpos anti-VIH y Ag p24)
+T34	PROCEDIMIENTO 2085 2168	determinación de autoanticuerpos para descartar un síndrome renopulmonar autoinmune
+T35	PROCEDIMIENTO 2174 2242	anticuerpos anti-citoplasma de los neutrófilos, y antimembrana basal
+T36	PROCEDIMIENTO 2265 2318	determinación del antígeno de galactomanano en sangre
+T37	PROCEDIMIENTO 3177 3210	iniciar soporte renal sustitutivo
+T38	PROCEDIMIENTO 4273 4304	efecto nefrotóxico de cidofovir
+T39	PROCEDIMIENTO 5936 5964	aislamientos microbiológicos
+T40	PROCEDIMIENTO 418 427	analítica
+T41	PROCEDIMIENTO 185 196	exploración

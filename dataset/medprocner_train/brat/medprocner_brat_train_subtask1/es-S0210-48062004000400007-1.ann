@@ -1,0 +1,15 @@
+T1	PROCEDIMIENTO 262 274	Tórax PA y L
+T2	PROCEDIMIENTO 377 390	TAC abdominal
+T3	PROCEDIMIENTO 987 1003	Gammagrafía ósea
+T4	PROCEDIMIENTO 2046 2066	TAC cervico-torácico
+T5	PROCEDIMIENTO 622 649	administración de contraste
+T6	PROCEDIMIENTO 2393 2457	tiroidectomía total y vaciamiento ganglionar funcional izquierdo
+T7	PROCEDIMIENTO 1456 1475	anatomía patológica
+T8	PROCEDIMIENTO 2664 2701	sesión con dosis ablativa de Yodo-131
+T9	PROCEDIMIENTO 51 60	ecografía
+T10	PROCEDIMIENTO 2460 2480	laringuectomía total
+T11	PROCEDIMIENTO 1247 1283	nefrectomía parcial superior derecha
+T12	PROCEDIMIENTO 235 261	Exploraciones radiológicas
+T13	PROCEDIMIENTO 1556 1582	estudio inmunohistoquímico
+T14	PROCEDIMIENTO 1393 1402	resección
+T15	PROCEDIMIENTO 2528 2545	anatomopatológico

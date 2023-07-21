@@ -1,0 +1,9 @@
+T1	PROCEDIMIENTO 609 643	tomografía computarizada abdominal
+T2	PROCEDIMIENTO 799 824	intubada orotraquealmente
+T3	PROCEDIMIENTO 827 861	conectada a un respirador mecánico
+T4	PROCEDIMIENTO 879 908	tratamiento a base de fluidos
+T5	PROCEDIMIENTO 1362 1374	colonoscopia
+T6	PROCEDIMIENTO 1495 1506	endoscópica
+T7	PROCEDIMIENTO 1653 1676	extirpación del adenoma
+T8	PROCEDIMIENTO 1589 1601	fue extubada
+T9	PROCEDIMIENTO 340 351	exploración

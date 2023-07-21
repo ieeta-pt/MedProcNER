@@ -1,0 +1,19 @@
+T1	PROCEDIMIENTO 323 332	hemograma
+T2	PROCEDIMIENTO 637 678	estudio de extensión de sangre periférica
+T3	PROCEDIMIENTO 1126 1145	ecografía abdominal
+T4	PROCEDIMIENTO 1275 1300	endoscopia digestiva alta
+T5	PROCEDIMIENTO 2261 2291	parámetros de función hepática
+T6	PROCEDIMIENTO 243 261	exploración física
+T7	PROCEDIMIENTO 2297 2306	hemograma
+T8	PROCEDIMIENTO 2311 2336	endoscopia digestiva alta
+T9	PROCEDIMIENTO 2342 2361	ecografía abdominal
+T10	PROCEDIMIENTO 1515 1527	colonoscopia
+T11	PROCEDIMIENTO 1038 1062	cultivos de heces, orina
+T12	PROCEDIMIENTO 2466 2477	ecográficos
+T13	PROCEDIMIENTO 1574 1605	pólipo de 0,6 cm que se extirpa
+T14	PROCEDIMIENTO 1610 1635	estudio anatomopatológico
+T15	PROCEDIMIENTO 1643 1660	biopsias rectales
+T16	PROCEDIMIENTO 786 853	serología para virus hepatotropos, VIH, Toxoplasma, citomegalovirus
+T17	PROCEDIMIENTO 965 991	serología para Schistosoma
+T18	PROCEDIMIENTO 1068 1097	estudio de parásitos en heces
+T19	PROCEDIMIENTO 118 125	cirugía

@@ -1,0 +1,21 @@
+T1	PROCEDIMIENTO 271 292	tratamiento dietético
+T2	PROCEDIMIENTO 923 942	ecografía abdominal
+T3	PROCEDIMIENTO 1006 1019	ecoendoscopia
+T4	PROCEDIMIENTO 1021 1024	USE
+T5	PROCEDIMIENTO 1162 1181	TAC toracoabdominal
+T6	PROCEDIMIENTO 1685 1710	drenaje biliar percutáneo
+T7	PROCEDIMIENTO 1724 1738	colangiografía
+T8	PROCEDIMIENTO 1892 1940	punción-aspiración con aguja fina guiada por USE
+T9	PROCEDIMIENTO 2120 2166	colangiopancreatografía retrógrada endoscópica
+T10	PROCEDIMIENTO 2168 2172	CPRE
+T11	PROCEDIMIENTO 2334 2355	endoprótesis plástica
+T12	PROCEDIMIENTO 2367 2394	tratamiento con corticoides
+T13	PROCEDIMIENTO 2438 2469	se retiró el drenaje percutáneo
+T14	PROCEDIMIENTO 2649 2662	TAC abdominal
+T15	PROCEDIMIENTO 2849 2860	corticoides
+T16	PROCEDIMIENTO 2957 2976	endoprótesis biliar
+T17	PROCEDIMIENTO 1945 1954	citología
+T18	PROCEDIMIENTO 720 753	serologías para virus y bacterias
+T19	PROCEDIMIENTO 651 666	autoanticuerpos
+T20	PROCEDIMIENTO 1988 2001	tinción Zielh
+T22	PROCEDIMIENTO 315 324	analítica

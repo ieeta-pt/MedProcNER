@@ -1,0 +1,13 @@
+T1	PROCEDIMIENTO 1253 1260	biopsia
+T2	PROCEDIMIENTO 245 257	tacto rectal
+T3	PROCEDIMIENTO 409 422	colonoscopias
+T4	PROCEDIMIENTO 714 735	enemas de corticoides
+T5	PROCEDIMIENTO 750 771	supositorios de 5-ASA
+T6	PROCEDIMIENTO 783 795	colonoscopia
+T7	PROCEDIMIENTO 956 975	resección transanal
+T8	PROCEDIMIENTO 317 377	Serología VIH, lues, virus de Epstein-Barr y citomegalovirus
+T9	PROCEDIMIENTO 1154 1164	histología
+T10	PROCEDIMIENTO 189 211	Anamnesis por aparatos
+T11	PROCEDIMIENTO 507 524	anatomopatológico
+T12	PROCEDIMIENTO 1007 1024	anatomopatológico
+T13	PROCEDIMIENTO 884 907	intervención quirúrgica

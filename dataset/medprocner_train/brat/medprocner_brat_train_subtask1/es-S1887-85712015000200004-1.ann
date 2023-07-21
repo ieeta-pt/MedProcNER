@@ -1,0 +1,38 @@
+T1	PROCEDIMIENTO 1175 1311	desbridamiento, limpieza, extracción de las esquirlas óseas y colocación de un fijador externo en brazo izquierdo bajo anestesia general
+T2	PROCEDIMIENTO 1416 1435	analítica sanguínea
+T3	PROCEDIMIENTO 1731 1742	capnografía
+T4	PROCEDIMIENTO 1443 1446	ECG
+T5	PROCEDIMIENTO 1776 1796	análisis biespectral
+T6	PROCEDIMIENTO 797 800	EVA
+T7	PROCEDIMIENTO 1805 1836	monitor continuo de hemoglobina
+T8	PROCEDIMIENTO 256 282	torniquete a nivel humeral
+T9	PROCEDIMIENTO 300 336	hemostático granulado a nivel tópico
+T10	PROCEDIMIENTO 1975 2009	desnitrogenización con FiO2 al 80%
+T11	PROCEDIMIENTO 3392 3413	calentador de fluidos
+T12	PROCEDIMIENTO 3416 3438	manta de aire caliente
+T13	PROCEDIMIENTO 2060 2103	inducción de anestésica de secuencia rápida
+T14	PROCEDIMIENTO 3499 3508	analgesia
+T15	PROCEDIMIENTO 2187 2200	laringoscopia
+T16	PROCEDIMIENTO 3614 3675	bloqueo nervioso periférico ecoguiado a nivel interescalénico
+T17	PROCEDIMIENTO 2282 2328	rellenó el balón de neumotaponamiento con aire
+T18	PROCEDIMIENTO 2368 2390	ventilación protectiva
+T19	PROCEDIMIENTO 3775 3801	antagonización de opiáceos
+T20	PROCEDIMIENTO 3808 3840	reversión del relajante muscular
+T21	PROCEDIMIENTO 2456 2491	maniobras de reclutamiento alveolar
+T22	PROCEDIMIENTO 4105 4131	curación de partes blandes
+T23	PROCEDIMIENTO 2708 2749	reducción abierta bajo control de escopia
+T24	PROCEDIMIENTO 4141 4154	osteosíntesis
+T25	PROCEDIMIENTO 2751 2869	osteosíntesis transarticular mediante implantación de fijador externo Hoffmann II Stryker en configuración multiplanar
+T26	PROCEDIMIENTO 2871 2899	lavado pulsátil de la herida
+T27	PROCEDIMIENTO 2902 3014	desbridaje del tejido necrótico que implicaba al extesor carpi ulnaris, flexor carpi ulnaris y tendón tricipital
+T28	PROCEDIMIENTO 2496 2569	mantenimiento anestésico se realizó con mezcla de O2, aire y sevofluorano
+T29	PROCEDIMIENTO 1146 1169	intervención quirúrgica
+T30	PROCEDIMIENTO 987 998	radiografía
+T31	PROCEDIMIENTO 1340 1361	estudio preanestésico
+T32	PROCEDIMIENTO 1452 1478	valoración de la vía aérea
+T33	PROCEDIMIENTO 2223 2266	se aisló la vía aérea con tubo endotraqueal
+T34	PROCEDIMIENTO 3030 3053	profilaxis antitetánica
+T35	PROCEDIMIENTO 3030 3066	profilaxis antitetánica, antibiótica
+T36	PROCEDIMIENTO 3717 3725	educción
+T37	PROCEDIMIENTO 3276 3300	cierre palpebral forzado
+T40	PROCEDIMIENTO 2598 2622	procedimiento quirúrgico

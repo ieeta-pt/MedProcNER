@@ -1,0 +1,14 @@
+T1	PROCEDIMIENTO 1093 1111	exploración física
+T2	PROCEDIMIENTO 2239 2263	Tomografía Computarizada
+T3	PROCEDIMIENTO 1642 1648	enemas
+T4	PROCEDIMIENTO 1651 1683	colocación de sonda nasogástrica
+T5	PROCEDIMIENTO 1812 1830	exploración física
+T6	PROCEDIMIENTO 1705 1723	sonda nasogástrica
+T7	PROCEDIMIENTO 2787 2798	laparotomía
+T8	PROCEDIMIENTO 2801 2900	gastrotomía con extracción de material alimenticio (aproximadamente 7 litros) de la cámara gástrica
+T9	PROCEDIMIENTO 221 269	tratamiento psicoterapéutico individual y grupal
+T10	PROCEDIMIENTO 1362 1391	radiografía simple de abdomen
+T11	PROCEDIMIENTO 3008 3010	TC
+T12	PROCEDIMIENTO 1692 1698	enemas
+T13	PROCEDIMIENTO 784 792	laxantes
+T14	PROCEDIMIENTO 1634 1640	sueros

@@ -1,0 +1,9 @@
+T1	PROCEDIMIENTO 208 225	analítica general
+T2	PROCEDIMIENTO 425 445	radiografía de tórax
+T3	PROCEDIMIENTO 575 586	TC de tórax
+T4	PROCEDIMIENTO 793 831	biopsia obtenida por videotoracoscopia
+T5	PROCEDIMIENTO 1168 1194	tratamiento quimioterápico
+T6	PROCEDIMIENTO 1251 1272	terapia radioterápica
+T7	PROCEDIMIENTO 1541 1607	autotrasplante de precursores hematopoyéticos de sangre periférica
+T8	PROCEDIMIENTO 350 400	pruebas complementarias incluyendo microbiológicas
+T9	PROCEDIMIENTO 955 978	tinciones histoquímicas

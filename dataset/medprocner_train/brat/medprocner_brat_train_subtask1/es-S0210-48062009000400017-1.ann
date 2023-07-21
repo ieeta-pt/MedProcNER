@@ -1,0 +1,17 @@
+T1	PROCEDIMIENTO 37 87	resección transuretral (RTU) por neoplasia vesical
+T2	PROCEDIMIENTO 873 875	TC
+T3	PROCEDIMIENTO 372 437	tomografía computarizada (TC) abdominal sin contraste intravenoso
+T4	PROCEDIMIENTO 1861 1888	administración de gadolinio
+T5	PROCEDIMIENTO 1116 1158	resonancia magnética (RM) con gadolinio IV
+T6	PROCEDIMIENTO 686 705	ecografía abdominal
+T7	PROCEDIMIENTO 2403 2428	estudio anatomopatológico
+T8	PROCEDIMIENTO 2789 2811	estudio de médula ósea
+T9	PROCEDIMIENTO 2540 2550	histología
+T10	PROCEDIMIENTO 2102 2147	Se extirpa quirúrgicamente una masa reniforme
+T11	PROCEDIMIENTO 1261 1274	secuencias T1
+T12	PROCEDIMIENTO 1460 1486	técnica de supresión grasa
+T13	PROCEDIMIENTO 1795 1807	secuencia T1
+T14	PROCEDIMIENTO 1836 1851	supresión grasa
+T15	PROCEDIMIENTO 3010 3036	análisis de la médula ósea
+T16	PROCEDIMIENTO 2093 2100	cirugía
+T17	PROCEDIMIENTO 1941 1964	diagnóstico radiológico

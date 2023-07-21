@@ -1,0 +1,17 @@
+T1	PROCEDIMIENTO 561 581	radiografía de tórax
+T2	PROCEDIMIENTO 274 304	exploración abdominal se palpó
+T3	PROCEDIMIENTO 455 476	ultrasonido abdominal
+T4	PROCEDIMIENTO 478 498	radiografía de tórax
+T5	PROCEDIMIENTO 500 520	urograma descendente
+T6	PROCEDIMIENTO 523 553	tomografía axial computarizada
+T7	PROCEDIMIENTO 1002 1069	exéresis por vía toraco-abdominal con clampaje de la aorta torácica
+T8	PROCEDIMIENTO 1164 1185	nefrectomía izquierda
+T9	PROCEDIMIENTO 1188 1248	esplenectomía en bloque con paquetes de adenopatías hiliares
+T10	PROCEDIMIENTO 1144 1163	resección del tumor
+T11	PROCEDIMIENTO 1357 1377	estudio macroscópico
+T12	PROCEDIMIENTO 412 435	estudios imagenológicos
+T13	PROCEDIMIENTO 648 671	estudios imagenológicos
+T14	PROCEDIMIENTO 1254 1274	tumoración extirpada
+T15	PROCEDIMIENTO 1547 1565	esudio histológico
+T16	PROCEDIMIENTO 991 998	cirugía
+T19	PROCEDIMIENTO 1712 1724	intervención

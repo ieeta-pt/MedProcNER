@@ -1,0 +1,17 @@
+T1	PROCEDIMIENTO 437 462	exploración oftalmológica
+T2	PROCEDIMIENTO 767 788	exploración sistémica
+T3	PROCEDIMIENTO 847 866	análisis hormonales
+T4	PROCEDIMIENTO 554 579	exploración oftalmológica
+T5	PROCEDIMIENTO 150 171	lágrimas artificiales
+T6	PROCEDIMIENTO 174 211	pomada antibiótico-corticoidea tópica
+T7	PROCEDIMIENTO 1427 1460	exéresis de la tumoración adrenal
+T8	PROCEDIMIENTO 1471 1492	disección de la grasa
+T9	PROCEDIMIENTO 1821 1834	quimioterapia
+T10	PROCEDIMIENTO 1020 1082	radiografía y la tomografía axial computarizada (TAC) de tórax
+T11	PROCEDIMIENTO 1069 1072	TAC
+T12	PROCEDIMIENTO 1106 1119	TAC abdominal
+T13	PROCEDIMIENTO 1910 1937	TAC toraco-abdomino-pélvica
+T14	PROCEDIMIENTO 2077 2145	ciclos quimioterápicos con ciclofosfamida, adriamicina y vincristina
+T15	PROCEDIMIENTO 2279 2293	quimioterápico
+T16	PROCEDIMIENTO 1562 1572	histología
+T17	PROCEDIMIENTO 1338 1345	cirugía

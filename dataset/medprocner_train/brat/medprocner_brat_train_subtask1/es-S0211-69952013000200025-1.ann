@@ -1,0 +1,15 @@
+T1	PROCEDIMIENTO 128 140	hemodiálisis
+T2	PROCEDIMIENTO 293 330	trasplante renal de donante fallecido
+T3	PROCEDIMIENTO 414 468	inducción con alemtuzumab y bolos de metilprednisolona
+T4	PROCEDIMIENTO 576 589	injerto renal
+T5	PROCEDIMIENTO 1207 1219	hemodiálisis
+T6	PROCEDIMIENTO 244 257	transfusiones
+T7	PROCEDIMIENTO 1178 1191	transfusiones
+T8	PROCEDIMIENTO 1246 1271	biopsia del injerto renal
+T9	PROCEDIMIENTO 1021 1040	Doppler del injerto
+T10	PROCEDIMIENTO 1634 1677	tratamiento con pulsos de metilprednisolona
+T11	PROCEDIMIENTO 1679 1692	plasmaféresis
+T12	PROCEDIMIENTO 1721 1741	exanguinotransfusión
+T13	PROCEDIMIENTO 1814 1824	trasplante
+T14	PROCEDIMIENTO 1874 1900	terapia de reemplazo renal
+T15	PROCEDIMIENTO 629 644	acto quirúrgico

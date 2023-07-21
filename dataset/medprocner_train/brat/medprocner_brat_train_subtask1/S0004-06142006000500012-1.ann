@@ -1,0 +1,18 @@
+T1	PROCEDIMIENTO 262 281	Ecografía abdominal
+T2	PROCEDIMIENTO 359 361	RM
+T3	PROCEDIMIENTO 1395 1407	RM de pelvis
+T4	PROCEDIMIENTO 353 356	TAC
+T5	PROCEDIMIENTO 2250 2260	TC craneal
+T6	PROCEDIMIENTO 2353 2364	TC torácico
+T7	PROCEDIMIENTO 1567 1574	biopsia
+T8	PROCEDIMIENTO 784 821	cavotomía para la exéresis del trombo
+T9	PROCEDIMIENTO 836 870	linfadenectomía aorto-cava derecha
+T10	PROCEDIMIENTO 738 779	por vía anterior, una nefrectomía radical
+T11	PROCEDIMIENTO 1340 1349	palpación
+T12	PROCEDIMIENTO 2011 2027	penectomía total
+T13	PROCEDIMIENTO 885 903	anatomo-patológico
+T14	PROCEDIMIENTO 695 722	intervenido quirúrgicamente
+T15	PROCEDIMIENTO 2034 2104	confirmar intraoperatoriamente un borde quirúrgico libre de enfermedad
+T16	PROCEDIMIENTO 1654 1673	cortes histológicos
+T17	PROCEDIMIENTO 1244 1256	intervención
+T18	PROCEDIMIENTO 2539 2551	intervención

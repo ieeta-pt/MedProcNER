@@ -1,0 +1,17 @@
+T1	PROCEDIMIENTO 266 289	fármacos gastro-lesivos
+T2	PROCEDIMIENTO 353 376	exploración endoscópica
+T3	PROCEDIMIENTO 391 403	gastroscopia
+T4	PROCEDIMIENTO 406 423	ileo-colonoscopia
+T5	PROCEDIMIENTO 496 499	ECE
+T6	PROCEDIMIENTO 755 773	exploración física
+T7	PROCEDIMIENTO 925 943	exploración rectal
+T8	PROCEDIMIENTO 1214 1227	fluidoterapia
+T9	PROCEDIMIENTO 1230 1273	se trasfundieron 4 concentrados de hematíes
+T10	PROCEDIMIENTO 1425 1437	gastroscopia
+T11	PROCEDIMIENTO 1502 1505	ECE
+T12	PROCEDIMIENTO 1748 1760	gastroscopia
+T13	PROCEDIMIENTO 1835 1858	estudio histopatológico
+T14	PROCEDIMIENTO 1821 1830	resección
+T15	PROCEDIMIENTO 980 989	analítica
+T16	PROCEDIMIENTO 1522 1533	exploración
+#1	AnnotatorNotes T5	     enteroscopia con cápsula endoscópica

@@ -1,0 +1,15 @@
+T1	PROCEDIMIENTO 3259 3289	tomografía axial computerizada
+T2	PROCEDIMIENTO 1996 2031	hidratación sólo con dextrosa al 5%
+T3	PROCEDIMIENTO 3556 3576	electroencefalograma
+T4	PROCEDIMIENTO 2407 2467	perfusión de glucosado al 5% con 140 mEq de cloruro potásico
+T5	PROCEDIMIENTO 527 554	auscultación cardiopulmonar
+T6	PROCEDIMIENTO 3695 3710	electromiograma
+T7	PROCEDIMIENTO 1162 1201	tratamiento con hidratación intravenosa
+T8	PROCEDIMIENTO 1256 1300	administración de tiamina por vía parenteral
+T9	PROCEDIMIENTO 1756 1774	electrocardiograma
+T10	PROCEDIMIENTO 1303 1337	medidas antiencefalopatía hepática
+T11	PROCEDIMIENTO 1695 1716	cálculo del anión GAP
+T12	PROCEDIMIENTO 1724 1751	cuerpos cetónicos en sangre
+T13	PROCEDIMIENTO 867 876	analítica
+T14	PROCEDIMIENTO 3010 3019	analítica
+T15	PROCEDIMIENTO 1621 1641	metilcetona en orina

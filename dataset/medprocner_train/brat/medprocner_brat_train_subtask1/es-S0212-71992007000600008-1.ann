@@ -1,0 +1,27 @@
+T1	PROCEDIMIENTO 526 544	exploración física
+T2	PROCEDIMIENTO 668 689	auscultación pulmonar
+T3	PROCEDIMIENTO 1161 1186	Gasometría arterial basal
+T4	PROCEDIMIENTO 1294 1314	radiografía de tórax
+T5	PROCEDIMIENTO 1420 1448	ecocardiograma transtorácico
+T6	PROCEDIMIENTO 1704 1736	ventilación mecánica no invasiva
+T7	PROCEDIMIENTO 1750 1764	ecocardiograma
+T8	PROCEDIMIENTO 1828 1857	pericardiocentésis evacuadora
+T9	PROCEDIMIENTO 2340 2371	cultivo del líquido pericárdico
+T10	PROCEDIMIENTO 2400 2412	hemocultivos
+T11	PROCEDIMIENTO 2417 2460	anatomía patológica del líquido pericárdico
+T12	PROCEDIMIENTO 2700 2826	serologías al virus de la inmunodeficiencia humana, Mycoplasma pneumoniae, citomegalovirus, Epstein Barr y Chlamydia pneumonie
+T13	PROCEDIMIENTO 2902 2914	TAC torácico
+T14	PROCEDIMIENTO 3449 3461	broncoscopia
+T15	PROCEDIMIENTO 3649 3672	lavado bronquioalveolar
+T16	PROCEDIMIENTO 3820 3842	biopsia transbronquial
+T17	PROCEDIMIENTO 4604 4624	radiografía de tórax
+T18	PROCEDIMIENTO 4669 4681	TAC torácico
+T19	PROCEDIMIENTO 4791 4807	biopsia pulmonar
+T20	PROCEDIMIENTO 5146 5169	pruebas de histoquímica
+T21	PROCEDIMIENTO 5249 5278	tratamiento con quimioterapia
+T22	PROCEDIMIENTO 2286 2293	Mantoux
+T23	PROCEDIMIENTO 3790 3797	punción
+T24	PROCEDIMIENTO 1242 1252	Bioquímica
+T25	PROCEDIMIENTO 2309 2324	perfil tiroideo
+T26	PROCEDIMIENTO 3847 3877	anatomía patológica del lavado
+T27	PROCEDIMIENTO 745 766	auscultación cardiaca

@@ -1,0 +1,29 @@
+T1	PROCEDIMIENTO 1120 1129	Hemograma
+T2	PROCEDIMIENTO 509 514	parto
+T3	PROCEDIMIENTO 4244 4267	medicación anticomicial
+T4	PROCEDIMIENTO 4045 4048	EEG
+T5	PROCEDIMIENTO 3176 3220	antígenos de influenza A en el exudado nasal
+T6	PROCEDIMIENTO 4300 4303	EEG
+T7	PROCEDIMIENTO 1798 1821	exploración neurológica
+T8	PROCEDIMIENTO 1501 1527	ventilación con pieza en T
+T9	PROCEDIMIENTO 1927 1964	tomografía computarizada (TC) craneal
+T10	PROCEDIMIENTO 2891 2900	serología
+T11	PROCEDIMIENTO 1953 1955	TC
+T12	PROCEDIMIENTO 2923 2957	resonancia magnética (RM) cerebral
+T13	PROCEDIMIENTO 1974 1988	punción lumbar
+T14	PROCEDIMIENTO 1990 2006	tóxicos en orina
+T15	PROCEDIMIENTO 2945 2947	RM
+T16	PROCEDIMIENTO 2009 2016	litemia
+T17	PROCEDIMIENTO 3483 3567	serología a citomegalovirus (CMV), virus de Ebstein-Barr (VEB), herpes e influenza A
+T18	PROCEDIMIENTO 2083 2103	electroencefalograma
+T19	PROCEDIMIENTO 898 917	analítica sanguínea
+T20	PROCEDIMIENTO 2105 2108	EEG
+T21	PROCEDIMIENTO 953 962	hemograma
+T22	PROCEDIMIENTO 3591 3602	RM cerebral
+T23	PROCEDIMIENTO 3640 3664	LCR bandas oligoclonales
+T24	PROCEDIMIENTO 2230 2304	serología en líquido cefalorraquídeo (LCR) para enterovirus y herpes virus
+T25	PROCEDIMIENTO 2354 2556	serologías para múltiples agentes como toxoplasma, rubeola, lúes, herpes simple 1 y 2, virus varicela-zóster, Mycoplasma, adenovirus, parotiditis, parvovirus, sarampión, Coxsackie, virus ECHO y Borrelia
+T26	PROCEDIMIENTO 3693 3717	estudio de autoinmunidad
+T27	PROCEDIMIENTO 966 976	Bioquímica
+T28	PROCEDIMIENTO 934 944	bioquímica
+T29	PROCEDIMIENTO 833 881	exploración, tanto neurológica como por sistemas

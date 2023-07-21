@@ -1,0 +1,21 @@
+T1	PROCEDIMIENTO 1045 1064	radiología de tórax
+T2	PROCEDIMIENTO 807 839	ecografía abdominal y testicular
+T3	PROCEDIMIENTO 1600 1647	muestras de sangre para marcadores testiculares
+T4	PROCEDIMIENTO 1254 1273	TAC toracoabdominal
+T5	PROCEDIMIENTO 2465 2485	orquiectomía radical
+T6	PROCEDIMIENTO 1161 1175	toracocentesis
+T7	PROCEDIMIENTO 1887 1906	laparotomía urgente
+T8	PROCEDIMIENTO 1721 1733	orquiectomía
+T9	PROCEDIMIENTO 1912 1931	ecografía abdominal
+T10	PROCEDIMIENTO 3389 3400	laparotomía
+T11	PROCEDIMIENTO 223 241	exploración física
+T12	PROCEDIMIENTO 376 396	exploración escrotal
+T13	PROCEDIMIENTO 2263 2276	esplenectomía
+T14	PROCEDIMIENTO 2281 2349	sutura y taponamiento con surgicel de las áreas hepáticas sangrantes
+T15	PROCEDIMIENTO 2379 2409	orquiectomía radical izquierda
+T16	PROCEDIMIENTO 2756 2783	histopatología microscópica
+T17	PROCEDIMIENTO 3114 3125	microscopía
+T18	PROCEDIMIENTO 2008 2019	laparotomía
+T19	PROCEDIMIENTO 686 695	analítica
+T20	PROCEDIMIENTO 3243 3255	intervención
+T21	PROCEDIMIENTO 353 371	palpación profunda

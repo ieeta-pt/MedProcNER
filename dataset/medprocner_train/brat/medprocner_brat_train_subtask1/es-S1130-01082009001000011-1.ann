@@ -1,0 +1,20 @@
+T1	PROCEDIMIENTO 1133 1177	extirpación se realiza por vía laparoscópica
+T2	PROCEDIMIENTO 77 105	tratamiento médico-dietético
+T3	PROCEDIMIENTO 1217 1243	endoscopia intraoperatoria
+T4	PROCEDIMIENTO 110 120	endoscopia
+T5	PROCEDIMIENTO 1251 1274	tinción con tinta china
+T6	PROCEDIMIENTO 1642 1662	estudio microscópico
+T7	PROCEDIMIENTO 1311 1332	gastrostomía anterior
+T8	PROCEDIMIENTO 246 253	biopsia
+T9	PROCEDIMIENTO 1436 1498	se cierra la gastrostomía mediante una sutura continua de seda
+T10	PROCEDIMIENTO 344 369	tránsito gastrointestinal
+T11	PROCEDIMIENTO 371 374	TGI
+T12	PROCEDIMIENTO 384 408	tomografía computerizada
+T13	PROCEDIMIENTO 410 413	TAC
+T14	PROCEDIMIENTO 578 593	eco-endoscopias
+T15	PROCEDIMIENTO 595 597	EE
+T16	PROCEDIMIENTO 884 888	PAAF
+T17	PROCEDIMIENTO 1349 1387	resección con una endograpadora lineal
+T18	PROCEDIMIENTO 1106 1128	extirpación quirúrgica
+T19	PROCEDIMIENTO 816 827	ecográficos
+T20	PROCEDIMIENTO 1287 1294	cirugía

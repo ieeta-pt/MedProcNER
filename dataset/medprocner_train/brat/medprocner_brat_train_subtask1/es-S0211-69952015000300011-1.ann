@@ -1,0 +1,20 @@
+T1	PROCEDIMIENTO 2314 2328	ecocardiograma
+T2	PROCEDIMIENTO 2331 2346	electromiograma
+T3	PROCEDIMIENTO 430 448	exploración física
+T4	PROCEDIMIENTO 837 852	ecografía renal
+T5	PROCEDIMIENTO 878 891	biopsia renal
+T6	PROCEDIMIENTO 2813 2832	diálisis peritoneal
+T7	PROCEDIMIENTO 2887 2922	trasplante renal de donante cadáver
+T8	PROCEDIMIENTO 3072 3085	esplenectomía
+T9	PROCEDIMIENTO 1445 1515	estudio complementario con anticuerpos frente a fibrinógeno y lisozima
+T10	PROCEDIMIENTO 764 806	espectro electroforético en sangre y orina
+T11	PROCEDIMIENTO 2288 2308	estudio de extensión
+T12	PROCEDIMIENTO 1639 1655	estudio genético
+T13	PROCEDIMIENTO 811 831	estudio inmunológico
+T14	PROCEDIMIENTO 2113 2131	inmunohistoquímica
+T15	PROCEDIMIENTO 721 730	sedimento
+T16	PROCEDIMIENTO 1177 1210	estudio sobre muestra en parafina
+T17	PROCEDIMIENTO 1855 1862	biopsia
+T18	PROCEDIMIENTO 2729 2754	terapia renal sustitutiva
+T19	PROCEDIMIENTO 157 170	biopsia renal
+T24	PROCEDIMIENTO 1033 1043	rojo Congo

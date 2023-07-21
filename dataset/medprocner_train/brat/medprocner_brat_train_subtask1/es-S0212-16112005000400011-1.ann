@@ -1,0 +1,25 @@
+T1	PROCEDIMIENTO 2030 2066	tratamiento antibiótico y analgésico
+T2	PROCEDIMIENTO 204 225	gastrectomía subtotal
+T3	PROCEDIMIENTO 230 297	reconstrucción del tránsito mediante gastroyeyunostomía Billroth II
+T4	PROCEDIMIENTO 2167 2170	NPT
+T5	PROCEDIMIENTO 2172 2225	administrándose una solución de aminoácidos y glucosa
+T6	PROCEDIMIENTO 447 484	administración de NPT por vía central
+T7	PROCEDIMIENTO 784 807	alimentación parenteral
+T8	PROCEDIMIENTO 1351 1369	retirada de la NPT
+T9	PROCEDIMIENTO 1509 1533	laparotomía exploratoria
+T10	PROCEDIMIENTO 1595 1598	NPT
+T11	PROCEDIMIENTO 1823 1826	NPT
+T12	PROCEDIMIENTO 2077 2091	dieta absoluta
+T13	PROCEDIMIENTO 410 430	nutrición artificial
+T14	PROCEDIMIENTO 2323 2394	se añade emulsión lipídica (Intralipid® 10%, tabla III) por vía central
+T15	PROCEDIMIENTO 643 668	preparado multivitamínico
+T16	PROCEDIMIENTO 670 673	PMV
+T17	PROCEDIMIENTO 689 703	oligoelementos
+T18	PROCEDIMIENTO 989 1037	suplementada con los mismos PMV y oligoelementos
+T19	PROCEDIMIENTO 1616 1654	dieta Kabiven® suplementada con el PMV
+T20	PROCEDIMIENTO 324 347	intervención quirúrgica
+T21	PROCEDIMIENTO 1424 1447	intervención quirúrgica
+T22	PROCEDIMIENTO 1116 1138	infusión de esta dieta
+T23	PROCEDIMIENTO 2477 2480	PMV
+T24	PROCEDIMIENTO 2488 2502	oligoelementos
+T27	PROCEDIMIENTO 1073 1082	vitaminas

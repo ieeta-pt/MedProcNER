@@ -1,0 +1,29 @@
+T1	PROCEDIMIENTO 677 710	punción aspiración con aguja fina
+T2	PROCEDIMIENTO 133 151	exploración física
+T3	PROCEDIMIENTO 2976 3008	exéresis de la glándula parótida
+T4	PROCEDIMIENTO 3013 3033	vaciamiento cervical
+T5	PROCEDIMIENTO 3513 3536	estudio histopatológico
+T6	PROCEDIMIENTO 461 491	tomografía axial computerizada
+T7	PROCEDIMIENTO 494 503	ecografía
+T8	PROCEDIMIENTO 2789 2808	citometría estática
+T9	PROCEDIMIENTO 3994 4008	tinción de PAS
+T10	PROCEDIMIENTO 1866 1941	cuantificación de ADN por citometría de imagen sobre extendidos citológicos
+T11	PROCEDIMIENTO 1956 1962	frotis
+T12	PROCEDIMIENTO 1987 1994	punción
+T13	PROCEDIMIENTO 2056 2060	PAAF
+T14	PROCEDIMIENTO 2150 2182	fijan en alcohol metílico de 99º
+T15	PROCEDIMIENTO 2212 2254	tinción de Hematoxilina progresiva de Gill
+T16	PROCEDIMIENTO 2934 2957	intervención quirúrgica
+T17	PROCEDIMIENTO 3303 3312	resección
+T18	PROCEDIMIENTO 4183 4192	resección
+T19	PROCEDIMIENTO 738 838	método rutinario de 3 pases con aguja de 23G, y ayuda del Cameco® (dispositivo de aspiración manual)
+T20	PROCEDIMIENTO 852 939	se fijan en alcohol 2 portaobjetos para ser teñidos mediante la técnica de Papanicolaou
+T21	PROCEDIMIENTO 945 1016	resto (6 portas) se secan al aire para emplear la tinción de Diff-Quick
+T22	PROCEDIMIENTO 1021 1045	examen de los extendidos
+T23	PROCEDIMIENTO 1707 1724	imagen citológica
+T24	PROCEDIMIENTO 2110 2135	determinación citométrica
+T25	PROCEDIMIENTO 2257 2434	Por medio del software TEXCAN® y a través de una cámara de vídeo integrada en el microscopio, que capta escalas de grises, se determinan los parámetros biológicos más relevantes
+T26	PROCEDIMIENTO 2817 2839	diagnóstico citológico
+T27	PROCEDIMIENTO 3357 3441	Se realizan múltiples secciones paralelas de la muestra, que se incluyen en parafina
+T28	PROCEDIMIENTO 3455 3495	teñir los cortes con hematoxilina-eosina
+T31	PROCEDIMIENTO 431 448	pruebas de imagen

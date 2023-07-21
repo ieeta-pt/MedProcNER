@@ -1,0 +1,15 @@
+T1	PROCEDIMIENTO 1085 1121	tomografía por emisión de positrones
+T2	PROCEDIMIENTO 1123 1126	PET
+T3	PROCEDIMIENTO 835 869	resonancia magnética (RM) cervical
+T4	PROCEDIMIENTO 633 731	tumoración parotídea se realiza una punción -aspiración con aguja fina (PAAF) guiada por ecografía
+T5	PROCEDIMIENTO 857 859	RM
+T6	PROCEDIMIENTO 705 709	PAAF
+T7	PROCEDIMIENTO 1355 1377	parotidectomía radical
+T8	PROCEDIMIENTO 722 731	ecografía
+T9	PROCEDIMIENTO 433 452	nefrectomía derecha
+T10	PROCEDIMIENTO 455 483	suprarrenalectomía izquierda
+T11	PROCEDIMIENTO 508 551	ensayo clínico con interferón y bevacizumab
+T12	PROCEDIMIENTO 1825 1852	radioterapia postoperatoria
+T13	PROCEDIMIENTO 1434 1453	anatomía patológica
+T14	PROCEDIMIENTO 783 806	estudio de la extensión
+T15	PROCEDIMIENTO 1494 1512	inmunohistoquímico

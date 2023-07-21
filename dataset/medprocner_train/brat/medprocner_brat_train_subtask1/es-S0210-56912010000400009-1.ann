@@ -1,0 +1,24 @@
+T1	PROCEDIMIENTO 476 498	intubación orotraqueal
+T2	PROCEDIMIENTO 1978 2027	resonancia magnética (RM) del tronco del encéfalo
+T3	PROCEDIMIENTO 2075 2117	evacuación del hematoma cerebeloso derecho
+T4	PROCEDIMIENTO 634 678	tomografía computarizada (TC) craneal simple
+T5	PROCEDIMIENTO 1341 1364	exploración neurológica
+T6	PROCEDIMIENTO 1883 1893	intubación
+T7	PROCEDIMIENTO 2219 2221	TC
+T8	PROCEDIMIENTO 2264 2287	traqueotomía percutánea
+T9	PROCEDIMIENTO 2293 2322	ventilación mecánica invasiva
+T10	PROCEDIMIENTO 2324 2327	VMI
+T11	PROCEDIMIENTO 844 867	evacuación del hematoma
+T12	PROCEDIMIENTO 2426 2448	cerrar el traqueostoma
+T13	PROCEDIMIENTO 2464 2528	ventilación mecánica no invasiva (VMNI) con mascarilla nasobucal
+T14	PROCEDIMIENTO 1023 1031	angio-TC
+T15	PROCEDIMIENTO 1038 1060	arteriografía cerebral
+T16	PROCEDIMIENTO 1651 1661	extubación
+T17	PROCEDIMIENTO 1236 1244	sedación
+T18	PROCEDIMIENTO 660 662	TC
+T19	PROCEDIMIENTO 873 917	colocación de un drenaje ventricular externo
+T20	PROCEDIMIENTO 1896 1898	VM
+T21	PROCEDIMIENTO 2000 2002	RM
+T22	PROCEDIMIENTO 2498 2502	VMNI
+T23	PROCEDIMIENTO 382 399	antiinflamatorios
+T24	PROCEDIMIENTO 927 934	cirugía

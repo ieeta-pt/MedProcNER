@@ -1,0 +1,12 @@
+T1	PROCEDIMIENTO 98 143	TAC de un tumor estenosante de colon sigmoide
+T2	PROCEDIMIENTO 216 237	biopsias endoscópicas
+T3	PROCEDIMIENTO 353 414	colostomía paliativa en cañón de escopeta en colon transverso
+T4	PROCEDIMIENTO 417 468	quimioterapia de primera línea con protocolo FOLFOX
+T5	PROCEDIMIENTO 878 890	TAC cervical
+T6	PROCEDIMIENTO 1051 1058	biopsia
+T7	PROCEDIMIENTO 1286 1316	técnicas de inmunohistoquímica
+T8	PROCEDIMIENTO 1553 1607	quimioterapia de segunda línea según protocolo FOLFORI
+T9	PROCEDIMIENTO 1600 1642	FOLFORI (CPT11-5 fluorouracilo-leucovorin)
+T10	PROCEDIMIENTO 1646 1678	radioterapia antiálgica en encía
+T11	PROCEDIMIENTO 1829 1838	necropsia
+T12	PROCEDIMIENTO 462 510	FOLFOX (oxaliplatino-5 fluorouracilo-leucovorin)

@@ -1,0 +1,13 @@
+T1	PROCEDIMIENTO 129 171	Cirugía de aneurisma abdominal infrarrenal
+T2	PROCEDIMIENTO 1803 1806	PET
+T3	PROCEDIMIENTO 1808 1844	Tomografía por emisión de positrones
+T4	PROCEDIMIENTO 556 582	quimioterapia intravesical
+T5	PROCEDIMIENTO 745 791	TAC (Tomografía axial computerizada) abdominal
+T6	PROCEDIMIENTO 2024 2043	TAC abdominopélvico
+T7	PROCEDIMIENTO 899 953	laparotomía con resección en bloque de pared abdominal
+T8	PROCEDIMIENTO 2097 2116	citologías de orina
+T9	PROCEDIMIENTO 2157 2180	ciclos de quimioterapia
+T10	PROCEDIMIENTO 1239 1264	estudio anatomopatológico
+T11	PROCEDIMIENTO 1492 1534	estudio con técnicas de immunohistoquímica
+T12	PROCEDIMIENTO 973 992	Anatomía Patológica
+T13	PROCEDIMIENTO 584 587	BCG

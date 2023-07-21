@@ -1,0 +1,23 @@
+T1	PROCEDIMIENTO 911 952	artrocentesis bajo control de radioscopia
+T2	PROCEDIMIENTO 957 974	anestesia general
+T3	PROCEDIMIENTO 1061 1072	artrografía
+T4	PROCEDIMIENTO 1521 1543	movilización articular
+T5	PROCEDIMIENTO 1555 1572	anestesia general
+T6	PROCEDIMIENTO 285 328	válvula de derivación ventrículo-peritoneal
+T7	PROCEDIMIENTO 1202 1247	descarga de la extremidad con uso de bastones
+T8	PROCEDIMIENTO 1250 1271	rehabilitación física
+T9	PROCEDIMIENTO 2700 2703	RNM
+T10	PROCEDIMIENTO 1749 1775	tenotomías periarticulares
+T11	PROCEDIMIENTO 1893 1919	tracción de partes blandas
+T12	PROCEDIMIENTO 2961 2964	RNM
+T13	PROCEDIMIENTO 644 653	hemograma
+T14	PROCEDIMIENTO 655 694	marcadores de fase aguda de inflamación
+T15	PROCEDIMIENTO 697 719	pruebas reumatológicas
+T16	PROCEDIMIENTO 754 772	radiografía simple
+T17	PROCEDIMIENTO 817 820	TAC
+T18	PROCEDIMIENTO 2125 2150	tratamiento rehabilitador
+T19	PROCEDIMIENTO 1303 1376	infiltración de la cadera con ácido hialurónico bajo control radioscópico
+T20	PROCEDIMIENTO 366 379	examen físico
+T21	PROCEDIMIENTO 984 1029	se obtuvo ninguna muestra de líquido sinovial
+T22	PROCEDIMIENTO 2045 2076	tracción por periodos nocturnos
+T23	PROCEDIMIENTO 2078 2106	marcha con bastones ingleses

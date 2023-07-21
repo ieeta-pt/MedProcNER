@@ -1,0 +1,30 @@
+T1	PROCEDIMIENTO 3822 3841	retirar la prótesis
+T2	PROCEDIMIENTO 4433 4458	estudio anatomopatológico
+T3	PROCEDIMIENTO 36 65	mastectomía radical izquierda
+T4	PROCEDIMIENTO 321 450	reconstrucción inmediata mediante colocación de una prótesis expansora (Becker anatómico) con capa de gel de silicona texturizada
+T5	PROCEDIMIENTO 2207 2224	ecografía mamaria
+T6	PROCEDIMIENTO 634 710	quimioterapia según esquema secuencial de adriamicinaciclofosfamida y taxano
+T7	PROCEDIMIENTO 70 92	linfadenectomía axilar
+T8	PROCEDIMIENTO 1030 1118	recambio de la prótesis expansora por un implante mamario de gel de silicona texturizada
+T9	PROCEDIMIENTO 3084 3111	retirar la prótesis mamaria
+T10	PROCEDIMIENTO 4039 4058	punciones por aguja
+T11	PROCEDIMIENTO 2002 2013	mamografías
+T12	PROCEDIMIENTO 2410 2412	RM
+T13	PROCEDIMIENTO 2026 2045	ecografías mamarias
+T14	PROCEDIMIENTO 1471 1572	injerto graso de tejido adiposo obtenido de zona abdominal y procesado mediante la técnica de Coleman
+T15	PROCEDIMIENTO 3677 3719	biopsia del área de tejido graso inyectado
+T16	PROCEDIMIENTO 3727 3734	biopsia
+T17	PROCEDIMIENTO 1581 1608	infiltración de la cicatriz
+T18	PROCEDIMIENTO 3754 3773	estudio histológico
+T19	PROCEDIMIENTO 1622 1638	anestésico local
+T20	PROCEDIMIENTO 4347 4371	sustitución del implante
+T21	PROCEDIMIENTO 3005 3027	exploración quirúrgica
+T22	PROCEDIMIENTO 847 882	tratamiento hormonal complementario
+T23	PROCEDIMIENTO 1701 1748	infiltrándose un total de 5 cc. de tejido graso
+T24	PROCEDIMIENTO 973 987	reconstrucción
+T25	PROCEDIMIENTO 487 496	expansión
+T26	PROCEDIMIENTO 4470 4515	muestra analizada del interior de la prótesis
+T27	PROCEDIMIENTO 3349 3364	acto operatorio
+T28	PROCEDIMIENTO 294 309	acto quirúrgico
+T29	PROCEDIMIENTO 521 528	cirugía
+T30	PROCEDIMIENTO 1859 1876	pruebas de imagen

@@ -1,0 +1,20 @@
+T1	PROCEDIMIENTO 1291 1308	anestesia general
+T2	PROCEDIMIENTO 2345 2362	estudio molecular
+T3	PROCEDIMIENTO 1770 1795	estudio anatomopatológico
+T4	PROCEDIMIENTO 817 845	TC con contraste intravenoso
+T5	PROCEDIMIENTO 2465 2491	TC toraco-abdomino-pélvico
+T6	PROCEDIMIENTO 611 654	punción guiada por tomografía computerizada
+T7	PROCEDIMIENTO 630 654	tomografía computerizada
+T8	PROCEDIMIENTO 1324 1359	incisión horizontal supraclavicular
+T9	PROCEDIMIENTO 656 658	TC
+T10	PROCEDIMIENTO 1372 1395	sección del músculo ECM
+T11	PROCEDIMIENTO 2552 2584	estudio inmunológico y serología
+T12	PROCEDIMIENTO 1958 1988	marcadores inmunohistoquímicos
+T13	PROCEDIMIENTO 260 269	anamnesis
+T14	PROCEDIMIENTO 2397 2444	PCR la presencia del virus herpes humano tipo 8
+T15	PROCEDIMIENTO 572 584	auscultación
+T16	PROCEDIMIENTO 785 809	estudio serológico viral
+T17	PROCEDIMIENTO 2532 2541	analítica
+T18	PROCEDIMIENTO 1706 1713	cirugía
+T19	PROCEDIMIENTO 1571 1580	disección
+T20	PROCEDIMIENTO 276 287	exploración

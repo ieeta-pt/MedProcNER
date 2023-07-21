@@ -1,0 +1,24 @@
+T1	PROCEDIMIENTO 3610 3628	historia dietética
+T2	PROCEDIMIENTO 3958 3968	ileostomía
+T3	PROCEDIMIENTO 4050 4131	vía parenteral, para reposición de volumen, electrolitos, y otros micronutrientes
+T4	PROCEDIMIENTO 261 272	corticoides
+T5	PROCEDIMIENTO 318 328	ileostomía
+T6	PROCEDIMIENTO 4192 4212	extracción de sangre
+T7	PROCEDIMIENTO 367 404	colectomía subtotal, con muñón rectal
+T8	PROCEDIMIENTO 2792 2818	tratamiento antiepiléptico
+T9	PROCEDIMIENTO 523 600	extirpación de los últimos 40 centímetros de íleon, válvula ileocecal y ciego
+T10	PROCEDIMIENTO 3394 3412	exploración física
+T11	PROCEDIMIENTO 4538 4586	perfusión con altas dosis de sulfato de magnesio
+T12	PROCEDIMIENTO 944 993	amputación abdominoperineal, resecándole el recto
+T13	PROCEDIMIENTO 1460 1471	TAC craneal
+T14	PROCEDIMIENTO 1524 1542	electrocardiograma
+T15	PROCEDIMIENTO 1808 1828	electroencefalograma
+T16	PROCEDIMIENTO 2045 2088	registro electroencefalográfico de 24 horas
+T17	PROCEDIMIENTO 2330 2349	soporte nutricional
+T18	PROCEDIMIENTO 685 719	absceso en glúteo, para su drenaje
+T19	PROCEDIMIENTO 492 514	operaciones resectivas
+T20	PROCEDIMIENTO 1214 1224	bioquímica
+T21	PROCEDIMIENTO 4862 4887	medicación antiepiléptica
+T22	PROCEDIMIENTO 849 861	antibióticos
+T23	PROCEDIMIENTO 892 915	intervención quirúrgica
+T26	PROCEDIMIENTO 4377 4386	analítica

@@ -1,0 +1,18 @@
+T1	PROCEDIMIENTO 1764 1778	drenaje axilar
+T2	PROCEDIMIENTO 677 716	mastectomía izquierda y linfadenectomía
+T3	PROCEDIMIENTO 298 305	biopsia
+T4	PROCEDIMIENTO 1437 1455	estudio bioquímico
+T5	PROCEDIMIENTO 635 658	intervención quirúrgica
+T6	PROCEDIMIENTO 307 310	RNM
+T7	PROCEDIMIENTO 313 329	ecografía axilar
+T8	PROCEDIMIENTO 747 776	diagnóstico anatomopatológico
+T9	PROCEDIMIENTO 1522 1553	dieta con restricción de grasas
+T10	PROCEDIMIENTO 1207 1214	drenaje
+T11	PROCEDIMIENTO 1328 1342	drenaje axilar
+T12	PROCEDIMIENTO 1984 2006	tratamiento oncológico
+T13	PROCEDIMIENTO 415 475	tratamiento neoadyuvante con pauta de quimioterapia estándar
+T14	PROCEDIMIENTO 1572 1628	ingestión de alimentos con triglicéridos de cadena media
+T15	PROCEDIMIENTO 1764 1831	drenaje axilar mejoraron y se normalizaron, permitiendo la retirada
+T17	PROCEDIMIENTO 590 601	radiológica
+T25	PROCEDIMIENTO 480 483	FEC
+T16	PROCEDIMIENTO 453 518	quimioterapia estándar con FEC 75 (4 ciclos) seguida de docetaxel

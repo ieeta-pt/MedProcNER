@@ -1,0 +1,20 @@
+T1	PROCEDIMIENTO 390 414	tomografía computarizada
+T2	PROCEDIMIENTO 416 418	TC
+T3	PROCEDIMIENTO 2284 2383	reconstrucción maxilar parcial y de forma temporal con miniplacas de titanio y prótesis aloplástica
+T4	PROCEDIMIENTO 864 886	radioterapia adyuvante
+T5	PROCEDIMIENTO 1110 1113	TAC
+T6	PROCEDIMIENTO 596 639	resección marginal de la tumoración maxilar
+T7	PROCEDIMIENTO 596 667	resección marginal de la tumoración maxilar mediante abordaje sublabial
+T8	PROCEDIMIENTO 2621 2624	TAC
+T9	PROCEDIMIENTO 1206 1232	tratamiento quimioterápico
+T10	PROCEDIMIENTO 673 721	informó histopatológico de la pieza de resección
+T11	PROCEDIMIENTO 1685 1698	traqueostomía
+T12	PROCEDIMIENTO 1711 1742	maxilectomía bilateral subtotal
+T13	PROCEDIMIENTO 1711 1759	maxilectomía bilateral subtotal con palatectomía
+T14	PROCEDIMIENTO 1954 2051	estudio histopatológico realizado con microfotografía de luz y con tinción de hematoxilina/eosina
+T15	PROCEDIMIENTO 1992 2014	microfotografía de luz
+T16	PROCEDIMIENTO 1644 1667	intervención quirúrgica
+T17	PROCEDIMIENTO 2021 2051	tinción de hematoxilina/eosina
+T18	PROCEDIMIENTO 712 721	resección
+T19	PROCEDIMIENTO 2243 2267	procedimiento quirúrgico
+T20	PROCEDIMIENTO 2428 2443	cirugía radical

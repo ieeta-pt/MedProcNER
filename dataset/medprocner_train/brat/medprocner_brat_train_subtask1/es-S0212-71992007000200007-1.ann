@@ -1,0 +1,20 @@
+T1	PROCEDIMIENTO 184 221	quemioterapia según el esquema CHOP-R
+T2	PROCEDIMIENTO 341 355	autotrasplante
+T3	PROCEDIMIENTO 403 417	TAC total body
+T4	PROCEDIMIENTO 482 502	biopsia osteomedular
+T5	PROCEDIMIENTO 617 634	exploración físic
+T6	PROCEDIMIENTO 779 797	exploración física
+T7	PROCEDIMIENTO 1010 1031	hemocultivos seriados
+T8	PROCEDIMIENTO 1037 1050	TAC de cráneo
+T9	PROCEDIMIENTO 1421 1435	punción lumbar
+T10	PROCEDIMIENTO 1452 1481	análisis microscópico del LCR
+T11	PROCEDIMIENTO 1694 1732	análisis citológico inmunohistoquímico
+T12	PROCEDIMIENTO 1873 1898	análisis repetido del LCR
+T13	PROCEDIMIENTO 1962 1975	raquicéntesis
+T14	PROCEDIMIENTO 2132 2155	tratamiento antibiótico
+T15	PROCEDIMIENTO 1166 1204	factores de crecimiento granulocitario
+T16	PROCEDIMIENTO 1222 1253	antibióticos de amplio espectro
+T17	PROCEDIMIENTO 2077 2088	hemocultivo
+T18	PROCEDIMIENTO 207 221	esquema CHOP-R
+T19	PROCEDIMIENTO 975 995	exámenes virológicos
+T20	PROCEDIMIENTO 1206 1219	antimicóticos

@@ -1,0 +1,26 @@
+T1	PROCEDIMIENTO 475 501	terapia anticonvulsionante
+T2	PROCEDIMIENTO 44 77	electrodo de estimulación medular
+T3	PROCEDIMIENTO 503 517	antidepresivos
+T4	PROCEDIMIENTO 2918 2929	perfusiones
+T5	PROCEDIMIENTO 1627 1630	EEM
+T6	PROCEDIMIENTO 2695 2725	perfusión continua de ketamina
+T7	PROCEDIMIENTO 79 82	EEM
+T8	PROCEDIMIENTO 2322 2341	anticonvulsionantes
+T9	PROCEDIMIENTO 571 574	EEM
+T10	PROCEDIMIENTO 1041 1064	diatermia de onda corta
+T11	PROCEDIMIENTO 2344 2358	antidepresivos
+T12	PROCEDIMIENTO 823 826	EEM
+T13	PROCEDIMIENTO 1067 1089	diatermia de microonda
+T14	PROCEDIMIENTO 159 186	inducción de vasodilatación
+T15	PROCEDIMIENTO 870 921	bisturí con diatermia para polipectomía endoscópica
+T16	PROCEDIMIENTO 1733 1776	polipectomía endoscópica mediante diatermia
+T17	PROCEDIMIENTO 1809 1812	EEM
+T18	PROCEDIMIENTO 289 327	amputación de miembro inferior derecho
+T19	PROCEDIMIENTO 1226 1252	electrocoagulación bipolar
+T20	PROCEDIMIENTO 2178 2181	EEM
+T21	PROCEDIMIENTO 2198 2222	polipectomía endoscópica
+T22	PROCEDIMIENTO 1315 1372	polipectomía endoscópica con electrocauterización bipolar
+T23	PROCEDIMIENTO 1476 1492	colectomía total
+T24	PROCEDIMIENTO 1500 1507	biopsia
+T25	PROCEDIMIENTO 1510 1553	filiación anatomopatológica de sus lesiones
+T26	PROCEDIMIENTO 520 531	analgésicos

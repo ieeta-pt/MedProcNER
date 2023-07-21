@@ -1,0 +1,39 @@
+T1	PROCEDIMIENTO 374 388	RTU de control
+T2	PROCEDIMIENTO 2260 2280	electroencefalograma
+T3	PROCEDIMIENTO 4362 4430	reconversión quirúrgica de la ureterosigmoidostomía a conducto ileal
+T4	PROCEDIMIENTO 644 708	derivación urinaria mediante ureterosigmoidostomía tipo Mainz II
+T5	PROCEDIMIENTO 1704 1717	fluidoterapia
+T6	PROCEDIMIENTO 4057 4070	fluidoterapia
+T7	PROCEDIMIENTO 4088 4108	enemas con lactulosa
+T8	PROCEDIMIENTO 238 249	cistoscopia
+T9	PROCEDIMIENTO 3693 3704	cistectomía
+T10	PROCEDIMIENTO 713 732	anatomía patológica
+T11	PROCEDIMIENTO 4472 4508	tratamiento quimioterápico adyuvante
+T12	PROCEDIMIENTO 264 267	RTU
+T13	PROCEDIMIENTO 4146 4158	hemodiálisis
+T14	PROCEDIMIENTO 2419 2431	TAC cerebral
+T15	PROCEDIMIENTO 1131 1154	hidratación intravenosa
+T16	PROCEDIMIENTO 4179 4191	hemodiálisis
+T17	PROCEDIMIENTO 1442 1451	hemograma
+T18	PROCEDIMIENTO 353 369	BCG intravesical
+T19	PROCEDIMIENTO 1212 1228	antibiótico oral
+T20	PROCEDIMIENTO 1516 1535	ecografía abdominal
+T21	PROCEDIMIENTO 2538 2551	fluidoterapia
+T22	PROCEDIMIENTO 3463 3480	gasometría venosa
+T23	PROCEDIMIENTO 1593 1605	TAC cerebral
+T24	PROCEDIMIENTO 3510 3522	TAC cerebral
+T25	PROCEDIMIENTO 3528 3548	radiografía de tórax
+T26	PROCEDIMIENTO 3190 3256	quimioterapia adyuvante con esquema taxol 175 mg/m2 y carboplatino
+T27	PROCEDIMIENTO 1659 1701	tratamiento antibiótico de amplio espectro
+T28	PROCEDIMIENTO 2565 2579	dieta absoluta
+T29	PROCEDIMIENTO 4072 4086	dieta absoluta
+T30	PROCEDIMIENTO 1157 1171	antibioterapia
+T31	PROCEDIMIENTO 3383 3408	parámetros electrolíticos
+T32	PROCEDIMIENTO 1426 1436	bioquímica
+T33	PROCEDIMIENTO 423 426	BCG
+T34	PROCEDIMIENTO 620 639	cistectomía radical
+T35	PROCEDIMIENTO 2144 2153	analítica
+T37	PROCEDIMIENTO 2857 2868	exploración
+T38	PROCEDIMIENTO 964 976	intervención
+T39	PROCEDIMIENTO 2228 2241	transaminasas
+T74	PROCEDIMIENTO 2879 2897	pruebas analíticas

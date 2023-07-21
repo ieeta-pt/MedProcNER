@@ -1,0 +1,21 @@
+T1	PROCEDIMIENTO 1976 1987	analgésicos
+T2	PROCEDIMIENTO 3788 3805	anatomopatológico
+T3	PROCEDIMIENTO 2301 2308	biopsia
+T4	PROCEDIMIENTO 484 502	electrocardiograma
+T5	PROCEDIMIENTO 164 177	examen físico
+T6	PROCEDIMIENTO 2993 3011	examen histológico
+T7	PROCEDIMIENTO 688 704	función hepática
+T8	PROCEDIMIENTO 4018 4031	función renal
+T9	PROCEDIMIENTO 556 565	hemograma
+T10	PROCEDIMIENTO 1060 1107	nefrectomía radical laparoscópica mano asistida
+T11	PROCEDIMIENTO 1570 1589	nefrectomía radical
+T12	PROCEDIMIENTO 728 759	tomografía computada de abdomen
+T13	PROCEDIMIENTO 448 472	evaluación preoperatoria
+T14	PROCEDIMIENTO 1172 1228	procedimiento quirúrgico con la colocación de 4 trócares
+T15	PROCEDIMIENTO 1448 1554	introducción de la mano del cirujano se realiza a través de una incisión oblicua en la fosa ilíaca derecha
+T16	PROCEDIMIENTO 1648 1747	riñón es colocado en una bolsa de polietileno y se extrae a través de la incisión de la fosa ilíaca
+T17	PROCEDIMIENTO 1361 1443	Se instalan además 2 trócares de 5 mm. en el epigastrio para separación del hígado
+T19	PROCEDIMIENTO 2082 2089	cirugía
+T20	PROCEDIMIENTO 2136 2143	cirugía
+T21	PROCEDIMIENTO 4063 4070	cirugía
+T18	PROCEDIMIENTO 965 972	cirugía

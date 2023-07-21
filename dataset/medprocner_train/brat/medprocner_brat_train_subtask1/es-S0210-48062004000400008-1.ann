@@ -1,0 +1,21 @@
+T1	PROCEDIMIENTO 433 452	ecografía abdominal
+T2	PROCEDIMIENTO 577 590	TAC abdominal
+T3	PROCEDIMIENTO 2041 2044	TAC
+T4	PROCEDIMIENTO 1277 1297	radiografía de tórax
+T5	PROCEDIMIENTO 902 944	nefrectomía ampliada derecha con cavotomía
+T6	PROCEDIMIENTO 2263 2320	radioterapia paliativa por síndrome de compresión medular
+T7	PROCEDIMIENTO 986 1017	linfadenectomía interaorto-cava
+T8	PROCEDIMIENTO 2185 2208	radioterapia antiálgica
+T9	PROCEDIMIENTO 392 412	radiografía de tórax
+T10	PROCEDIMIENTO 1704 1722	ecografía escrotal
+T11	PROCEDIMIENTO 1920 1924	PAAF
+T12	PROCEDIMIENTO 1022 1041	anatomía patológica
+T13	PROCEDIMIENTO 810 830	estudio de extensión
+T14	PROCEDIMIENTO 366 386	sistemático de orina
+T15	PROCEDIMIENTO 947 975	extracción de trombo tumoral
+T16	PROCEDIMIENTO 1958 1987	diagnóstico anatomopatológico
+T17	PROCEDIMIENTO 244 253	analítica
+T18	PROCEDIMIENTO 1265 1272	cirugía
+T19	PROCEDIMIENTO 1550 1557	cirugía
+T20	PROCEDIMIENTO 2238 2245	cirugía
+T21	PROCEDIMIENTO 61 142	intervención de pólipo adenomatoso en colon, hernia inguinal y varices esofágicas

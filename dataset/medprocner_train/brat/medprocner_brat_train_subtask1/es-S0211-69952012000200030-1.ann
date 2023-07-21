@@ -1,0 +1,27 @@
+T1	PROCEDIMIENTO 420 467	tratamiento farmacológico con quíntuple terapia
+T2	PROCEDIMIENTO 765 814	colocación de un stent en arteria renal izquierda
+T3	PROCEDIMIENTO 820 843	anestesia locorregional
+T4	PROCEDIMIENTO 1200 1218	electrocardiograma
+T5	PROCEDIMIENTO 1376 1415	vía femoral izquierda una arteriografía
+T6	PROCEDIMIENTO 1476 1487	trombolisis
+T7	PROCEDIMIENTO 1665 1686	transfusión sanguínea
+T8	PROCEDIMIENTO 1744 1777	se implanta catéter para diálisis
+T9	PROCEDIMIENTO 1802 1822	fármacos vasoactivos
+T10	PROCEDIMIENTO 1841 1858	hemodiafiltración
+T11	PROCEDIMIENTO 1915 1930	ecocardiografía
+T12	PROCEDIMIENTO 2117 2137	ventilación mecánica
+T13	PROCEDIMIENTO 2142 2182	tomografía axial computarizada abdominal
+T14	PROCEDIMIENTO 2250 2261	laparotomía
+T15	PROCEDIMIENTO 1644 1662	drogas vasoactivas
+T16	PROCEDIMIENTO 2346 2364	drogas vasoactivas
+T17	PROCEDIMIENTO 469 523	inhibidores de la enzima conversora de la angiotensina
+T18	PROCEDIMIENTO 525 540	betabloqueantes
+T19	PROCEDIMIENTO 542 560	calcioantagonistas
+T20	PROCEDIMIENTO 562 572	diuréticos
+T21	PROCEDIMIENTO 575 590	alfabloqueantes
+T22	PROCEDIMIENTO 848 894	monitorización continua de la presión arterial
+T23	PROCEDIMIENTO 309 326	angiográficamente
+T24	PROCEDIMIENTO 1235 1255	marcadores cardíacos
+T25	PROCEDIMIENTO 1524 1555	stent, que se intenta recolocar
+T26	PROCEDIMIENTO 907 914	cirugía
+T27	PROCEDIMIENTO 2525 2541	cirugía vascular

@@ -1,0 +1,31 @@
+T1	PROCEDIMIENTO 4288 4304	serología de LCR
+T2	PROCEDIMIENTO 3628 3642	punción lumbar
+T3	PROCEDIMIENTO 3883 3925	resonancia nuclear magnética (RNM) medular
+T4	PROCEDIMIENTO 3913 3916	RNM
+T5	PROCEDIMIENTO 3365 3418	tomografía axial computarizada (TAC) craneoencefálica
+T6	PROCEDIMIENTO 1964 1973	anamnesis
+T7	PROCEDIMIENTO 3397 3400	TAC
+T8	PROCEDIMIENTO 4950 4965	corticoide i.v.
+T9	PROCEDIMIENTO 2073 2100	auscultación cardiopulmonar
+T10	PROCEDIMIENTO 4486 4504	serología en suero
+T11	PROCEDIMIENTO 2127 2148	exploración abdominal
+T12	PROCEDIMIENTO 4614 4654	serología Virus Inmunodeficiencia Humano
+T13	PROCEDIMIENTO 435 464	antihistamínico intramuscular
+T14	PROCEDIMIENTO 2326 2341	sondaje vesical
+T15	PROCEDIMIENTO 467 501	corticoide de liberación retardada
+T16	PROCEDIMIENTO 3084 3108	Reflejos osteotendinosos
+T17	PROCEDIMIENTO 2396 2428	analíticas sanguíneas y de orina
+T18	PROCEDIMIENTO 3181 3204	Reflejo cutáneo plantar
+T19	PROCEDIMIENTO 2485 2507	radiografía de abdomen
+T20	PROCEDIMIENTO 1161 1173	auscultación
+T21	PROCEDIMIENTO 1188 1208	radiografía de tórax
+T22	PROCEDIMIENTO 1270 1288	frotis de lesiones
+T23	PROCEDIMIENTO 1334 1369	medidas de aislamiento respiratorio
+T24	PROCEDIMIENTO 1538 1554	antihistamínicos
+T25	PROCEDIMIENTO 5185 5210	tratamiento rehabilitador
+T26	PROCEDIMIENTO 2357 2368	vaciamiento
+T27	PROCEDIMIENTO 198 206	vacunada
+T28	PROCEDIMIENTO 1069 1080	exploración
+T29	PROCEDIMIENTO 1730 1741	exploración
+T30	PROCEDIMIENTO 5063 5084	se le retiró la sonda
+T32	PROCEDIMIENTO 2172 2194	suprapúbico palpándose

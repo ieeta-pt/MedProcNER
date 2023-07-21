@@ -1,0 +1,16 @@
+T1	PROCEDIMIENTO 373 391	radiografía simple
+T2	PROCEDIMIENTO 397 410	TAC de cráneo
+T3	PROCEDIMIENTO 576 614	estudios sistémicos de rastreo tumoral
+T4	PROCEDIMIENTO 616 625	hemograma
+T5	PROCEDIMIENTO 627 646	frotis hematológico
+T6	PROCEDIMIENTO 648 668	marcadores tumorales
+T7	PROCEDIMIENTO 670 683	proteinograma
+T8	PROCEDIMIENTO 686 714	TAC cervico-toraco-abdominal
+T9	PROCEDIMIENTO 749 779	gammagrafía ósea con HDP-Tc99M
+T10	PROCEDIMIENTO 1448 1460	craniectomía
+T11	PROCEDIMIENTO 846 907	punción-aspiración percutánea con aguja fina de la tumoración
+T12	PROCEDIMIENTO 1586 1681	plastia craneal de metilmetacrilato, que se fijó al hueso circundante con miniplacas de Titanio
+T13	PROCEDIMIENTO 1741 1770	diagnóstico anatomopatológico
+T14	PROCEDIMIENTO 272 283	exploración
+T15	PROCEDIMIENTO 1167 1190	diagnóstico histológico
+T16	PROCEDIMIENTO 1214 1229	acto quirúrgico

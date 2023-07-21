@@ -1,0 +1,25 @@
+T1	PROCEDIMIENTO 194 212	exploración física
+T2	PROCEDIMIENTO 452 465	biopsia renal
+T3	PROCEDIMIENTO 1154 1170	biopsia hepática
+T4	PROCEDIMIENTO 1881 1965	tratamiento antiproteinúrico con bloqueo del sistema renina-angiotensina-aldosterona
+T5	PROCEDIMIENTO 2060 2072	hemodiálisis
+T6	PROCEDIMIENTO 2121 2158	trasplante renal de donante fallecido
+T7	PROCEDIMIENTO 2379 2443	inmunosupresión con corticoides, ácido micofenólico y tacrolimus
+T8	PROCEDIMIENTO 2690 2714	estudio de autoinmunidad
+T9	PROCEDIMIENTO 2891 2908	eco-Doppler renal
+T10	PROCEDIMIENTO 2996 3009	biopsia renal
+T11	PROCEDIMIENTO 3363 3402	técnicas de inmunohistoquímica para C4d
+T12	PROCEDIMIENTO 3597 3682	tratamiento antiproteinúrico, con bloqueo del sistema renina-angiotensina-aldosterona
+T13	PROCEDIMIENTO 743 770	inmunofluorescencia directa
+T14	PROCEDIMIENTO 3157 3176	inmunofluorescencia
+T15	PROCEDIMIENTO 837 860	microscopía electrónica
+T16	PROCEDIMIENTO 3236 3259	microscopía electrónica
+T17	PROCEDIMIENTO 3017 3035	microscopía óptica
+T18	PROCEDIMIENTO 2716 2747	anticuerpos donante específicos
+T19	PROCEDIMIENTO 2538 2548	trasplante
+T20	PROCEDIMIENTO 3511 3522	corticoides
+T21	PROCEDIMIENTO 3695 3737	antagonista del receptor de angiotesina II
+T22	PROCEDIMIENTO 3739 3745	ARA II
+T23	PROCEDIMIENTO 2793 2862	PCR (reacción en cadena de enzima polimerasa) sérica para el virus BK
+T24	PROCEDIMIENTO 2798 2837	reacción en cadena de enzima polimerasa
+T33	PROCEDIMIENTO 3474 3481	injerto

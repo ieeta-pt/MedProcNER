@@ -1,0 +1,17 @@
+T1	PROCEDIMIENTO 1366 1384	TC cervicotorácica
+T2	PROCEDIMIENTO 1234 1349	tratamiento radioterápico complementario sobre la cavidad oral, la orofarínge y los niveles ganglionares cervicales
+T3	PROCEDIMIENTO 477 496	resección del tumor
+T4	PROCEDIMIENTO 501 547	vaciamiento cervical radical clásico izquierdo
+T5	PROCEDIMIENTO 554 651	reconstrucción del defecto con un colgajo microvascularizado fasciocutáneo anterolateral de muslo
+T6	PROCEDIMIENTO 702 746	vaciamiento cervical radical clásico derecho
+T7	PROCEDIMIENTO 1631 1643	broncoscopia
+T8	PROCEDIMIENTO 889 901	traqueotomía
+T9	PROCEDIMIENTO 933 985	colgajo de Björk como modo de apertura de la tráquea
+T10	PROCEDIMIENTO 990 1002	traqueotomía
+T11	PROCEDIMIENTO 1107 1119	traqueostoma
+T12	PROCEDIMIENTO 1125 1146	decanular al paciente
+T13	PROCEDIMIENTO 1149 1196	liberar la unión del colgajo traqueal a la piel
+T15	PROCEDIMIENTO 771 778	cirugía
+T16	PROCEDIMIENTO 1424 1431	cirugía
+T17	PROCEDIMIENTO 852 864	intervención
+T18	PROCEDIMIENTO 1054 1066	intervención

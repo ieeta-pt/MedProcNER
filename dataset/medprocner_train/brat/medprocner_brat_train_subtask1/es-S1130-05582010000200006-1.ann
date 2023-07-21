@@ -1,0 +1,14 @@
+T1	PROCEDIMIENTO 308 321	examen físico
+T2	PROCEDIMIENTO 1151 1169	biopsia incisional
+T3	PROCEDIMIENTO 885 907	radiografía panorámica
+T4	PROCEDIMIENTO 1702 1728	exodoncia del tercer molar
+T5	PROCEDIMIENTO 667 709	palpación de la rama ascendente mandibular
+T6	PROCEDIMIENTO 1659 1690	curetaje de la cavidad residual
+T7	PROCEDIMIENTO 1634 1656	cirugía de enucleación
+T8	PROCEDIMIENTO 873 880	biopsia
+T9	PROCEDIMIENTO 1245 1283	se instala una cánula de descompresion
+T10	PROCEDIMIENTO 1475 1537	cánula de descompresión cuya longitud es reducida gradualmente
+T11	PROCEDIMIENTO 842 863	estudio imagenológico
+T12	PROCEDIMIENTO 1417 1449	seguimiento clínico-radiográfico
+T13	PROCEDIMIENTO 1296 1311	histopatológico
+T14	PROCEDIMIENTO 623 648	expansión de ambas tablas

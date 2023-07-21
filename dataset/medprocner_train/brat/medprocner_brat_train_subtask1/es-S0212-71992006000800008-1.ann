@@ -1,0 +1,19 @@
+T1	PROCEDIMIENTO 76 90	apendicectomía
+T2	PROCEDIMIENTO 246 264	exploración física
+T3	PROCEDIMIENTO 475 506	radiografías de tórax y abdomen
+T4	PROCEDIMIENTO 551 576	endoscopia digestiva alta
+T5	PROCEDIMIENTO 748 774	biopsias en antro y cuerpo
+T6	PROCEDIMIENTO 881 900	ecografía abdominal
+T7	PROCEDIMIENTO 1137 1167	tratamiento con antisecretores
+T8	PROCEDIMIENTO 1262 1287	endoscopia digestiva alta
+T9	PROCEDIMIENTO 1474 1497	enteroscopia de pulsión
+T10	PROCEDIMIENTO 1741 1760	tránsito intestinal
+T11	PROCEDIMIENTO 1911 1924	TAC abdominal
+T12	PROCEDIMIENTO 2407 2466	resección del tumor y posterior anastomosis duodeno-yeyunal
+T13	PROCEDIMIENTO 2350 2368	estudios de imagen
+T14	PROCEDIMIENTO 1876 1896	estudio de extensión
+T15	PROCEDIMIENTO 1672 1680	biopsias
+T16	PROCEDIMIENTO 2380 2402	tratamiento quirúrgico
+T17	PROCEDIMIENTO 371 380	analítica
+T18	PROCEDIMIENTO 1622 1641	paso del endoscopio
+T19	PROCEDIMIENTO 280 327	se palpaban masas ni visceromegalias en abdomen

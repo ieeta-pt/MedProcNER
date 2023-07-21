@@ -1,0 +1,20 @@
+T1	PROCEDIMIENTO 1578 1600	ecografía de la cadera
+T2	PROCEDIMIENTO 1372 1390	análisis de sangre
+T3	PROCEDIMIENTO 748 766	inspección general
+T4	PROCEDIMIENTO 1606 1633	radiografía abdominopélvica
+T5	PROCEDIMIENTO 2094 2114	radiografía de tórax
+T6	PROCEDIMIENTO 1759 1780	analgesia intravenosa
+T7	PROCEDIMIENTO 2121 2143	tira reactiva de orina
+T8	PROCEDIMIENTO 2606 2641	resonancia magnética (RM) abdominal
+T9	PROCEDIMIENTO 936 954	exploración física
+T10	PROCEDIMIENTO 2628 2630	RM
+T11	PROCEDIMIENTO 1959 1978	ecografía abdominal
+T12	PROCEDIMIENTO 287 293	reposo
+T13	PROCEDIMIENTO 2333 2349	gammagrafía ósea
+T14	PROCEDIMIENTO 296 307	analgésicos
+T15	PROCEDIMIENTO 2740 2751	hemocultivo
+T16	PROCEDIMIENTO 2776 2815	punción del absceso del cuero cabelludo
+T17	PROCEDIMIENTO 451 460	analgesia
+T18	PROCEDIMIENTO 2898 2912	antibioterapia
+T19	PROCEDIMIENTO 3029 3047	drenaje quirúrgico
+T20	PROCEDIMIENTO 1828 1889	palpación profunda en el hipogastrio y la fosa iliaca derecha

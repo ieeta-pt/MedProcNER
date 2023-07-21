@@ -1,0 +1,13 @@
+T1	PROCEDIMIENTO 1843 1887	ecografía abdominal total en decúbito supino
+T2	PROCEDIMIENTO 489 522	gastroscopía con biopsia gástrica
+T3	PROCEDIMIENTO 1417 1449	palpación profunda en epigastrio
+T4	PROCEDIMIENTO 2031 2059	tránsito intestinal baritado
+T5	PROCEDIMIENTO 1743 1765	radiografía de abdomen
+T6	PROCEDIMIENTO 675 690	test de aliento
+T7	PROCEDIMIENTO 791 803	antieméticos
+T8	PROCEDIMIENTO 816 851	inhibidores de la bomba de protones
+T9	PROCEDIMIENTO 2378 2397	angioTAC de abdomen
+T10	PROCEDIMIENTO 568 659	tratamiento erradicador con triple terapia actual (omeprazol, amoxicilina y claritromicina)
+T11	PROCEDIMIENTO 1504 1513	analítica
+T12	PROCEDIMIENTO 1258 1269	exploración
+T13	PROCEDIMIENTO 1562 1598	marcadores de respuesta inflamatoria

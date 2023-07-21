@@ -1,0 +1,29 @@
+T1	PROCEDIMIENTO 341 354	sonda uretral
+T2	PROCEDIMIENTO 189 212	lavado continuo vesical
+T3	PROCEDIMIENTO 550 574	litotricia extracorpórea
+T4	PROCEDIMIENTO 687 705	biopsia prostática
+T5	PROCEDIMIENTO 773 811	resecciones transuretrales prostáticas
+T6	PROCEDIMIENTO 946 971	ecografía abdominopélvica
+T7	PROCEDIMIENTO 1056 1110	tomografía computarizada abdominopélvica con contraste
+T8	PROCEDIMIENTO 1236 1308	cambio de sonda uretral por una sonda adaptada a lavado vesical continuo
+T9	PROCEDIMIENTO 1268 1352	sonda adaptada a lavado vesical continuo, para disolución de coágulos intravesicales
+T10	PROCEDIMIENTO 1382 1396	lavado vesical
+T11	PROCEDIMIENTO 1568 1582	lavado vesical
+T12	PROCEDIMIENTO 2049 2063	lavado vesical
+T13	PROCEDIMIENTO 2078 2153	colocación de un catéter epidural lumbar en el espacio intervertebral L3-L4
+T14	PROCEDIMIENTO 2399 2415	bloqueo epidural
+T15	PROCEDIMIENTO 2550 2593	bloqueo sensitivo a nivel del dermatoma T12
+T16	PROCEDIMIENTO 2603 2616	bloqueo motor
+T17	PROCEDIMIENTO 2902 2922	anestesia intradural
+T18	PROCEDIMIENTO 2929 2965	adenomectomía prostática retropúbica
+T19	PROCEDIMIENTO 3011 3035	analgesia postoperatoria
+T20	PROCEDIMIENTO 3191 3218	lavados continuos vesicales
+T21	PROCEDIMIENTO 3439 3455	catéter epidural
+T22	PROCEDIMIENTO 3461 3503	heparinización profiláctica postoperatoria
+T23	PROCEDIMIENTO 3688 3704	bloqueo epidural
+T24	PROCEDIMIENTO 3747 3761	espasmolíticos
+T25	PROCEDIMIENTO 3526 3564	lavado vesical continuo postoperatorio
+T26	PROCEDIMIENTO 2270 2322	perfusión de levobupivacaína al 0,125% con fentanilo
+T27	PROCEDIMIENTO 2789 2798	analgesia
+T28	PROCEDIMIENTO 908 938	estudio con técnicas de imagen
+T29	PROCEDIMIENTO 2726 2742	catéter epidural

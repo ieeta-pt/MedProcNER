@@ -1,0 +1,22 @@
+T1	PROCEDIMIENTO 422 520	RTU de vejiga resecándose una masa de aspecto infiltrante que ocupa toda la cara lateral izquierda
+T2	PROCEDIMIENTO 1009 1064	cistoprostatectomia radical con derivación tipo Bricker
+T3	PROCEDIMIENTO 172 191	citologías de orina
+T4	PROCEDIMIENTO 583 604	nefrostomía izquierda
+T5	PROCEDIMIENTO 231 250	ecografía abdominal
+T6	PROCEDIMIENTO 760 779	TAC toracoabdominal
+T7	PROCEDIMIENTO 788 804	gammagrafía ósea
+T8	PROCEDIMIENTO 814 846	pielografía retrógrada izquierda
+T9	PROCEDIMIENTO 1516 1548	transfundir hematíes y plaquetas
+T10	PROCEDIMIENTO 1832 1845	TAC abdominal
+T11	PROCEDIMIENTO 2376 2418	punción-aspiración esternal de médula ósea
+T12	PROCEDIMIENTO 2558 2594	tratamiento hemoterápico sustitutivo
+T13	PROCEDIMIENTO 2607 2633	tratamiento quimioterápico
+T14	PROCEDIMIENTO 609 628	anatomía patológica
+T15	PROCEDIMIENTO 1069 1088	anatomía patológica
+T16	PROCEDIMIENTO 2051 2062	coagulación
+T17	PROCEDIMIENTO 1899 1907	drenajes
+T18	PROCEDIMIENTO 735 755	estudio de extensión
+T19	PROCEDIMIENTO 964 984	estudio de extensión
+T20	PROCEDIMIENTO 2248 2270	test de Coombs directo
+T21	PROCEDIMIENTO 1553 1566	función renal
+T23	PROCEDIMIENTO 47 58	penicilinas

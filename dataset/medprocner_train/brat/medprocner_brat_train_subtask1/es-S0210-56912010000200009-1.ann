@@ -1,0 +1,42 @@
+T1	PROCEDIMIENTO 127 140	quimioterapia
+T2	PROCEDIMIENTO 173 199	radioterapia preoperatoria
+T3	PROCEDIMIENTO 284 311	amputación abdominoperineal
+T4	PROCEDIMIENTO 448 463	sedoanalgesiada
+T5	PROCEDIMIENTO 465 473	intubada
+T6	PROCEDIMIENTO 822 854	ventilación mecánica no invasiva
+T7	PROCEDIMIENTO 856 860	VMNI
+T8	PROCEDIMIENTO 879 893	pulsioximetría
+T9	PROCEDIMIENTO 1134 1145	hemocultivo
+T10	PROCEDIMIENTO 1147 1157	urocultivo
+T11	PROCEDIMIENTO 1160 1174	broncoaspirado
+T12	PROCEDIMIENTO 1192 1215	tratamiento antibiótico
+T13	PROCEDIMIENTO 1407 1415	intubada
+T14	PROCEDIMIENTO 1608 1620	TC abdominal
+T15	PROCEDIMIENTO 1709 1719	gasometría
+T16	PROCEDIMIENTO 2011 2066	fibrobroncoscopia con recogida de lavado broncoalveolar
+T17	PROCEDIMIENTO 2068 2071	BAL
+T18	PROCEDIMIENTO 2199 2223	traqueostomía percutánea
+T19	PROCEDIMIENTO 2256 2259	BAL
+T20	PROCEDIMIENTO 2561 2582	tratamiento antiviral
+T21	PROCEDIMIENTO 2662 2699	desconexión progresiva del respirador
+T22	PROCEDIMIENTO 2167 2186	anatomía patológica
+T23	PROCEDIMIENTO 1065 1077	antitérmicos
+T24	PROCEDIMIENTO 1842 1852	extubación
+T25	PROCEDIMIENTO 142 169	análogo del 5-fluorouracilo
+T26	PROCEDIMIENTO 636 648	se la extuba
+T27	PROCEDIMIENTO 986 1000	se la reintuba
+T28	PROCEDIMIENTO 1108 1174	muestras microbiológicas (hemocultivo, urocultivo y broncoaspirado
+T29	PROCEDIMIENTO 2111 2118	cultivo
+T30	PROCEDIMIENTO 476 490	conectada a VM
+T31	PROCEDIMIENTO 1418 1432	conectada a VM
+T32	PROCEDIMIENTO 2121 2163	PCR para herpes, CMV y virus respiratorios
+T33	PROCEDIMIENTO 357 377	inducción anestésica
+T34	PROCEDIMIENTO 259 282	intervención quirúrgica
+T35	PROCEDIMIENTO 1544 1568	muestras microbiológicas
+T36	PROCEDIMIENTO 1755 1788	pruebas respiratorias espontáneas
+T37	PROCEDIMIENTO 1958 1966	cultivos
+T38	PROCEDIMIENTO 2075 2109	se mandan muestras a microbiología
+T39	PROCEDIMIENTO 230 237	cirugía
+T40	PROCEDIMIENTO 1663 1670	cirugía
+T41	PROCEDIMIENTO 2340 2351	histológico
+T42	PROCEDIMIENTO 1514 1525	radiológica

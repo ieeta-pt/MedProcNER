@@ -1,0 +1,36 @@
+T1	PROCEDIMIENTO 2113 2130	anestesia general
+T2	PROCEDIMIENTO 1702 1753	sistema de terapia de vacío en la herida quirúrgica
+T3	PROCEDIMIENTO 1270 1300	Tomografía Axial Computarizada
+T4	PROCEDIMIENTO 1943 1980	desbridamiento del tejido cicatricial
+T5	PROCEDIMIENTO 1302 1305	TAC
+T6	PROCEDIMIENTO 2203 2260	desbridamiento escisional de los bordes de piel invertida
+T7	PROCEDIMIENTO 1322 1358	artrodesis instrumentada desde L1-S1
+T8	PROCEDIMIENTO 1322 1397	artrodesis instrumentada desde L1-S1 con resección de elementos posteriores
+T9	PROCEDIMIENTO 2810 2833	Friedrich de los bordes
+T10	PROCEDIMIENTO 3594 3601	colgajo
+T11	PROCEDIMIENTO 3037 3046	ecografía
+T12	PROCEDIMIENTO 2068 2094	cierre del defecto cutáneo
+T13	PROCEDIMIENTO 2866 2882	colgajo muscular
+T14	PROCEDIMIENTO 2341 2417	colgajo muscular de dorsal ancho reverso basado en los pedículos secundarios
+T15	PROCEDIMIENTO 3152 3169	anestesia general
+T16	PROCEDIMIENTO 3171 3202	evacuamos un hematoma coagulado
+T17	PROCEDIMIENTO 331 362	artrodesis pósterolateral L1-L5
+T18	PROCEDIMIENTO 331 401	artrodesis pósterolateral L1-L5 más injerto de lámina y sustituto óseo
+T19	PROCEDIMIENTO 3235 3251	colgajo muscular
+T20	PROCEDIMIENTO 1585 1606	angioTAC dorso-lumbar
+T21	PROCEDIMIENTO 2543 2681	drenajes espirativos, 2 en la zona donante y 2 en la zona receptora, quedando uno en el plano submuscular y el otro en el plano subcutáneo
+T22	PROCEDIMIENTO 531 580	intervenciones para desbridar el tejido no viable
+T23	PROCEDIMIENTO 612 655	se le colocó un sistema de terapia de vacío
+T24	PROCEDIMIENTO 717 739	Cirugía Reconstructiva
+T25	PROCEDIMIENTO 2686 2735	cierre de la zona donante fue directo, por planos
+T26	PROCEDIMIENTO 1225 1260	estudio de la extensión del defecto
+T27	PROCEDIMIENTO 151 237	intervenciones para posibilitar la marcha adecuada, así como cirugía de columna lumbar
+T28	PROCEDIMIENTO 781 799	cirugía de columna
+T29	PROCEDIMIENTO 1151 1176	material de osteosíntesis
+T30	PROCEDIMIENTO 1799 1834	estudios de imagen y preanestésicos
+T31	PROCEDIMIENTO 1985 2062	cobertura de las estructuras óseas profundas con un tejido bien vascularizado
+T32	PROCEDIMIENTO 2423 2480	trasposición del mismo al defecto lumbar por tunelización
+T33	PROCEDIMIENTO 2483 2529	fijado en el tejido muscular sano perilesional
+T34	PROCEDIMIENTO 2753 2791	cierre de la piel de la zona receptora
+T35	PROCEDIMIENTO 598 610	intervención
+T37	PROCEDIMIENTO 1907 1931	procedimiento quirúrgico

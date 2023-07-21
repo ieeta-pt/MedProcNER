@@ -1,0 +1,26 @@
+T1	PROCEDIMIENTO 3799 3816	nutrición enteral
+T2	PROCEDIMIENTO 3867 3887	corrección natrémica
+T3	PROCEDIMIENTO 1425 1467	reposición natrémica mediante sueroterapia
+T4	PROCEDIMIENTO 3951 3963	sueroterapia
+T5	PROCEDIMIENTO 3966 3985	forzado de diuresis
+T6	PROCEDIMIENTO 942 954	gastrostomía
+T7	PROCEDIMIENTO 5085 5115	dieta enteral por gastrostomía
+T8	PROCEDIMIENTO 4087 4099	gastrostomía
+T9	PROCEDIMIENTO 967 1006	nutrición parenteral por vía periférica
+T10	PROCEDIMIENTO 5118 5139	terapia radioterápica
+T11	PROCEDIMIENTO 1008 1040	tratamiento antibiótico empírico
+T12	PROCEDIMIENTO 424 444	radioterapia radical
+T13	PROCEDIMIENTO 1069 1091	reposición de natremia
+T14	PROCEDIMIENTO 2597 2620	estudio farmacocinético
+T15	PROCEDIMIENTO 1101 1113	sueroterapia
+T16	PROCEDIMIENTO 1808 1820	hemocultivos
+T17	PROCEDIMIENTO 1962 1985	tratamiento antibiótico
+T18	PROCEDIMIENTO 2050 2078	ecocardiograma transtorácico
+T19	PROCEDIMIENTO 4568 4588	radiografía de tórax
+T20	PROCEDIMIENTO 2124 2136	hemocultivos
+T21	PROCEDIMIENTO 3739 3762	tratamiento antibiótico
+T22	PROCEDIMIENTO 4737 4749	sueroterapia
+T23	PROCEDIMIENTO 4418 4432	sueros salinos
+T24	PROCEDIMIENTO 2015 2037	catéter, que se retira
+T26	PROCEDIMIENTO 1317 1326	analítica
+T27	PROCEDIMIENTO 2505 2529	extracción de la muestra

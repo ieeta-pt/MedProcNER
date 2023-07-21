@@ -1,0 +1,18 @@
+T1	PROCEDIMIENTO 1040 1060	radiografía de tórax
+T2	PROCEDIMIENTO 2523 2543	ventilación mecánica
+T3	PROCEDIMIENTO 2557 2570	traqueostomía
+T4	PROCEDIMIENTO 1680 1703	tratamiento antibiótico
+T5	PROCEDIMIENTO 2592 2612	ventilación mecánica
+T6	PROCEDIMIENTO 137 157	resección intestinal
+T7	PROCEDIMIENTO 1719 1748	TC craneal y toraco-abdominal
+T8	PROCEDIMIENTO 175 194	ileostomía terminal
+T9	PROCEDIMIENTO 1215 1229	ecocardiograma
+T10	PROCEDIMIENTO 223 286	NPD mediante un dispositivo intravascular totalmente implantado
+T11	PROCEDIMIENTO 605 628	se sustituyó el catéter
+T12	PROCEDIMIENTO 334 345	corticoides
+T13	PROCEDIMIENTO 1524 1569	cirugía cardiaca para extraer ambos catéteres
+T14	PROCEDIMIENTO 2352 2375	tratamiento antibiótico
+T15	PROCEDIMIENTO 1380 1403	tratamiento antibiótico
+T16	PROCEDIMIENTO 583 595	hemocultivos
+T17	PROCEDIMIENTO 641 710	retirándose solamente el reservorio y la porción proximal del catéter
+T18	PROCEDIMIENTO 2141 2152	se aislaron

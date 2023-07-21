@@ -1,0 +1,30 @@
+T1	PROCEDIMIENTO 742 765	exploración neurológica
+T2	PROCEDIMIENTO 1116 1138	angiofluoresceingrafía
+T3	PROCEDIMIENTO 2584 2607	tratamiento corticoideo
+T4	PROCEDIMIENTO 779 788	hemograma
+T5	PROCEDIMIENTO 2340 2343	PET
+T6	PROCEDIMIENTO 2355 2371	mediastinoscopia
+T7	PROCEDIMIENTO 828 848	radiografía de tórax
+T8	PROCEDIMIENTO 1203 1223	potenciales evocados
+T9	PROCEDIMIENTO 922 933	TAC craneal
+T10	PROCEDIMIENTO 1296 1315	electrorretinograma
+T11	PROCEDIMIENTO 1636 1656	TAC tóraco-abdominal
+T12	PROCEDIMIENTO 945 959	punción lumbar
+T13	PROCEDIMIENTO 1321 1350	resonancia magnética cerebral
+T14	PROCEDIMIENTO 2537 2543	quimio
+T15	PROCEDIMIENTO 2546 2558	radioterapia
+T16	PROCEDIMIENTO 1371 1380	serología
+T17	PROCEDIMIENTO 1737 1749	broncoscopia
+T18	PROCEDIMIENTO 337 362	exploración oftalmológica
+T19	PROCEDIMIENTO 1070 1090	bolos de corticoides
+T20	PROCEDIMIENTO 1093 1107	antiagregación
+T21	PROCEDIMIENTO 1870 1873	PET
+T22	PROCEDIMIENTO 1955 1971	mediastinoscopia
+T23	PROCEDIMIENTO 526 537	funduscopia
+T24	PROCEDIMIENTO 1981 2097	se extrajeron muestras de líquido cefalorraquídeo, plasma y humor acuoso para estudiar el autoanticuerpo CRMP-5-IgG,
+T25	PROCEDIMIENTO 1803 1812	citología
+T26	PROCEDIMIENTO 794 804	bioquímica
+T27	PROCEDIMIENTO 1382 1393	inmunología
+T28	PROCEDIMIENTO 1396 1416	marcadores tumorales
+T29	PROCEDIMIENTO 2823 2842	imagen funduscópica
+T30	PROCEDIMIENTO 449 468	presión intraocular

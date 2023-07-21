@@ -1,0 +1,12 @@
+T1	PROCEDIMIENTO 1349 1372	estudio histopatológico
+T2	PROCEDIMIENTO 1824 1844	marcadores tumorales
+T3	PROCEDIMIENTO 1847 1850	TAC
+T4	PROCEDIMIENTO 246 272	ecografía abdomino-pélvica
+T5	PROCEDIMIENTO 406 427	colonoscopia completa
+T6	PROCEDIMIENTO 452 476	laparoscopia diagnóstica
+T7	PROCEDIMIENTO 682 738	tomografía axial computerizada (TAC) de abdomen y pelvis
+T8	PROCEDIMIENTO 714 717	TAC
+T9	PROCEDIMIENTO 1179 1243	ileocolectomía derecha oncológica con anastomosis ileotransversa
+T10	PROCEDIMIENTO 1217 1243	anastomosis ileotransversa
+T11	PROCEDIMIENTO 1663 1723	ganglios linfáticos que se aislaron de la pieza de resección
+T12	PROCEDIMIENTO 89 98	analítica

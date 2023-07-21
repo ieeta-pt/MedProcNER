@@ -1,0 +1,25 @@
+T1	PROCEDIMIENTO 2255 2267	fisioterapia
+T2	PROCEDIMIENTO 500 538	desbridamiento de tejido desvitalizado
+T3	PROCEDIMIENTO 554 580	reconstrucción del defecto
+T4	PROCEDIMIENTO 623 649	reparación de los tendones
+T5	PROCEDIMIENTO 661 693	reconstrucción del nervio tibial
+T6	PROCEDIMIENTO 698 722	injertos de nervio sural
+T7	PROCEDIMIENTO 725 780	cobertura del defecto con un colgajo de perforantes ALM
+T8	PROCEDIMIENTO 897 904	Doppler
+T9	PROCEDIMIENTO 915 956	disección subfascial estándar del colgajo
+T10	PROCEDIMIENTO 2721 2742	test de monofilamento
+T11	PROCEDIMIENTO 1098 1200	se decide entonces explorar proximalmente la rama transversa de la arteria circunfleja femoral lateral
+T12	PROCEDIMIENTO 1309 1384	se rediseña el colgajo para convertirlo en un colgajo de perforantes de TFL
+T13	PROCEDIMIENTO 1466 1532	se incluye en el colgajo el nervio femorocutáneo lateral del muslo
+T14	PROCEDIMIENTO 1575 1603	reparación del nervio tibial
+T15	PROCEDIMIENTO 1610 1634	injertos de nervio sural
+T16	PROCEDIMIENTO 1671 1707	transferencia y fijación del colgajo
+T17	PROCEDIMIENTO 1713 1864	anastomosis se realizan termino-terminalmente a la arteria tibial posterior y a dos venas, una vena comitante tibial posterior y a la vena safena mayor
+T18	PROCEDIMIENTO 1869 1976	nervio femorocutáneo lateral del colgajo se conecta término-lateralmente al cabo proximal del nervio tibial
+T19	PROCEDIMIENTO 801 881	se diseña un colgajo de 7 x 10 cm en el muslo izquierdo basado en una perforante
+T20	PROCEDIMIENTO 2004 2036	cierre directo de la zona dadora
+T21	PROCEDIMIENTO 2362 2369	muletas
+T22	PROCEDIMIENTO 2372 2392	férula de protección
+T23	PROCEDIMIENTO 2214 2237	intervención quirúrgica
+T24	PROCEDIMIENTO 2407 2414	cirugía
+T25	PROCEDIMIENTO 2490 2497	cirugía

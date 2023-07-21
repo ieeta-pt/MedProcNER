@@ -1,0 +1,23 @@
+T1	PROCEDIMIENTO 1722 1754	tratamiento antibiótico empírico
+T2	PROCEDIMIENTO 1869 1881	craniectomía
+T3	PROCEDIMIENTO 2401 2413	antibiograma
+T4	PROCEDIMIENTO 1214 1232	exploración física
+T5	PROCEDIMIENTO 2043 2055	craniectomía
+T6	PROCEDIMIENTO 384 407	exploración neurológica
+T7	PROCEDIMIENTO 1409 1438	tratamiento anticonvulsivante
+T8	PROCEDIMIENTO 420 440	resonancia magnética
+T9	PROCEDIMIENTO 442 444	RM
+T10	PROCEDIMIENTO 1456 1480	tomografía computarizada
+T11	PROCEDIMIENTO 505 517	craniectomía
+T12	PROCEDIMIENTO 1579 1606	administración de contraste
+T13	PROCEDIMIENTO 677 688	craneotomía
+T14	PROCEDIMIENTO 699 741	colección purulenta epidural que se evacuó
+T15	PROCEDIMIENTO 755 777	estudio microbiológico
+T16	PROCEDIMIENTO 861 881	cultivos bacterianos
+T17	PROCEDIMIENTO 933 949	tratamiento oral
+T18	PROCEDIMIENTO 789 812	antibioterapia empírica
+T19	PROCEDIMIENTO 623 650	administración de gadolinio
+T20	PROCEDIMIENTO 2302 2388	subcultivo en medio sólido y en atmósfera de anaerobiosis del caldo de enriquecimiento
+T21	PROCEDIMIENTO 1909 1962	colección subdural de aspecto purulento que se evacuó
+T22	PROCEDIMIENTO 1976 2024	muestras para microbiología del material drenado
+T23	PROCEDIMIENTO 168 175	cirugía

@@ -1,0 +1,29 @@
+T1	PROCEDIMIENTO 364 373	Hemograma
+T2	PROCEDIMIENTO 787 798	Cistoscopia
+T3	PROCEDIMIENTO 475 494	Ecografía urológica
+T4	PROCEDIMIENTO 552 573	Urografía intravenosa
+T5	PROCEDIMIENTO 196 208	tacto rectal
+T6	PROCEDIMIENTO 1631 1649	exploración física
+T7	PROCEDIMIENTO 387 397	urocultivo
+T8	PROCEDIMIENTO 399 417	citología de orina
+T9	PROCEDIMIENTO 910 951	resección transuretral (RTU) de la lesión
+T10	PROCEDIMIENTO 1098 1118	radiografía de tórax
+T11	PROCEDIMIENTO 2151 2207	cistectomía parcial amplia que incluía la cúpula vesical
+T12	PROCEDIMIENTO 1152 1171	TAC abdominopélvico
+T13	PROCEDIMIENTO 2261 2284	linfadenectomía pélvica
+T14	PROCEDIMIENTO 1829 1882	tratamiento antibiótico parenteral de amplio espectro
+T15	PROCEDIMIENTO 1970 1989	ecografia abdominal
+T16	PROCEDIMIENTO 1068 1088	estudio de extensión
+T17	PROCEDIMIENTO 2806 2826	estudio de extensión
+T18	PROCEDIMIENTO 2463 2482	estudio histológico
+T19	PROCEDIMIENTO 375 385	bioquímica
+T20	PROCEDIMIENTO 2488 2540	diagnóstico anatomopatológico de la pieza quirúrgica
+T21	PROCEDIMIENTO 1472 1494	tratamiento quirúrgico
+T22	PROCEDIMIENTO 412 429	orina y sedimento
+T23	PROCEDIMIENTO 678 696	placa posmiccional
+T24	PROCEDIMIENTO 934 937	RTU
+T25	PROCEDIMIENTO 970 985	histopatológico
+T26	PROCEDIMIENTO 2637 2669	histológico del material mucoide
+T27	PROCEDIMIENTO 2297 2312	acto quirúrgico
+T28	PROCEDIMIENTO 1744 1753	analítica
+T31	PROCEDIMIENTO 2629 2648	informe histológico

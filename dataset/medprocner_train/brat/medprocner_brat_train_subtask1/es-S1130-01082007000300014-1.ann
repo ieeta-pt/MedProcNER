@@ -1,0 +1,14 @@
+T1	PROCEDIMIENTO 96 104	intubado
+T2	PROCEDIMIENTO 592 612	ventilación mecánica
+T3	PROCEDIMIENTO 655 672	fibrobroncoscopia
+T4	PROCEDIMIENTO 783 868	retirándose el tubo orotraqueal hasta epiglotis para una mejor visualización traqueal
+T5	PROCEDIMIENTO 947 1019	traqueotomía percutánea bajo control endoscópico, colocándose una cánula
+T6	PROCEDIMIENTO 1101 1121	destete respiratorio
+T7	PROCEDIMIENTO 1139 1172	cambio de cánula de traqueostomía
+T8	PROCEDIMIENTO 1298 1315	nutrición enteral
+T9	PROCEDIMIENTO 1392 1467	corrigiéndose el defecto por vía esofágica con prótesis metálica recubierta
+T10	PROCEDIMIENTO 1480 1521	gastrostomía percutánea para alimentación
+T11	PROCEDIMIENTO 997 1019	colocándose una cánula
+T12	PROCEDIMIENTO 1605 1618	catecolaminas
+T13	PROCEDIMIENTO 631 643	radiológicos
+T14	PROCEDIMIENTO 1333 1390	fístula traqueoesofágica que se confirmó endoscópicamente

@@ -1,0 +1,28 @@
+T1	PROCEDIMIENTO 2482 2501	antibióticos vía IV
+T2	PROCEDIMIENTO 637 660	antibiótica intravenosa
+T3	PROCEDIMIENTO 2533 2549	inmunosupresores
+T4	PROCEDIMIENTO 1465 1479	desbridamiento
+T5	PROCEDIMIENTO 100 112	hemodiálisis
+T6	PROCEDIMIENTO 677 733	desbridamiento quirúrgico inmediato hasta plano muscular
+T7	PROCEDIMIENTO 2125 2222	curas oclusivas ambulatorias mediante tulgraso antibiótico y gasas impregnadas en povidona yodada
+T8	PROCEDIMIENTO 2580 2597	transplante renal
+T9	PROCEDIMIENTO 1499 1563	cobertura mediante injertos autólogos de piel de espesor parcial
+T10	PROCEDIMIENTO 2603 2628	desbridamiento quirúrgico
+T11	PROCEDIMIENTO 167 202	trasplante renal de donante cadáver
+T12	PROCEDIMIENTO 2637 2648	terapia VAC
+T13	PROCEDIMIENTO 1585 1630	terapia VAC® con apósito Granofoam a 125 mmHg
+T14	PROCEDIMIENTO 2750 2784	injertos autólogos de piel parcial
+T15	PROCEDIMIENTO 1728 1745	cura tras injerto
+T16	PROCEDIMIENTO 971 1025	tratamiento antibiótico intravenoso de amplio espectro
+T17	PROCEDIMIENTO 2913 2946	implantarle 2 expansores cutáneos
+T18	PROCEDIMIENTO 483 516	biopsia y cultivo de las lesiones
+T19	PROCEDIMIENTO 2963 3000	reconstrucción posterior más estética
+T20	PROCEDIMIENTO 1242 1256	desbridamiento
+T21	PROCEDIMIENTO 1284 1327	terapia de presión negativa con sistema VAC
+T22	PROCEDIMIENTO 493 516	cultivo de las lesiones
+T23	PROCEDIMIENTO 1893 1916	tratamiento antibiótico
+T24	PROCEDIMIENTO 211 237	tratamiento inmunosupresor
+T25	PROCEDIMIENTO 849 875	tratamiento inmunosupresor
+T26	PROCEDIMIENTO 1935 1961	tratamiento inmunosupresor
+T27	PROCEDIMIENTO 1187 1194	cultivo
+T28	PROCEDIMIENTO 2335 2346	postinjerto

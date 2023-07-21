@@ -1,0 +1,12 @@
+T1	PROCEDIMIENTO 1510 1523	transfusiones
+T2	PROCEDIMIENTO 104 122	exploración física
+T3	PROCEDIMIENTO 234 244	se biopsió
+T4	PROCEDIMIENTO 1199 1211	gastroscopia
+T5	PROCEDIMIENTO 292 295	TAC
+T6	PROCEDIMIENTO 1373 1380	biopsia
+T7	PROCEDIMIENTO 602 622	quimiorradioterápico
+T8	PROCEDIMIENTO 652 681	radioterapia hiperfraccionada
+T9	PROCEDIMIENTO 890 908	exploración física
+T10	PROCEDIMIENTO 917 920	TAC
+T11	PROCEDIMIENTO 1630 1703	tratamiento radioterápico de carácter paliativo con intención hemostática
+T12	PROCEDIMIENTO 399 418	analítica sanguínea

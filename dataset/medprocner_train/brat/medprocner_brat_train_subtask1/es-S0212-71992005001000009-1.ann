@@ -1,0 +1,17 @@
+T1	PROCEDIMIENTO 1915 1926	hemocultivo
+T2	PROCEDIMIENTO 1938 1955	cultivo de esputo
+T3	PROCEDIMIENTO 155 175	oxigeno domiciliario
+T4	PROCEDIMIENTO 417 435	exploración física
+T5	PROCEDIMIENTO 745 765	radiografía de tórax
+T6	PROCEDIMIENTO 855 864	hemograma
+T7	PROCEDIMIENTO 985 995	gasometría
+T8	PROCEDIMIENTO 1067 1139	cultivos de sangre y esputo en medios generales (agar sangre y chocolate
+T9	PROCEDIMIENTO 1365 1382	cultivo de esputo
+T10	PROCEDIMIENTO 1759 1768	hemograma
+T11	PROCEDIMIENTO 1283 1319	tinciones de Gram y Ziehl del esputo
+T12	PROCEDIMIENTO 2403 2464	se amplificó por PCR la secuencia 16S rDNA del microorganismo
+T13	PROCEDIMIENTO 1164 1188	estudio de micobacterias
+T14	PROCEDIMIENTO 1246 1256	Lowenstein
+T15	PROCEDIMIENTO 2163 2173	Lowenstein
+T16	PROCEDIMIENTO 178 195	broncodilatadores
+T17	PROCEDIMIENTO 2013 2029	tinción de Ziehl

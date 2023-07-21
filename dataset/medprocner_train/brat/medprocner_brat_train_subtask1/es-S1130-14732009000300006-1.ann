@@ -1,0 +1,21 @@
+T1	PROCEDIMIENTO 90 112	anticonceptivos orales
+T2	PROCEDIMIENTO 395 413	examen neurológico
+T3	PROCEDIMIENTO 586 616	tomografía axial computarizada
+T4	PROCEDIMIENTO 1115 1144	resonancia magnética cerebral
+T5	PROCEDIMIENTO 2188 2199	neuroimagen
+T6	PROCEDIMIENTO 2408 2419	lipidograma
+T7	PROCEDIMIENTO 2421 2445	estudio de autoinmunidad
+T8	PROCEDIMIENTO 2558 2592	estudio de líquido cefalorraquídeo
+T9	PROCEDIMIENTO 2594 2612	electrocardiograma
+T10	PROCEDIMIENTO 2614 2644	duplex de troncos supraórticos
+T11	PROCEDIMIENTO 2646 2666	doppler transcraneal
+T12	PROCEDIMIENTO 2668 2684	test de burbujas
+T13	PROCEDIMIENTO 2686 2715	ecocardiografía transtorácica
+T14	PROCEDIMIENTO 2717 2736	holter de arritmias
+T15	PROCEDIMIENTO 2739 2776	angioresonancia de polígono de Willis
+T16	PROCEDIMIENTO 2397 2406	hemograma
+T17	PROCEDIMIENTO 2447 2456	serología
+T18	PROCEDIMIENTO 2458 2476	hormonas tiroideas
+T19	PROCEDIMIENTO 1705 1795	resonancia con secuencias en T1 y EGD con supresión grasa tras administración de gadolinio
+T20	PROCEDIMIENTO 2386 2395	analítica
+T22	PROCEDIMIENTO 3385 3392	cirugía

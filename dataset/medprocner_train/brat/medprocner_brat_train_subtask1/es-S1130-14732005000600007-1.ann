@@ -1,0 +1,10 @@
+T1	PROCEDIMIENTO 1138 1161	estudio histopatológico
+T2	PROCEDIMIENTO 584 603	analítica de sangre
+T3	PROCEDIMIENTO 618 638	radiografía de tórax
+T4	PROCEDIMIENTO 663 681	TAC y RM de cráneo
+T5	PROCEDIMIENTO 329 352	exploración neurológica
+T6	PROCEDIMIENTO 605 615	bioquímica
+T7	PROCEDIMIENTO 926 965	administración de contraste intravenoso
+T8	PROCEDIMIENTO 1005 1133	abordaje trans-temporal a través de la circunvolución temporal media con extirpación macroscópicamente completa de la tumoración
+T9	PROCEDIMIENTO 1786 1809	intervención quirúrgica
+T10	PROCEDIMIENTO 2035 2053	estudios de imagen
