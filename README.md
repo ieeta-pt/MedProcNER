@@ -33,7 +33,7 @@ Prerequisites: Python version 3.9 (minimum); We used Python version 3.10
 ```bash
 git clone https://github.com/ieeta-pt/MedProcNER.git
 chmod +x setup.sh 
-bash setup.sh # installs environments and requirement dependencies
+./setup.sh # installs environments and requirement dependencies
 ```
 
 ## Replicating Submissions
