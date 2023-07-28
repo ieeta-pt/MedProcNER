@@ -105,5 +105,10 @@ For any issue you encounter with the repository or code, please report it to the
 If you find this helpful work and use it in your own research, please cite our paper as follows:
 
 ```bibtex
-Put your citation here. 
+@inproceedings{bituaMedprocner,
+title={ {BIT.UA} at {M}ed{P}roc{N}er: Discovering Medical Procedures in Spanish Using Transformer Models with {MCRF} and Augmentation},
+author={Almeida, Tiago and Jonker, Richard A. A. and Poudel, Roshan and Silva, Jorge M. and Matos, Sérgio},
+booktitle={Working Notes of CLEF 2023 - Conference and Labs of the Evaluation Forum},
+year={2023}
+}
 ```
