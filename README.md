@@ -3,7 +3,7 @@
 ![Main Image](figures/NER_main.pdf)
 
 ## Overview
-This repository hosts the work detailed in our paper, [BIT.UA at MedProcNer: Discovering Medical Procedures in Spanish Using Transformer Models with MCRF and Augmentation](link_to_the_paper).
+This repository hosts the work detailed in our paper, [BIT.UA at MedProcNer: Discovering Medical Procedures in Spanish Using Transformer Models with MCRF and Augmentation](https://www.dei.unipd.it/~faggioli/temp/CLEF2023-proceedings/paper-05.pdf).
 
 ## Contributors
 - [Tiago Almeida](https://t-almeida.github.io/online-cv/) - tiagomeloalmeida@ua.pt - ORCID: 0000-0002-4258-3350
