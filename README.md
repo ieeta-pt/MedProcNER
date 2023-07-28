@@ -1,6 +1,6 @@
 # BIT.UA at MedProcNer: Discovering Medical Procedures in Spanish Using Transformer Models with MCRF and Augmentation
 
-![Main Image](figures/NER_main.pdf)
+![Main Image](figures/NER_main.jpg)
 
 ## Overview
 This repository hosts the work detailed in our paper, [BIT.UA at MedProcNer: Discovering Medical Procedures in Spanish Using Transformer Models with MCRF and Augmentation](https://www.dei.unipd.it/~faggioli/temp/CLEF2023-proceedings/paper-05.pdf).
