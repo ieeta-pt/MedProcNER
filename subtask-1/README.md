@@ -36,6 +36,7 @@ To run the ensemble model, use `ensemble_inference.py` script. Here's how to use
 ```bash
 python ensemble_inference.py <runs> --out=<output_file>
 ```
+By default this will perform entity level ensembling.
 
 Where the arguments are defined as follows:
 - `<runs>`: The list of run files.
