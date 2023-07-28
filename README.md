@@ -77,7 +77,7 @@ cd ../subtask-3
 ```
 
 This script performs the following steps:
-1. Converts the identified medical concepts from Subtask-2 into an index list.
+1. Get the concepts from each document and concider all of them as the document index.
 2. The resulting index list represents the results for Subtask-3 and is ready for submission.
 
 By running these scripts, you can replicate our submissions for each subtask.
